@@ -6,11 +6,17 @@
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
-    background-clip: padding-box
+    background-clip: padding-box;
+    border: 2.2px solid #d9d7e0;
+  }
+  &__photo:hover {
+    opacity: 0.77;
+    border: 2.2px solid #6582a1;
   }
 
   &__title {
-    font-size: $typographic-base-font-size * 1.125;
+    font-size: $typographic-base-font-size * 1.375;
+    text-shadow: 3px 3.3px black;
     font-weight: 600;
     @include line-height(1.125);
     @include margin(.5, 0, .5, 0);
@@ -31,6 +37,7 @@
     color: $color-gray;
     @include line-height(1);
     @include margin-bottom(1)
+    text-align: right;
   }
 
 }

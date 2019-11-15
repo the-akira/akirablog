@@ -7,6 +7,7 @@ html {
 
 body {
   margin: 0 0 0 calc(100vw - 100%);
+  background-color: #131217;
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
@@ -76,6 +77,35 @@ img {
   display: block;
   margin: inherit auto;
 }
+
+img[alt='Neo-Tokyo'] {
+  border: 1px solid white;
+}
+
+img[alt='Neo-Tokyo']:hover {
+  opacity: 0.8;
+}
+
+table {
+  width: 75%;
+}
+
+table, th, td {
+  border: 1px solid #fdf6e3;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+tr:hover {background-color: black;}
 
 hr {
   margin-top: 52px;

@@ -4,6 +4,10 @@
 .feed {
   &__item {
     @include margin-bottom(1.25);
+    border: 1px solid white;
+    padding: 18px;
+    border-radius: 18px;
+    background-color: #070808;
 
     &:last-child {
       @include margin-bottom(.5);
@@ -11,17 +15,19 @@
 
     &-title {
       font-size: $typographic-base-font-size * 1.6875;
+      text-shadow: 1.3px 1.3px gray;
       @include line-height(1.5);
       @include margin-top(0);
-      @include margin-bottom(.5);
+      @include margin-bottom(.1);
 
       &-link {
         color: $color-base;
 
         &:hover,
         &:focus {
-          color: $color-base;
+          color: #6582a1;
           border-bottom: 1px solid $color-base;
+          text-shadow: 1.33px 1.33px gray;
         }
 
       }
@@ -31,7 +37,7 @@
     &-description {
       font-size: $typographic-base-font-size;
       @include line-height(1);
-      @include margin-bottom(.75);
+      @include margin-bottom(.66);
     }
 
     &-meta {

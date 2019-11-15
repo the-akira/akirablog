@@ -1,43 +1,43 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://akirablog.surge.sh',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'akira blog - ciência da computação',
+  subtitle: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação utilizando principalmente a linguagem de programação Python e suas infinitas aplicações. Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação. Obrigado por sua visita ♥',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Sobre',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Tags',
+      path: '/tags/'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'akira blog アキラ',
+    photo: '/HAL.jpeg',
+    bio: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação e compartilhar conhecimento; utilizando principalmente a linguagem de programação Python e suas infinitas aplicações; Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação e Matemática. Muito Obrigado por sua visita ♥',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'akirascientist@gmail.com',
+      facebook: 'gabriellfelippe',
+      telegram: '',
+      twitter: 'akirascientist',
+      github: 'the-akira',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: ''
