@@ -12,7 +12,7 @@ Conhecimentos que possuo:
 
   - **Linguagens:** HTML, CSS, Javascript, PHP, Bash, C, SQL, Python;
   - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Matplotlib, Beautifulsoup;
-  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git;
+  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Jupyter Lab;
   - **Sistemas Operacionais:** Ubuntu Linux, Windows Systems;
   - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise de Dados, Matemática, Games;
 
@@ -23,7 +23,7 @@ Alguns de meus projetos incluem:
 - [Secret Library](https://secretlibrary.herokuapp.com): Uma simples biblioteca open-source feita com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Gerador de Sites Estáticos open-source feito com Flask;
 
-O blog akira foi criado com o intuito de compartilhar conhecimento e trazer mais conteúdos para a comunidade open-source de língua Portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. conheça mais sobre akira
+O blog akira foi criado com o intuito de compartilhar conhecimento e trazer mais conteúdos para a comunidade open-source de língua Portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. 
 
 <figure class="float-right" style="width: 400px">
 	<a href="https://en.wikipedia.org/wiki/Akira_(1988_film)"><img src="/media/akira.jpg" alt="Neo-Tokyo"></a>
