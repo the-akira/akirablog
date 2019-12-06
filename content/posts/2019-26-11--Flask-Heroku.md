@@ -4,7 +4,7 @@ date: "2019-11-26T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/flask-heroku/"
-category: "Fundamentos"
+category: "Flask"
 tags:
   - "Fundamentos"
   - "Flask"
