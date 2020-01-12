@@ -10,7 +10,7 @@ tags:
 description: "Este projeto é a reunião de recursos de alto nível disponíveis na Web sobre Ciência da Computação (em diversos idiomas)."
 ---
 
-![alt text](https://i.imgur.com/eIFnGfg.png "")
+![alt text](https://i.imgur.com/Q5d8RG3.png "")
 
 <p align="center">
 	Este projeto é a reunião de recursos de alto nível disponíveis na Web sobre Ciência da Computação (em diversos idiomas).

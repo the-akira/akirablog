@@ -879,6 +879,11 @@ Através desse pequeno tutorial fomos capazes de aprender conceitos fundamentais
 
 Com essa base, agora podemos avançar criando aplicações mais complexas, com **models** mais elaborados e consultas diversificadas.
 
+Como desafio a você, convido-te a implementar [Markdown](https://en.wikipedia.org/wiki/Markdown) em nosso Blog, para isso, você pode utilizar os seguintes **apps**:
+
+- [Django Markdownify - A Django Markdown filter](https://django-markdownify.readthedocs.io/en/latest/)
+- [Django MarkdownX](https://neutronx.github.io/django-markdownx/)
+
 Para fortalecer seus conhecimentos, recomendo fortemente você seguir os seguintes tutoriais:
 
 - [Tutorial Oficial Django: Escrevendo seu primeiro Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
