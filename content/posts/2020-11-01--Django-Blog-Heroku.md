@@ -281,7 +281,7 @@ class PostListView(ListView):
 	paginate_by = 4
 ```
 
-Observe que importamos **ListView**, que é uma view genérica baseada em classes feita especialmente para facilitar a nossa vida e o **model Post**, em seguida definimos nossa view chamada de **PostListView**, este nome é definido pelo Django como convenção, esta **view** será responsável por retornar os nossos **Posts** utilizando o template definido por nós como `index.html` e com as datas ordendadas de foram decrescente e com paginação a cada 4 **Posts**.
+Observe que importamos **ListView**, que é uma view genérica baseada em classes feita especialmente para facilitar a nossa vida e o **model Post**, em seguida definimos nossa view chamada de **PostListView**, este nome é definido pelo Django como convenção, esta **view** será responsável por retornar os nossos **Posts** utilizando o template definido por nós como `index.html` e com as datas ordendadas de forma decrescente e com paginação a cada 4 **Posts**. Também setamos o **context\_object\_name** como **posts** definindo assim o nome pelo qual podemos acessar nossos dados no template com o **for loop**. 
 
 Vamos agora editar o arquivo `urls.py` com o seguinte conteúdo:
 
@@ -890,6 +890,6 @@ Para fortalecer seus conhecimentos, recomendo fortemente você seguir os seguint
 - [Django Introduction por Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 - [Tutoriais Django: RealPython](https://realpython.com/tutorials/django/)
 - [Curso Completo de Django para Iniciantes](https://www.youtube.com/watch?v=JT80XhYJdBw)
-- [Série de Tutorias Django: Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Série de Tutoriais Django: Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 Bons estudos!
