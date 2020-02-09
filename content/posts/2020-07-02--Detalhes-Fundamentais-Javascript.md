@@ -193,9 +193,11 @@ A partir da especificação **ES6**, o JavaScript introduziu vários recursos qu
 
 ## Conclusão
 
-Javascript é uma linguagem com diversas particularidades, tornando assim essencial que entendamos os mecanismos por trás da linguagem, para que assim seja possível escrevermos códigos mais eficientes e livre de *bugs*!
+Javascript é uma linguagem moderna com diversas particularidades, tornando assim essencial que entendamos os mecanismos que operam por trás da linguagem, para que assim seja possível escrevermos códigos mais eficientes e livre de *bugs*! 
 
-Esse artigo trouxe um estudo sobre essas peculiaridades para facilitar a sua caminhada perante o aprendizado da linguagem, para masterizar seu conhecimento na linguagem existem recursos excelentes na Web, destaco especialmente:
+Este artigo trouxe um estudo sobre essas peculiaridades e apresentou a sua importância, demonstrando que é essencial entendermos como uma linguagem é construída, dessa forma a sua caminhada perante o aprendizado de Javascript será otimizada. 
+
+Para masterizar seu conhecimento existem recursos excelentes na Web, destaco especialmente:
 
 - **[W3Schools Javascript Tutorial](https://www.w3schools.com/js/)**
 - **[The Modern JavaScript Tutorial](https://javascript.info/)**
@@ -212,7 +214,7 @@ Bons estudos!
 - [What happens inside JavaScript Engine?](https://www.geeksforgeeks.org/what-happens-inside-javascript-engine/)
 - [What is JavaScript Engine?](http://dolszewski.com/javascript/javascript-runtime-environment/)
 - [If Javascript Is Single Threaded, How Is It Asynchronous?](https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd)
-- [Javascript and Asynchronous Magic — Explaining the JS Engine and Event Loop](https://levelup.gitconnected.com/javascript-and-asynchronous-magic-bee537edc2da)
+- [Javascript and Asynchronous Magic - Explaining the JS Engine and Event Loop](https://levelup.gitconnected.com/javascript-and-asynchronous-magic-bee537edc2da)
 - [The Javascript Runtime Environment](https://medium.com/@olinations/the-javascript-runtime-environment-d58fa2e60dd0)
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [So you think you know JavaScript?](https://www.amanexplains.com/so-you-think-you-know-JavaScript/)
