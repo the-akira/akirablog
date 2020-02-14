@@ -34,7 +34,8 @@ Suas três mais importantes características são:
 
 Sites conhecidos que usam o **Django** incluem o Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket, e Nextdoor.
 
-Neste guia você vai criar o seguinte projeto: **https://akiradjango.herokuapp.com/**
+- Neste guia vamos desenvolver juntos o seguinte projeto: **https://akiradjango.herokuapp.com/**
+- Você pode encontrar o código fonte em: **https://github.com/the-akira/Django-Blog-Tutorial**
 
 ## Funcionamento
 
