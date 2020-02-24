@@ -18,7 +18,7 @@ Conhecimentos que possuo:
 
 Alguns de meus projetos incluem:
 
-- [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a Linguagem Python;
+- [Python Iluminado](https://pythoniluminado.surge.sh/): Um guia completo para iniciantes com a Linguagem Python;
 - [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando Teoremas da Matemática com Python;
 - [Secret Library](https://secretlibrary.herokuapp.com): Uma simples biblioteca open-source feita com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Gerador de Sites Estáticos open-source feito com Flask;
@@ -34,6 +34,9 @@ Muito obrigado por sua visita, sinta-se livre para entrar em contato para conver
 
 01000100 01100101 01110101 01110011 00100000 01110011 01110000 01100101 01110011 00100000 01101110 01101111 01110011 01110100 01110010 01100001
 
-<a href="https://dev.to/theakira">
+**[Curriculum Vitae Gabriel](https://gabrielcv.netlify.com/)**
+
+<a class="float-left" href="https://dev.to/theakira">
+  Membro
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gabriel Felippe's DEV Profile" height="50" width="50">
 </a>

@@ -9,6 +9,7 @@ tags:
   - "Javascript"
   - "Programação"
   - "Fundamentos"
+  - "Web"
 description: "Neste artigo vamos estudar detalhes fundamentais sobre Javascript e os mecanismos principais que atuam por trás da linguagem."
 ---
 
