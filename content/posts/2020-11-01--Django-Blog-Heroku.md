@@ -845,7 +845,7 @@ Precisamos agora criar o nosso aplicativo no Heroku, para esta tarefa vamos exec
 heroku create akiradjango
 ```
 
-Veja que escolhi o nome `akiradjango`, escolha o nome que mais lhe agradar. Vamos agora enviar nossa aplicação para o Heroku com os s eguintes conteúdos:
+Veja que escolhi o nome `akiradjango`, escolha o nome que mais lhe agradar. Vamos agora enviar nossa aplicação para o Heroku com os seguintes conteúdos:
 
 ```
 git add .

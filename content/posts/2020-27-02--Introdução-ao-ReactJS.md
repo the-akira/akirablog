@@ -164,8 +164,6 @@ Nossa aplicação já se encontra configurada, agora podemos estudar os conceito
 
 ## Elementos e JSX
 
-### Introdução
-
 JSX é uma sintaxe baseada em XML que nos permite escrever **elementos HTML** em JavaScript e inserí-los no DOM sem nenhum método como **createElement()** ou **appendChild()**.
 
 É importante lembrar que você não precisa obrigatoriamente usar o JSX, mas o JSX facilita e agiliza muito a escrita de aplicativos React.
