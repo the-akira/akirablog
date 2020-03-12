@@ -12,7 +12,7 @@ tags:
 description: "Neste artigo estudaremos os três pilares ao qual a linguagem Javascript é organizada: Escopos/Closures, Prototypes/Objetos e Tipos/Coerção."
 ---
 
-![img](https://i.imgur.com/r2RAWrU.png)
+![img](https://i.ibb.co/BTGr283/pillars.png)
 
 # Conteúdo
 
