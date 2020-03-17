@@ -3,19 +3,21 @@
 
 .author {
   &__photo {
+    width: 145px;
+    height: 145px;
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
     background-clip: padding-box;
-    border: 2.2px solid #d9d7e0;
+    border: 2.5px solid #d9d7e0;
   }
   &__photo:hover {
-    opacity: 0.77;
-    border: 2.2px solid #6582a1;
+    opacity: 0.833;
+    border: 2.5px solid #d9d7e0;
   }
 
   &__title {
-    font-size: $typographic-base-font-size * 1.375;
+    font-size: $typographic-base-font-size * 1.495;
     text-shadow: 3px 3.3px black;
     font-weight: 600;
     @include line-height(1.125);

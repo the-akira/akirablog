@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://akirablog.surge.sh',
   pathPrefix: '/',
-  title: 'akira blog - ciência da computação',
-  subtitle: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação utilizando principalmente a linguagem de programação Python e suas infinitas aplicações. Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação. Obrigado por sua visita!',
+  title: 'akira - ciência da computação',
+  subtitle: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação utilizando principalmente a linguagem de programação Python e suas infinitas aplicações. Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação. Obrigado por sua visita e seja bem-vindo!',
   copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'akira blog アキラ',
-    photo: '/HAL.jpeg',
-    bio: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação e compartilhar conhecimento; utilizando principalmente a linguagem de programação Python e suas infinitas aplicações; Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação e Matemática. Muito obrigado por sua visita!',
+    name: 'akira アキラ',
+    photo: '/buddha.jpg',
+    bio: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação e compartilhar conhecimento; utilizando principalmente a linguagem de programação Python e suas infinitas aplicações; Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação e Matemática. Muito obrigado por sua visita e seja bem-vindo!',
     contacts: {
       email: 'akirascientist@gmail.com',
       facebook: 'gabriellfelippe',

@@ -47,7 +47,8 @@
     & * {
       max-width: $layout-post-width;
       margin-left: auto;
-      margin-right: auto
+      margin-right: auto;
+      text-align: justify;
     }
 
     & img {
