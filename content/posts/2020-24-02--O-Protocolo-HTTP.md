@@ -322,7 +322,7 @@ A função nos retorna uma **promise**, que por sua vez nos permite acessarmos o
 
 ### Conclusão
 
-Através desse pequeno artigo foi possível observamos o tamanho da importância do protocolo HTTP em relação ao Desenvolvimento Web e o  próprio funcionamento da World Wide Web, é através dele que podemos nos comunicar com bilhões de recursos disponíveis em servidores espalhados por todo o Globo e é fundamental que tenhamos o entendimento do seu funcionamento e a forma com que ele vem evoluindo.
+Através desse pequeno artigo foi possível observarmos o tamanho da importância do protocolo HTTP em relação ao Desenvolvimento Web e o  próprio funcionamento da World Wide Web, é através dele que podemos nos comunicar com bilhões de recursos disponíveis em servidores espalhados por todo o Globo e é fundamental que tenhamos o entendimento do seu funcionamento e a forma com que ele vem evoluindo.
 
 ### Referências
 
