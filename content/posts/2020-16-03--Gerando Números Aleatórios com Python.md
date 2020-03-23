@@ -401,7 +401,7 @@ np.normal(size=5)
 
 Consideramos agora a densidade de probabilidade para a distribuição gaussiana, que é
 
-![img](https://i.ibb.co/kgNg6Rs/pdf.png)
+![img](https://i.ibb.co/x51Cv5X/gaussian.png)
 
 Onde **mu** é a **média** e **sigma** o **desvio padrão**. O quadrado do desvio padrão, `sigma^2`, é chamado de **variância**.
 
