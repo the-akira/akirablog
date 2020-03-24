@@ -1,4 +1,4 @@
-# akirablog.surge.sh
+# akiradev.netlify.com
 
 <h1 align="center">
     <img alt="akira" title="akira" src="https://i.imgur.com/0lTHk7w.png" width="400"> </br>
