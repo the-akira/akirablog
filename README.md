@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  Source code for my personal blog page. Powered by <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> and <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">Lumen</a>. Published on <a href="https://surge.sh/" target="_blank">surge.sh</a>.
+  Source code for my personal blog page. Powered by <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> and <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">Lumen</a>. Published on <a href="https://www.netlify.com/" target="_blank">netlify.com</a>.
 </h4>
 
 ## License

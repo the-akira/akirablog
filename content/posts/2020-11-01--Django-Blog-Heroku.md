@@ -518,7 +518,7 @@ def search(request):
     return render(request, 'blog/search.html', context)
 ```
 
-Perceba que importamos duas funções relevantes para nosso mecanismo de busca: `attrgetter` e `Q`. Definimos uma função `get_post_queryset()` responsável por processador os dados digitados pelo usuário e retornar uma lista de valores únicos, filtrando-os em relação ao título e conteúdo de nossos Posts guardados no banco de dados. Por fim, definimos a **view** que chamamos de **search**, ela será responsável por receber o **GET request** e retornar os Posts organizados pelo título em ordem reversa, passando-os para o template.
+Perceba que importamos duas funções relevantes para nosso mecanismo de busca: `attrgetter` e `Q`. Definimos uma função `get_post_queryset()` responsável por processar os dados digitados pelo usuário e retornar uma lista de valores únicos, filtrando-os em relação ao título e conteúdo de nossos Posts guardados no banco de dados. Por fim, definimos a **view** que chamamos de **search**, ela será responsável por receber o **GET request** e retornar os Posts organizados pelo título em ordem reversa, passando-os para o template.
 
 Uma vez que nossas **views** estão definidas, agora precisamos atualizar nosso arquivo `urls.py`, de forma que quando executarmos o **GET request** através do formulário, nossas **views** sejam ativadas! Vamos então editá-lo:
 
