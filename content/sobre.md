@@ -18,7 +18,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 
 <b>Alguns de meus projetos incluem:</b>
 
-- [Python Iluminado](https://pythoniluminado.netlify.com): Um guia completo para iniciantes com a Linguagem Python;
+- [Python Iluminado](https://pythoniluminado.netlify.app): Um guia completo para iniciantes com a Linguagem Python;
 - [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando Teoremas da Matemática com Python;
 - [Secret Library](https://secretlibrary.herokuapp.com): Uma simples biblioteca open-source desenvolvida com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;

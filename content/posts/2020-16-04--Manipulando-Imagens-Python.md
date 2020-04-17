@@ -550,7 +550,7 @@ Obteremos o seguinte output
 
 ![img](https://arquivos.netlify.app/images/japanesecropblur.png)
 
-Observe também que estamos aplicando um filtro **[Gaussian blur](https://en.wikipedia.org/wiki/Gaussian_blur)** que é o resultado de desfocar uma imagem por uma função Gaussiana(em homenagem ao matemático e cientista Carl [Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)). Este é um efeito amplamente usado em software gráfico, geralmente usado para reduzir o ruído da imagem e os seus detalhes.
+Observe também que estamos aplicando um filtro **[Gaussian blur](https://en.wikipedia.org/wiki/Gaussian_blur)** que é o resultado de desfocar uma imagem por uma função Gaussiana(em homenagem ao matemático e cientista [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)). Este é um efeito amplamente usado em software gráfico, geralmente usado para reduzir o ruído da imagem e os seus detalhes.
 
 ### Detectação de Edge
 
