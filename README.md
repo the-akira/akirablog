@@ -1,4 +1,4 @@
-# akiradev.netlify.com
+# akiradev.netlify.app
 
 <h1 align="center">
     <img alt="akira" title="akira" src="https://i.imgur.com/0lTHk7w.png" width="400"> </br>
