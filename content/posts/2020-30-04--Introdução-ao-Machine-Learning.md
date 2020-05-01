@@ -119,11 +119,11 @@ Uma tarefa relacionada é a de **[dimensionality reduction](https://en.wikipedia
 
 Alguns algoritmos podem lidar com dados de treinamento parcialmente rotulados, normalmente muitos dados não-rotulados e um pouco de dados rotulados.
 
-Um exemplo citado pelo autor Aurélien Géron cita os serviços de hospedagem de photos que são capazes de reconhecer a presença de pessoas nas fotografias e marcá-las automaticamente através do aprendizado de marcações anteriores feitas por nós.
+Um exemplo citado pelo autor **[Aurélien Géron](https://github.com/ageron)** cita os serviços de hospedagem de photos que são capazes de reconhecer a presença de pessoas nas fotografias e marcá-las automaticamente através do aprendizado de marcações anteriores feitas por nós.
 
 ### Reinforcement Learning
 
-O *Reinforcement Learning* é complementa diferente dos outros. O sistema de aprendizado nesse caso é chamado de **agente** e tem a capacidade de observar o ambiente, selecionar e executar ações e obter recompensas (ou penalizações na forma de recompensas negativas). Ele então deve aprender por si mesmo qual é a melhor estratégia, chamado de **política**, de forma a receber o máximo de recompensa. A política define qual ação o agente deve escolher qunado estiver em uma determinada situação.
+O *[Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)* é complementa diferente dos outros. O sistema de aprendizado nesse caso é chamado de **agente** e tem a capacidade de observar o ambiente, selecionar e executar ações e obter recompensas (ou penalizações na forma de recompensas negativas). Ele então deve aprender por si mesmo qual é a melhor estratégia, chamado de **política**, de forma a receber o máximo de recompensa. A política define qual ação o agente deve escolher quando estiver em uma determinada situação.
 
 Como exemplo podemos citar os robôs, muitos deles implementam algoritmos de Reinforcement Learning para aprenderem a caminhar. O *[AlphaGo Deepmind](https://deepmind.com/research/case-studies/alphago-the-story-so-far)* é um excelente exemplo de Reinforcement Learning, ele ficou muito conhecido em maio de 2017 quando venceu o campeão mundial **[Ke Jie](https://en.wikipedia.org/wiki/Ke_Jie)** no [jogo Go](https://en.wikipedia.org/wiki/Go_(game)), ele aprendeu sua política de vitória ao analisar milhões de jogos e posteriormente jogar muitos jogos contra si mesmo.
 
