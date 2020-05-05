@@ -329,7 +329,7 @@ Podemos agora finalmente experimentar o Robô
 >>> bot.change_page(5)
 ```
 
-Ao navegarmos até uma página que o elemento esteja fora de alance, teremos a exceção tratada:
+Ao navegarmos até uma página que o elemento esteja fora de alcance, teremos a exceção tratada:
 
 ```python
 >>> bot.change_page(12)

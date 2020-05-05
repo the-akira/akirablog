@@ -73,6 +73,19 @@ As séries temporais são muito complexas porque cada observação depende de al
 
 As séries temporais refletem a [natureza estocástica](https://en.wikipedia.org/wiki/Stochastic) da maioria das medições ao longo do tempo. Assim, os dados podem ser [distorcidos](https://en.wikipedia.org/wiki/Skewness), com média e variação não constantes, não normalmente distribuídas e não amostradas ou independentes aleatoriamente. Outro aspecto não normal das observações de séries temporais é que elas geralmente não são espaçadas uniformemente no tempo devido à falha do instrumento ou simplesmente devido à variação no número de dias em um mês.
 
+## Variações dos Dados das Séries Temporais
+
+As formas de variações mais comuns que encontramos nas Séries Temporais são respectivamente:
+
+- **Variação de Tendência**: Os dados movem-se para cima ou para baixo em um padrão razoavelmente previsível por um longo período de tempo.
+- **Variação Sazonal**: Regular e Periódico, repete-se durante um período específico, como dia, semana, mês, estação etc.
+- **Variação Cíclica**: A palavra "ciclo" refere-se à afluência e depressão do período, altos e baixos, *"booms e slums"* de uma série temporal, mais comumente vistos em ciclos de negócios. Esses ciclos não são estritamente periódicos, como o da variação sazonal, mas geralmente ocorrem em um período de 3 a 12 anos, dependendo da natureza da série temporal.
+- **Variação Aleatória**: Irregular ou Residual, não se enquadra em nenhuma das três classificações acima.
+
+O gráfico a seguir ilustra a ideia das variações de dados de Séries Temporais
+
+![img](https://i.ibb.co/9GnrLY1/variations-of-time-series.png)
+
 ## Métodos para Análises
 
 Os métodos para análise de séries temporais podem ser divididos em duas classes: 
