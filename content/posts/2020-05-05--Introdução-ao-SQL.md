@@ -230,11 +230,11 @@ from create_con import create_connection
 
 DB = 'sqlite.db'
 conn = create_connection(DB)
+cur = conn.cursor()
 
 def create_author(conn, author):
 	sql = """INSERT INTO authors(name,born_date)
 		VALUES(?,?)"""
-	cur = conn.cursor()
 	try:
 		with conn:
 			cur.execute(sql, author)
@@ -245,7 +245,6 @@ def create_author(conn, author):
 def create_books(conn, books):
 	sql = """INSERT INTO books(title,author_id)
 		VALUES(:title,:author_id)"""
-	cur = conn.cursor()
 	try:
 		with conn:
 			cur.executemany(sql, books)
@@ -321,16 +320,15 @@ from create_con import create_connection
 
 DB = 'sqlite.db'
 conn = create_connection(DB)
+cur = conn.cursor()
 
 def select_book(conn, id):
-	cur = conn.cursor()
 	cur.execute('SELECT * from books WHERE id=:id', {'id':id})
 
 	row = cur.fetchone()
 	print(row)
 
 def select_books(conn):
-	cur = conn.cursor()
 	cur.execute('SELECT * from books')
 
 	rows = cur.fetchall()
@@ -338,14 +336,12 @@ def select_books(conn):
 		print(row)
 
 def select_author(conn, id):
-	cur = conn.cursor()
 	cur.execute('SELECT * from authors WHERE id=?', (id,))
 
 	row = cur.fetchone()
 	print(row)
 
 def select_authors(conn):
-	cur = conn.cursor()
 	cur.execute('SELECT * from authors')
 
 	rows = cur.fetchall()
