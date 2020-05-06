@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://akirablog.surge.sh',
+  url: 'https://akiradev.netlify.app',
   pathPrefix: '/',
   title: 'akira - ciência da computação',
   subtitle: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação utilizando principalmente a linguagem de programação Python e suas infinitas aplicações. Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação. Obrigado por sua visita e seja bem-vindo!',
