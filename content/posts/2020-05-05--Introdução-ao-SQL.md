@@ -307,7 +307,7 @@ with conn:
 	update_book(conn,book)
 ```
 
-Depois de nos conectar ao banco de dados, definimos uma função **update_book()** que recebeŕá como parâmetro uma conexão e um livro a ser atualizado, em seguida definimos uma tupla que representará um livro a ser atualizado, nesse caso estamos fornecendo o **título do livro**, **o novo id** e o **id antigo**, finalmente atualizamos o banco de dados com a função **update_book()**.
+Depois de nos conectar ao banco de dados, definimos uma função **update_book()** que recebeŕá como parâmetro uma conexão e um livro a ser atualizado, em seguida definimos uma tupla que representará um livro a ser atualizado, nesse caso estamos fornecendo o **título do livro**, **o novo id do autor** e o **id do livro**, finalmente atualizamos o banco de dados com a função **update_book()**.
 
 ## Selecionando Dados do Banco de Dados
 
