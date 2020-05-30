@@ -307,7 +307,7 @@ with conn:
 	update_book(conn,book)
 ```
 
-Depois de nos conectar ao banco de dados, definimos uma função **update_book()** que recebeŕá como parâmetro uma conexão e um livro a ser atualizado, em seguida definimos uma tupla que representará um livro a ser atualizado, nesse caso estamos fornecendo o **título do livro**, **o novo id do autor** e o **id do livro**, finalmente atualizamos o banco de dados com a função **update_book()**.
+Depois de nos conectarmos ao banco de dados, definimos uma função **update_book()** que recebeŕá como parâmetro uma conexão e um livro a ser atualizado, em seguida definimos uma tupla que representará um livro a ser atualizado, nesse caso estamos fornecendo o **título do livro**, **o novo id do autor** e o **id do livro**, finalmente atualizamos o banco de dados com a função **update_book()**.
 
 ## Selecionando Dados do Banco de Dados
 
@@ -400,7 +400,7 @@ with conn:
 Logo depois de nos conectarmos com o banco de dados, definimos duas funções:
 
 - **delete_book()**: no qual recebe uma conexão e um id como parâmetro e deleta o livro com o id especificado.
-- **delete_all_authors()**: que recebe uma conexão como parâmetro e deleta todos os autores do banco de dados.
+- **delete\_all\_authors()**: que recebe uma conexão como parâmetro e deleta todos os autores do banco de dados.
 
 Por fim, com muito cuidado, sabendo que perderemos os dados, executamos ambas as funções.
 
