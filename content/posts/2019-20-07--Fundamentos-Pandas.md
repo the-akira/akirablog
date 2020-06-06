@@ -12,7 +12,7 @@ tags:
 description: "Pandas é uma biblioteca Python que fornece estruturas de dados rápidas, flexíveis e expressivas."
 ---
 
-![img](https://i.ibb.co/3d7JMXx/pandas-logo.png)
+![img](https://i.ibb.co/tqwvwTr/pandas-python.png)
 
 # Conteúdo
 
