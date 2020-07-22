@@ -8,7 +8,7 @@ category: "Programação"
 tags:
   - "Fundamentos"
   - "Python"
-description: "Neste tutorial vamos explorar o módulo sqlite3 do Python. Este que nos fornece uma Interface SQL compatível com o DB-API 2.0, nos permitindo criar tabelas, executar consultas e manipular de dados."
+description: "Neste tutorial vamos explorar o módulo sqlite3 do Python. Este que nos fornece uma Interface SQL compatível com o DB-API 2.0, nos permitindo criar tabelas, executar consultas e manipular dados."
 ---
 
 ![img](https://i.ibb.co/HGng4Hf/SQLAvatar.png)

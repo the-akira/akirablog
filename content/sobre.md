@@ -19,8 +19,8 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 <b>Alguns de meus projetos incluem:</b>
 
 - [Python Iluminado](https://pythoniluminado.netlify.app): Um guia completo para iniciantes com a Linguagem Python;
-- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando Teoremas da Matemática com Python;
-- [Secret Library](https://secretlibrary.herokuapp.com): Uma simples biblioteca open-source desenvolvida com Flask;
+- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
+- [Secret Library](https://secretlibrary.herokuapp.com): Uma simples Biblioteca open-source desenvolvida com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
 - [Video Games API](https://videogamesapi.herokuapp.com/): Uma REST API que oferece dados sobre o universo de Games, desenvolvido com o framework Django;
 
@@ -42,6 +42,5 @@ Muito obrigado por sua visita, sinta-se livre para entrar em contato para conver
 **[CV Gabriel Felippe](https://gabrielcv.netlify.com/)**
 
 <a class="float-left" href="https://dev.to/theakira">
-  Membro
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gabriel Felippe's DEV Profile" height="50" width="50">
 </a>

@@ -19,8 +19,8 @@ Conhecimentos que possuo:
 Alguns de meus projetos incluem:
 
 - [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a Linguagem Python;
-- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando Teoremas da Matemática com Python;
-- [Secret Library](https://secretlibrary.herokuapp.com): Uma simples biblioteca open-source feita com Flask;
+- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática com Python;
+- [Secret Library](https://secretlibrary.herokuapp.com): Um simples Gerenciador de Livros open-source feito com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Gerador de Sites Estáticos open-source feito com Flask;
 
 O blog akira foi criado com o intuito de compartilhar conhecimento e trazer mais conteúdos para a comunidade open-source de língua Portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. 
