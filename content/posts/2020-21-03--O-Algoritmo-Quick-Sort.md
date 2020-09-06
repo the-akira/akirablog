@@ -22,7 +22,7 @@ Foi Desenvolvido pelo cientista da computação Tony Hoare em 1959 e publicado e
 
 Ele funciona selecionando um elemento **'pivot'** do array e particionando os outros elementos em dois subarrays, dependendo se são menores ou maiores que o pivot. Os subarrays são então ordenados recursivamente. Isso pode ser feito **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, exigindo pequenas quantidades adicionais de memória para realizar o procedimento de sorting.
 
-A análise matemática em questão de complexidade de tempo do Quick Sort mostra que, em média, o algoritmo faz comparações `O(n log n)` para classificar `n` itens. Na pior das hipóteses, faz comparações de `O(n^2)`, embora esse comportamento seja raro.
+A análise matemática em questão de complexidade de tempo do Quick Sort mostra que, em média, o algoritmo faz comparações `O(nlogn)` para classificar `n` itens. Na pior das hipóteses, faz comparações de `O(n²)`, embora esse comportamento seja raro.
 
 ## Procedimento
 
@@ -132,15 +132,15 @@ Neste caso estamos utilizando uma função de partição que além de receber o 
 
 ### Complexidade Temporal
 
-- Complexidade de **Caso Pior** (Big-O) `O(n^2)`: Ocorre quando o elemento pivot escolhido é sempre o maior ou menor do array
+- Complexidade de **Caso Pior** (Big-O) `O(n²)`: Ocorre quando o elemento pivot escolhido é sempre o maior ou menor do array
 
-- Complexidade de **Caso Melhor** (Big-Ômega) `O(n log n)`: Ocorre quando o elemento pivot é sempre o elemento do meio ou próximo ao elemento do meio
+- Complexidade de **Caso Melhor** (Big-Ômega) `O(nlogn)`: Ocorre quando o elemento pivot é sempre o elemento do meio ou próximo ao elemento do meio
 
-- Complexidade de **Médio Caso** (Big-Theta) `O(n log n)`: Ele ocorre apenas quando as condições acimas não ocorrem
+- Complexidade de **Médio Caso** (Big-Theta) `O(nlogn)`: Ele ocorre apenas quando as condições acimas não ocorrem
 
 ### Complexidade Espacial
 
-A complexidade de espaço do algoritmo Quick Sort é `O(log n)` em grande partes das situações
+A complexidade de espaço do algoritmo Quick Sort é `O(logn)` em grande partes das situações
 
 ## Conclusão
 

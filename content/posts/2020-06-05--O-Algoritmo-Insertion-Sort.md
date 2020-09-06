@@ -18,7 +18,7 @@ description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Inse
 **Insertion Sort** é um algoritmo de ordenação simples que cria o array(ou lista) final ordenando um item por vez. É muito menos eficiente em listas grandes do que algoritmos mais avançados, como **Quick Sort**, **Heap Sort** ou **Merge Sort**. No entanto, a **Ordenação por Inserção** oferece várias vantagens:
 
 - Eficiente para conjuntos de dados pequenos, como outros algoritmos de ordenação quadrática
-- Mais eficiente na prática do que a maioria dos outros algoritmos quadráticos simples (ou seja, `O(n2)`), como **Selection Sort** ou **Bubble Sort**
+- Mais eficiente na prática do que a maioria dos outros algoritmos quadráticos simples (ou seja, `O(n²)`), como **Selection Sort** ou **Bubble Sort**
 - Adaptável, isto é, eficiente para conjuntos de dados que já estão substancialmente ordenados: a complexidade do tempo é `O(kn)` quando cada elemento do *input* está a não mais de **k** locais da sua posição ordenada
 - Estável, ou seja, não altera a ordem relativa dos elementos com chaves iguais
 - In-Place, ou seja, requer apenas uma quantidade constante `O(1)` de espaço de memória adicional
@@ -146,11 +146,11 @@ Finalmente, salvamos a figura como `insertion.gif` com o auxílio do writer **[P
 
 ### Complexidade Temporal
 
-- Complexidade de **Caso Pior** (Big-O): O *input* de pior caso é um array ordenado em ordem inversa. O conjunto de todas as entradas do pior caso consiste em todos os arrays em que cada elemento é o menor ou o segundo menor dos elementos anteriores a ele. Nesses casos, toda iteração do loop interno varrerá e mudará toda a subseção ordenada da matriz antes de inserir o próximo elemento. Isso fornece à ordenação por inserção um tempo de execução quadrático `O(n2)`.
+- Complexidade de **Caso Pior** (Big-O): O *input* de pior caso é um array ordenado em ordem inversa. O conjunto de todas as entradas do pior caso consiste em todos os arrays em que cada elemento é o menor ou o segundo menor dos elementos anteriores a ele. Nesses casos, toda iteração do loop interno varrerá e mudará toda a subseção ordenada da matriz antes de inserir o próximo elemento. Isso fornece à ordenação por inserção um tempo de execução quadrático `O(n²)`.
 
 - Complexidade de **Caso Melhor** (Big-Ômega): O melhor caso de *input* é um array que já está ordenado. Nesse caso, o Insertion Sort tem um tempo de execução linear `O(n)`. Durante cada iteração, o primeiro elemento restante da entrada é comparado apenas com o elemento mais à direita da subseção ordenada do array.
 
-- Complexidade de **Médio Caso** (Big-Theta): O caso médio também é quadrático, `O(n2)`, o que torna o Insertion Sort impraticável para ordenar grandes arrays. No entanto, o Insertion Sort é um dos algoritmos mais rápidos para ordenar arrays muito pequenas, ainda mais rápido que o Quick Sort, de fato, boas implementações de Quick Sort usam Insertion Sort para arrays menores que um determinado limite.
+- Complexidade de **Médio Caso** (Big-Theta): O caso médio também é quadrático, `O(n²)`, o que torna o Insertion Sort impraticável para ordenar grandes arrays. No entanto, o Insertion Sort é um dos algoritmos mais rápidos para ordenar arrays muito pequenas, ainda mais rápido que o Quick Sort, de fato, boas implementações de Quick Sort usam Insertion Sort para arrays menores que um determinado limite.
 
 ### Complexidade Espacial
 
