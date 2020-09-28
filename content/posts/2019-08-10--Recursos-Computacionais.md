@@ -7,13 +7,14 @@ slug: "/posts/recursos-computacao/"
 category: "Fundamentos"
 tags:
   - "Fundamentos"
-description: "Este projeto é a reunião de recursos de alto nível disponíveis na Web sobre Ciência da Computação (em diversos idiomas)."
+  - "Programação"
+description: "Recursos de alto nível para estudantes e pesquisadores de Ciência da Computação (disponíveis em diversos idiomas diferentes)."
 ---
 
 ![alt text](https://i.imgur.com/Q5d8RG3.png "")
 
 <p align="center">
-	Este projeto é a reunião de recursos de alto nível disponíveis na Web sobre Ciência da Computação (em diversos idiomas).
+	Este projeto é a reunião de recursos de alto nível sobre Ciência da Computação, para você masterizar seu conhecimento nesta poderosa Ciência e seus diversos campos.
 </p>
 
 ## Conteúdo
@@ -24,10 +25,13 @@ description: "Este projeto é a reunião de recursos de alto nível disponíveis
   - [Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo&t)
   - [MIT Courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   - [MIT 6.00 Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)
+  - [MIT 6.0001 Introduction to Computer Science & Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+  - [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
   - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
   - [Everything Computer Science](https://everythingcomputerscience.com/)
 - Computer Fundamentals
+  - [Algorithms & Data Structures](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/algorithms_data_structures.md)
   - [Computer Architecture](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_architecture.md)
   - [Operating Systems](https://github.com/the-akira/computer_science_web_resources/blob/master/db/operating_systems.md)
   - [Mathematics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/mathematics.md)
@@ -40,7 +44,7 @@ description: "Este projeto é a reunião de recursos de alto nível disponíveis
   - [Computer Networks](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
   - [Computer Graphics](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_graphics.md)
   - [Virtual Reality](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/virtual_reality.md)
-- Programming
+- Programming Languages
   - [Assembly](https://github.com/the-akira/computer_science_web_resources/blob/master/db/assembly.md)
   - [C](https://github.com/the-akira/computer_science_web_resources/blob/master/db/c.md)
   - [C++](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cpp.md)

@@ -35,7 +35,7 @@ Suas três mais importantes características são:
 
 Sites conhecidos que usam o **Django** incluem o Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket, e Nextdoor.
 
-- Neste guia vamos desenvolver juntos o seguinte projeto: **https://akiradjango.herokuapp.com/**
+- Neste guia vamos desenvolver juntos o seguinte projeto: **https://akiradjango.herokuapp.com**
 - Você pode encontrar o código fonte em: **https://github.com/the-akira/Django-Blog-Tutorial**
 
 ## Funcionamento
@@ -44,7 +44,7 @@ Em um site tradicional orientado a dados, uma aplicação Web aguarda solicitaç
 
 Os aplicativos da web Django geralmente agrupam o código que lida com cada uma dessas etapas em arquivos separados, vejamos a estrutura: 
 
-![img](https://media.prod.mdn.mozit.cloud/attachments/2016/09/23/13931/9db08f02b23e353bcd1597947e612079/basic-django.png)
+![img](https://i.ibb.co/YNq9TS2/django.png)
 
 - **URL's:** Um mapeador de URL é usado para redirecionar solicitações HTTP para a visualização apropriada com base na URL de solicitação.
 - **View:** Uma **view** é uma função **request handler**, que recebe solicitações HTTP e retorna respostas HTTP. As **views** acessam os dados necessários para satisfazer solicitações por meio de modelos e delegam a formatação da resposta aos modelos.
