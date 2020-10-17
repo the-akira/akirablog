@@ -14,6 +14,15 @@ description: "Neste guia vamos experimentar as funcionalidades da biblioteca ran
 
 ![img](https://i.ibb.co/pnW7LPY/Sem-T-tulo-1.png)
 
+<figure>
+    <blockquote>
+        <p>"Not only does God play dice, but... he sometimes throws them where they cannot be seen."</p>
+        <footer>
+            <cite>— Stephen Hawking</cite>
+        </footer>
+    </blockquote>
+</figure>
+
 ## Conteúdo
 
 - [Introdução](#introdução)
@@ -378,7 +387,7 @@ Executando o exemplo nos traz uma lista com 8 números entre 0 e 9.
 
 A função `normal()` retira amostras aleatórias de uma distribuição normal(gaussiana).
 
-A função densidade de probabilidade da distribuição normal, derivada pela primeira vez por De Moivre e 200 anos depois por Gauss e Laplace independentemente, é freqüentemente chamada de curva de sino devido à sua forma característica.
+A função densidade de probabilidade da distribuição normal, derivada pela primeira vez por [De Moivre](https://en.wikipedia.org/wiki/Abraham_de_Moivre) e 200 anos depois por [Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) e [Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) independentemente, é freqüentemente chamada de curva de sino devido à sua forma característica.
 
 A função `normal` espera os parâmetros:
 
@@ -399,13 +408,15 @@ np.normal(size=5)
 # array([0.47545955,-0.57327425,-0.59239159,0.03916865,-0.1948815])
 ```
 
-Consideramos agora a densidade de probabilidade para a distribuição gaussiana, que é
+Consideramos agora a densidade de probabilidade para a distribuição gaussiana, que possui a respectiva fórmula:
 
-![img](https://i.ibb.co/x51Cv5X/gaussian.png)
+$$
+P(x) = \frac{1}{\sigma \sqrt{2\pi}}e^{-{(x-\mu)^2} /\ {2\sigma^2}}
+$$
 
-Onde **mu** é a **média** e **sigma** o **desvio padrão**. O quadrado do desvio padrão, `sigma^2`, é chamado de **variância**.
+Onde **mu** $(\mu)$ é a **média** e **sigma** $(\sigma)$ o **desvio padrão**. O quadrado do desvio padrão $(\sigma^2)$ é chamado de **variância**.
 
-A função tem seu pico na média e seu "espalhamento" aumenta com o desvio padrão (a função atinge 0,607 vezes o seu máximo em `x + sigma` e `x - sigma`). Isso implica que é mais provável que a função `normal()` retorne amostras próximas da média, em vez de distantes.
+A função tem seu pico na média e seu "espalhamento" aumenta com o desvio padrão (a função atinge 0,607 vezes o seu máximo em $(x + \sigma)$ e $(x - \sigma)$). Isso implica que é mais provável que a função `normal()` retorne amostras próximas da média, em vez de distantes.
 
 Para ilustrar melhor essa ideia, vejamos o seguinte exemplo:
 
