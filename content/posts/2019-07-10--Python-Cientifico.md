@@ -152,9 +152,9 @@ Processamento de imagens em Python. **Scikit-image** é uma coleção de algorit
 
 **Ploty's** é uma biblioteca gráfica em Python que torna possível a publicação de gráficos online de alta qualidade e interactivos. 
 
-**[Keras](https://keras.io/)**
+* **[Keras](https://keras.io/)**
 
-* **Keras**: A Biblioteca Python para *Deep Learning*. Keras é API de alto nível para redes neurais, escrita em Python e capaz de rodar em cima de TensorFlow, CNTK ou Theano. Foi desenvolvida com o foco de possiblitar rápida experimentação. Estar aptp a ir da ideia para o resultado com o menor atraso possível é a chave para um boa pesquisa.
+Keras é uma poderosa biblioteca Python para *Deep Learning*. Keras é uma API de alto nível para redes neurais, escrita em Python e capaz de rodar em cima de TensorFlow, CNTK ou Theano. Foi desenvolvida com o foco de possiblitar rápida experimentação. Estar aptp a ir da ideia para o resultado com o menor atraso possível é a chave para um boa pesquisa.
 
 * **[CNTK](https://github.com/Microsoft/cntk)**
 

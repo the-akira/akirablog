@@ -389,7 +389,7 @@ print(X.shape, y.shape)
 
 Temos respectivamente: `(150, 4)` e `(150,)`, ou seja, um conjunto de 2 Dimensões e um conjunto de 1 Dimensão.
 
-Agora vamos dividir os dados em dois conjuntos: **Treinamento** e **Teste**, para esta tarefa contaremos com o auxílio da função **train_test_split()**
+Agora vamos dividir os dados em dois conjuntos: **Treinamento** e **Teste**, para esta tarefa contaremos com o auxílio da função **train\_test\_split()**
 
 ```python
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=4)
@@ -493,7 +493,7 @@ No campo do Machine Learning e, especificamente, no problema da classificação 
 
 Cada linha da matriz representa as instâncias em uma classe prevista, enquanto cada coluna representa as instâncias em uma classe real (ou vice-versa). O nome deriva do fato de facilitar ver se o sistema está confundindo duas classes (ou seja, geralmente classificando incorretamente uma como outra).
 
-Scikit-Learn nos oferece uma função **plot_confusion_matrix()** que nos permite projetarmos a matriz de confusão de nosso modelo.
+Scikit-Learn nos oferece uma função **plot\_confusion\_matrix()** que nos permite projetarmos a matriz de confusão de nosso modelo.
 
 ```python
 iris = datasets.load_iris()

@@ -6,12 +6,12 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo ao meu blog</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Machine Learning. Eventualmente passei a atuar como freelancer e pesquisador independente, passando a dedicar a maior parte do meu tempo estudando e experimentando a linguagem de programação Python, porém não me limito apenas ela, de fato me interesso pela computação como um todo.
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Machine Learning. Eventualmente passei a atuar como freelancer e pesquisador independente, passando a dedicar a maior parte do meu tempo estudando e experimentando a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo.
 
 <b>Conhecimentos que possuo:</b>
 
   - **Linguagens:** HTML, CSS, Javascript, PHP, Bash, C, SQL, Python;
-  - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Matplotlib, Beautifulsoup;
+  - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Tensorflow, Keras, Matplotlib, Beautifulsoup;
   - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Docker, Jupyter Lab;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
   - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise de Dados, Matemática, Games;
@@ -35,12 +35,14 @@ O blog akira foi criado com o intuito de compartilhar conhecimento e trazer mais
 	<figcaption><a href="https://en.wikipedia.org/wiki/Akira_(1988_film)">conheça mais sobre <b>akira</b></a></figcaption>
 </figure>
 
-Muito obrigado por sua visita, sinta-se livre para entrar em contato para conversarmos sobre projetos e ideias!
+Muito obrigado por sua visita, sinta-se a vontade para entrar em contato para conversarmos sobre projetos e ideias!
 
+<figure style="margin-block-start: 0;margin-inline-start: 0;">
 01000100 01100101 01110101 01110011 00100000 01110011 01110000 01100101 01110011 00100000 01101110 01101111 01110011 01110100 01110010 01100001
+</figure>
 
 **[CV Gabriel Felippe](https://gabrielcv.netlify.com/)**
 
-<a class="float-left" href="https://dev.to/theakira">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gabriel Felippe's DEV Profile" height="50" width="50">
+<a class="float-left" href="https://dev.to/theakira" target="_blank">
+  <img src="https://i.ibb.co/GsmX1Lq/dev-badge.png" alt="Gabriel Felippe's DEV Profile" height="50" width="50">
 </a>

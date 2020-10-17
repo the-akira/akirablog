@@ -6,6 +6,11 @@
   padding: 0 15px;
   margin: 0 auto;
 
+  :global(.katex-display) {
+    margin: auto;
+    text-align: center;
+  }
+
   &__title {
     font-size: $typographic-base-font-size * 2;
     max-width: $layout-post-width;
@@ -24,7 +29,7 @@
 
       & blockquote {
         font-style: italic;
-        text-align: center;
+        text-align: left;
         margin-top: 0;
         @include padding(1, 0);
 
@@ -44,11 +49,18 @@
       text-decoration: underline
     }
 
+    & p {
+      text-align: justify;
+    }
+
+    & li {
+      text-align: justify;
+    }
+
     & * {
       max-width: $layout-post-width;
       margin-left: auto;
       margin-right: auto;
-      text-align: justify;
     }
 
     & img {

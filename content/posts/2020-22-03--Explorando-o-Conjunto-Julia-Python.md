@@ -29,7 +29,9 @@ O Conjunto Julia recebeu o nome do matemático francês **Gaston Julia**, que in
 
 Julia estudou expressões polinomiais racionais de vários graus, neste guia focaremos especificamente na família de conjuntos que são gerados pela fórmula quadrática especial: 
 
-![img](https://i.ibb.co/1XyXSQf/julia.png)
+$$
+f(z) = z^2 + c
+$$
 
 Em que: `z` representa uma variável na forma `a + ib` (sendo **a** e **b** números reais) que pode assumir todos os valores no plano complexo. A quantidade `c` também é definida como um número complexo, mas, para qualquer conjunto de Julia, ele é mantido constante (portanto, é chamado de parâmetro), em outras palavras, há um número infinito de conjuntos Julia, cada um definido para um determinado valor de `c`.
 
@@ -37,7 +39,9 @@ Usada uma vez, a expressão simples `f(z) = z² + c` tem pouco potencial para cr
 
 Quando a saída da expressão `f(z)` é retornada à expressão como um novo valor de `z`, isso é chamado de iteração, um tipo de processo de feedback. Assim, para qualquer `n` iterações:
 
-![img](https://i.ibb.co/xYzyDXL/iter.png)
+$$
+z_{n+1} = f(z) = z_n^2 + c
+$$
 
 Cada novo valor calculado de `f(z)` se torna o valor de entrada subsequente de `z` através do loop de feedback.
 
@@ -92,7 +96,9 @@ plt.savefig('julia_set.png')
 
 Para calcular o polinômio para todos os pixels de uma imagem ao mesmo tempo, criamos uma matriz `Z` e, em seguida, executamos a computação.
 
-![img](https://i.ibb.co/Ng06WQk/Captura-de-tela-de-2020-03-22-23-44-12.png)
+$$
+Z^{(t+1)} = Z^{(t)} * Z^{(t)} + cJ
+$$
 
 Em que * significa a multiplicação de matrizes elemento por elemento. `c` é uma constante complexa e `J` é a matriz unitária com as mesmas dimensões que `Z`. Uma matriz unitária é uma matriz com todos os elementos iguais a 1.
 

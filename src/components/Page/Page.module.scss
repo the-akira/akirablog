@@ -22,6 +22,10 @@
     @include margin(0, 0, 1);
   }
 
+  & p {
+    text-align: justify;
+  }
+
 }
 
 @include breakpoint-sm {

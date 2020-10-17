@@ -142,7 +142,7 @@ authority = [userinfo@]host[:port]
 
 Isso pode ser representado através do diagrama de síntaxe:
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/URI_syntax_diagram.svg/1068px-URI_syntax_diagram.svg.png)
+![img](https://i.ibb.co/XJ8ZGsV/URI-syntax-diagram.png)
 
 O URI compreende então:
 

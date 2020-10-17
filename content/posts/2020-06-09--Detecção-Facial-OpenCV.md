@@ -108,7 +108,7 @@ O método **detectMultiScale** retornará 4 valores:
 - largura (w)
 - altura (h) 
 
-do recurso detectado do rosto. Com base nesses 4 valores, desenharemos um retângulo ao redor da face.
+Respectivos do recurso detectado do rosto. Com base nesses 4 valores, desenharemos um retângulo ao redor da face.
 
 ```python
 for (x, y, w, h) in detections:
