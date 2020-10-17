@@ -36,17 +36,17 @@ Os autores [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) e [Tom M
 
 <blockquote>
     <p>"Machine Learning é o campo de estudo que fornece aos computadores a habilidade de aprender sem que eles sejam explicitamente programados."</p>
-    <footer>
-        <cite>— Arthur Samuel, 1959</cite>
-    </footer>
 </blockquote>
+<footer>
+    <cite>— Arthur Samuel, 1959</cite>
+</footer>
 
 <blockquote>
     <p>"Um computador é dito aprender através de uma experiência E em respeito a uma tarefa T e uma medida de perfomance P, se sua perfomance em T, medida por P, melhorar com a experiência E."</p>
-    <footer>
-        <cite>— Tom Mitchell, 1997</cite>
-    </footer>
 </blockquote>
+<footer>
+    <cite>— Tom Mitchell, 1997</cite>
+</footer>
 
 Podemos por exemplo considerar a tarefa de reconhecimento de emails como **Regulares** ou **Spam**:
 
