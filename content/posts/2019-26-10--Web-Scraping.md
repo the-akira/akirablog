@@ -16,7 +16,7 @@ description: "Explorando Técnicas de Web Scraping com Python"
     <img alt="Python" title="Python-Scraping" src="https://i.imgur.com/Oc3XgpO.png"> </br>
 </h1>
 
-<p align="center">
+<p style="text-align: center;">
 	Explorando Técnicas de Web Scraping com Python
 </p>
 
