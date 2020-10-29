@@ -11,7 +11,7 @@ tags:
 description: "Recursos de alto nível para estudantes e pesquisadores de Ciência da Computação (disponíveis em diversos idiomas diferentes)."
 ---
 
-![alt text](https://i.ibb.co/3rMXLmY/Computer-Sience-Resources.png "")
+![alt text](https://i.ibb.co/FH1v50c/Avatar-CSR.png "")
 
 <p align="center">
 	Este projeto é a reunião de recursos de alto nível sobre Ciência da Computação, para você masterizar seu conhecimento nesta poderosa Ciência e seus diversos campos.
