@@ -12,7 +12,7 @@ tags:
 description: "Pandas é uma biblioteca Python que fornece estruturas de dados rápidas, flexíveis e expressivas."
 ---
 
-![img](https://i.ibb.co/tqwvwTr/pandas-python.png)
+![img](https://i.ibb.co/r3TXjDf/Pandas-Capa.png)
 
 # Conteúdo
 
@@ -67,7 +67,7 @@ Algumas observações:
 
 Vejamos uma ilustração representativa:
 
-![img](https://i.imgur.com/Iok85dD.png)
+![img](https://i.ibb.co/4Jd6ncF/PandasDS.png)
 
 A melhor maneira de pensar sobre as estruturas de dados dos pandas é imaginando recipientes flexíveis para dados dimensionais menores. Por exemplo, DataFrame é um contêiner para Series e Series é um contêiner para escalares. Gostaríamos de poder inserir e remover objetos desses contêineres de maneira semelhante a um dicionário.
 

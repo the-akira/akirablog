@@ -14,7 +14,7 @@ de dados, machine learning, processamento de linguagem natural, análise complex
 mais."
 ---
 
-![img](https://i.imgur.com/gMzk3ti.png)
+![img](https://i.ibb.co/s3gQQGM/Python-Cientifico.png)
 
 ---------------------------------------
 
@@ -179,5 +179,9 @@ O *Microsoft Cognitive Toolkit* é um kit de ferramentas unificado para *Deep Le
 * **[PyBrain](http://pybrain.org/)**
 
 **PyBrain** é uma biblioteca modular de Machine Learning para Python. Seu objetivo é oferecer algortimos flexíveis, fáceis-de-usar, porém poderosos, para tarefas de Machine Learning e também uma variedade de ambientes pré-definidos para testar e comparar seus algoritmos. PyBrain é a abreviação para Python-Based Reinforcement Learning Artificial Intelligence and Neural Network Library.
+
+* **[Dash](https://plotly.com/dash/)**
+
+**Dash** é uma biblioteca de User Interface(UI) para a criação de *Analytical Web Applications*.
 
 ---------------------------------------
