@@ -38,7 +38,7 @@ JavaScript pode ser executada em qualquer dispositivo que possua a **[JavaScript
 Normalmente cada Browser/Navegador incorpora uma **JavaScript Engine** específica, por exemplo:
 
 - **Chrome V8** - Utilizado no Google Chrome. É um projeto de código aberto escrito em C++. O V8 também é usado no Opera, NodeJS e Couchbase.
-- **SpiderMonkey** - O mecanismo de código aberto implementado em C ++. É mantido pela Mozilla Foundation. Você pode encontrá-lo no Firefox.
+- **SpiderMonkey** - O mecanismo de código aberto implementado em C++. É mantido pela Mozilla Foundation. Você pode encontrá-lo no Firefox.
 - **Nitro** - O mecanismo desenvolvido pela Apple. É usado no Safari.
 - **Chakra** - Desenvolvido pela Microsoft como o mecanismo JavaScript do navegador Edge.
 
