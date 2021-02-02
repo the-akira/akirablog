@@ -14,6 +14,15 @@ description: "Turtle graphics é uma forma popular de apresentar a programação
 
 ![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/turtle/Imagens/AvatarTurtle.png)
 
+<figure>
+    <blockquote>
+        <p>"Great things are done by a series of small things brought together."</p>
+        <footer>
+            <cite>— Vincent van Gogh</cite>
+        </footer>
+    </blockquote>
+</figure>
+
 ## Introdução
 
 **Turtle graphics** é uma forma popular de apresentar a programação às crianças. Era parte da linguagem de programação [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) desenvolvida por Wally Feurzeig, Seymour Papert e Cynthia Solomon em 1967.
@@ -509,13 +518,13 @@ Este comando irá remover a marca ou "pegada" de `ID = 13`.
 
 A seguir podemos ver alguns exemplos de artes, construídas com o poder da biblioteca turtle.
 
-#### Hexágonos
+#### Flor
 
-Código-fonte: [hexagons.py](https://github.com/the-akira/PythonExperimentos/blob/master/turtle/hexagons.py)
+Código-fonte: [flowerlife.py](https://github.com/the-akira/PythonExperimentos/blob/master/turtle/flowerlife.py)
 
 Resultado:
 
-![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/turtle/Imagens/hexagon.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/turtle/Imagens/flowerlife.png)
 
 #### Espiral
 
