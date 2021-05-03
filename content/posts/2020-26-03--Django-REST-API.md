@@ -450,7 +450,7 @@ Por fim utilizamos a ferramenta **curl** para testar os endpoints de nossa aplic
 
 Você pode aprimorar o projeto adicionando funcionalidades como a de **pesquisa**, **paginação**, para isso a [documentação oficial](https://www.django-rest-framework.org/) do Django REST framework pode ajudá-lo com maestria, uma vez que ela é muito detalhada e organizada. 
 
-Considere também a escrita de testes automizados para validar cada **endpoint**.
+Considere também a escrita de testes automatizados para validar cada **endpoint**.
 
 Desejo a você uma boa exploração!
 
