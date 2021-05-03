@@ -23,6 +23,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 - [Secret Library](https://secretlibrary.herokuapp.com): Uma simples Biblioteca open-source desenvolvida com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
 - [Video Games API](https://videogamesapi.herokuapp.com/): Uma REST API que oferece dados sobre o universo de Games, desenvolvido com o framework Django;
+- [CC33Z](https://cc33z.herokuapp.com/): Curso de Ciência da Computação 33Z em que eu abordo diversos temas relevantes do Universo dos Computadores.
 
 <b>Contribuições, Projetos e Ideias:</b>
 
