@@ -433,7 +433,7 @@ Perceba que estou alterando o filme de `ID=2`.
 O método **DELETE** nos permite remover recursos específicos de nossa API
 
 ```
-curl -H "Content-Type: application/json" -X DELETE http://localhost:5000/filmes/1/ -H 'Authorization: Token 75c0bba76256298d8d7ea5f204cfad83fe9a174d'
+curl -H "Content-Type: application/json" -X DELETE http://localhost:8000/filmes/1/ -H 'Authorization: Token 75c0bba76256298d8d7ea5f204cfad83fe9a174d'
 ```
 
 Perceba que estou removendo o filme de `ID=1`.

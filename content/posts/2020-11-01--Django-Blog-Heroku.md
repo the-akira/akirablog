@@ -777,6 +777,21 @@ i{
 .pagina-atual{
 	background-color: black !important;
 }
+
+@media screen and (max-width: 600px) {
+    .posts-container {
+        list-style-type: none;
+        margin-left: 0;
+        margin-top: 0;
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+    }
+    .posts{
+        width: 95%;
+        padding: 7px;
+    }
+}
 ```
 
 Nosso projetado está finalizado, agora podemos fazer o deployment dele na plataforma Heroku.
