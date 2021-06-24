@@ -15,13 +15,13 @@ description: "Neste guia vamos desenvolver um Blog completo com o framework Djan
 
 # Conteúdo
 
-1. [Introdução](#introducao)
+1. [Introdução](#introdução)
 2. [Primeiros Passos](#primeiros-passos)
 3. [Construindo o Blog](#construindo-o-blog)
 4. [Deployment no Heroku](#deployment-no-heroku)
-5. [Conclusão](#conclusao)
+5. [Conclusão](#conclusão)
 
-# Introducao
+# Introdução
 
 O **[Django](https://www.djangoproject.com)** é um framework Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático. Construído por desenvolvedores experientes, ele cuida de grande parte do aborrecimento do desenvolvimento Web, para que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É de código aberto e gratuito.
 
@@ -258,7 +258,7 @@ E o arquivo `index.html` contará com o seguinte conteúdo:
 	<div>
 	     <h2>{{ post.titulo }}</h2>
 	     <p>{{ post.conteudo }}</p>
-              <small>{{ post.data|date:"F d, Y" }}</small>
+         <small>{{ post.data|date:"F d, Y" }}</small>
 	</div>
 	{% endfor %}
 {% endblock content %}
@@ -890,7 +890,7 @@ python manage.py createsuperuser
 
 Escolha seu **nome de usuário**, **endereço de email** e defina uma **senha**. Sucesso! Agora podemos navegar até `https://akiradjango.herokuapp.com/admin/` e começar a adicionar **Posts** em nosso Blog.
 
-# Conclusao
+# Conclusão
 
 Através desse pequeno tutorial fomos capazes de aprender conceitos fundamentais do framework Django e através deles criar um simples Blog no qual fizemos o deploy na plataforma Heroku.
 

@@ -16,13 +16,13 @@ description: "Pandas é uma biblioteca Python que fornece estruturas de dados r�
 
 # Conteúdo
 
-1. [Introdução](#introducao)
+1. [Introdução](#introdução)
 2. [Instalação](#instalacao)
 3. [Objetos Pandas](#objetos-pandas)
 4. [Lendo Arquivos](#lendo-arquivos)
-5. [Referências](#referencias)
+5. [Referências](#referências)
 
-# Introducao
+# Introdução
 
 **Pandas** é uma biblioteca **Python** que fornece estruturas de dados rápidas, flexíveis e expressivas. Desenvolvida para tornar o trabalho com dados 'relacionais' e 'rotulados' fácil e intuitivo. Seu objetivo é ser o bloco de construção fundamental de alto nível para fazer análises de dados práticas, com dados reais, em Python. Adicionalmente possui o objetivo maior de ser a mais poderosa e flexível ferramenta open source para análise de dados e manipulação. 
 
@@ -1159,7 +1159,7 @@ Output:
 ',0,1,2,3,4,5,6\n0,OrderDate,Region,Rep,Item,Units,UnitCost,Total\n1,1/6/2018,East,Jones,Pencil,95,1.99,189.05\n2,1/23/2018,Central,Kivell,Binder,50,19.99,999.50\n3,2/9/2018,Central,Jardine,Pencil,36,4.99,179.64\n4,2/26/2018,Central,Gill,Pen,27,19.99,539.73\n5,3/15/2018,West,Sorvino,Pencil,56,2.99,167.44\n6,4/1/2018,East,Jones,Binder,60,4.99,299.40\n7,4/18/2018,Central,Andrews,Pencil,75,1.99,149.25\n8,5/5/2018,Central,Jardine,Pencil,90,4.99,449.10\n9,5/22/2018,West,Thompson,Pencil,32,1.99,63.68\n10,6/8/2018,East,Jones,Binder,60,8.99,539.40\n11,6/25/2018,Central,Morgan,Pencil,90,4.99,449.10\n12,7/12/2018,East,Howard,Binder,29,1.99,57.71\n13,7/29/2018,East,Parent,Binder,81,19.99,1619.19\n14,8/15/2018,East,Jones,Pencil,35,4.99,174.65\n15,9/1/2018,Central,Smith,Desk,2,125.00,250.00\n16,9/18/2018,East,Jones,Pen Set,16,15.99,255.84\n17,10/5/2018,Central,Morgan,Binder,28,8.99,251.72\n18,10/22/2018,East,Jones,Pen,64,8.99,575.36\n19,11/8/2018,East,Parent,Pen,15,19.99,299.85\n20,11/25/2018,Central,Kivell,Pen Set,96,4.99,479.04\n21,12/12/2018,Central,Smith,Pencil,67,1.29,86.43\n22,12/29/2018,East,Parent,Pen Set,74,15.99,1183.26\n23,1/15/2019,Central,Gill,Binder,46,8.99,413.54\n24,2/1/2019,Central,Smith,Binder,87,15.00,1305.00\n25,2/18/2019,East,Jones,Binder,4,4.99,19.96\n26,3/7/2019,West,Sorvino,Binder,7,19.99,139.93\n27,3/24/2019,Central,Jardine,Pen Set,50,4.99,249.50\n28,4/10/2019,Central,Andrews,Pencil,66,1.99,131.34\n29,4/27/2019,East,Howard,Pen,96,4.99,479.04\n30,5/14/2019,Central,Gill,Pencil,53,1.29,68.37\n31,5/31/2019,Central,Gill,Binder,80,8.99,719.20\n32,6/17/2019,Central,Kivell,Desk,5,125.00,625.00\n33,7/4/2019,East,Jones,Pen Set,62,4.99,309.38\n34,7/21/2019,Central,Morgan,Pen Set,55,12.49,686.95\n35,8/7/2019,Central,Kivell,Pen Set,42,23.95,1005.90\n36,8/24/2019,West,Sorvino,Desk,3,275.00,825.00\n37,9/10/2019,Central,Gill,Pencil,7,1.29,9.03\n38,9/27/2019,West,Sorvino,Pen,76,1.99,151.24\n39,10/14/2019,West,Thompson,Binder,57,19.99,1139.43\n40,10/31/2019,Central,Andrews,Pencil,14,1.29,18.06\n41,11/17/2019,Central,Jardine,Binder,11,4.99,54.89\n42,12/4/2019,Central,Jardine,Binder,94,19.99,1879.06\n43,12/21/2019,Central,Andrews,Binder,28,4.99,139.72\n'
 ```
 
-# Referencias
+# Referências
 
 - [Pandas](https://pandas.pydata.org/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
