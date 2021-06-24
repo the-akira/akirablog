@@ -17,7 +17,7 @@ description: "Pandas é uma biblioteca Python que fornece estruturas de dados r�
 # Conteúdo
 
 1. [Introdução](#introdução)
-2. [Instalação](#instalacao)
+2. [Instalação](#instalação)
 3. [Objetos Pandas](#objetos-pandas)
 4. [Lendo Arquivos](#lendo-arquivos)
 5. [Referências](#referências)
@@ -71,7 +71,7 @@ Vejamos uma ilustração representativa:
 
 A melhor maneira de pensar sobre as estruturas de dados dos pandas é imaginando recipientes flexíveis para dados dimensionais menores. Por exemplo, DataFrame é um contêiner para Series e Series é um contêiner para escalares. Gostaríamos de poder inserir e remover objetos desses contêineres de maneira semelhante a um dicionário.
 
-# Instalacao
+# Instalação
 
 Existem algumas maneiras de obtermos a biblioteca Pandas, vamos citar aqui duas fáceis opções. 
 
