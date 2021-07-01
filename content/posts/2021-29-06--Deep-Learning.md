@@ -15,7 +15,7 @@ description: "Estudos e Experimentos sobre Deep Learning usando os frameworks Te
 
 <figure>
     <blockquote>
-        <p>"Any sufficiently advanced technology is indistinguishable from magic."</p>
+        <p>"Qualquer tecnologia suficientemente avançada é indistinta de magia."</p>
         <footer>
             <cite>— Arthur C. Clarke</cite>
         </footer>
