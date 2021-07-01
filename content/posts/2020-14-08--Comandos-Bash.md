@@ -11,9 +11,7 @@ tags:
 description: "Artigos que visam explorar a command-line interface (CLI) com a linguagem de comandos GNU Bash."
 ---
 
-<h1 align="center">
-    <img alt="Bash" src="https://i.ibb.co/W5b899q/bash.png"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/Comandos-Bash/master/Imagens/bash.png)
 
 Artigos que visam explorar a **[command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)** com a linguagem de comandos **[GNU Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**.
 

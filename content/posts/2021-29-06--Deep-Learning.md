@@ -15,7 +15,7 @@ description: "Estudos e Experimentos sobre Deep Learning usando os frameworks Te
 
 <figure>
     <blockquote>
-        <p>"Qualquer tecnologia suficientemente avançada é indistinta de magia."</p>
+        <p>"The only way of discovering the limits of the possible is to venture a little way past them into the impossible."</p>
         <footer>
             <cite>— Arthur C. Clarke</cite>
         </footer>

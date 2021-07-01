@@ -11,9 +11,7 @@ tags:
 description: "Artigos que visam introduzir conceitos essenciais da Ciência da Computação e Programação."
 ---
 
-<h1 align="center">
-    <img src="https://i.ibb.co/RSHPr9c/intro-Comp.png"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Avatar.png)
 
 <p align="center">Artigos que visam introduzir conceitos essenciais da Ciência da Computação e Programação.</p>
 
