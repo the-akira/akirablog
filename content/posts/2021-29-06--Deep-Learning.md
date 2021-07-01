@@ -11,9 +11,16 @@ tags:
 description: "Estudos e Experimentos sobre Deep Learning usando os frameworks Tensorflow e Keras."
 ---
 
-<h1 align="center">
-    <img alt="DeepLearning" src="https://raw.githubusercontent.com/the-akira/DeepLearning/master/Imagens/ArtificialNeuralNetworks.png"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/DeepLearning/master/Imagens/ArtificialNeuralNetworks.png)
+
+<figure>
+    <blockquote>
+        <p>"Any sufficiently advanced technology is indistinguishable from magic."</p>
+        <footer>
+            <cite>— Arthur C. Clarke</cite>
+        </footer>
+    </blockquote>
+</figure>
 
 Estudos e Experimentos sobre Deep Learning usando os frameworks Tensorflow e Keras.
 
