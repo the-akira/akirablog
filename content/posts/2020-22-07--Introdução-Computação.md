@@ -13,6 +13,8 @@ description: "Artigos que visam introduzir conceitos essenciais da Ciência da C
 
 ![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Avatar.png)
 
+## Objetivo
+
 <p align="center">Artigos que visam introduzir conceitos essenciais da Ciência da Computação e Programação.</p>
 
 ## Conteúdo

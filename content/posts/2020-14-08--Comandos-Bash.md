@@ -13,6 +13,8 @@ description: "Artigos que visam explorar a command-line interface (CLI) com a li
 
 ![img](https://raw.githubusercontent.com/the-akira/Comandos-Bash/master/Imagens/bash.png)
 
+## Objetivo
+
 Artigos que visam explorar a **[command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)** com a linguagem de comandos **[GNU Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**.
 
 ## Conteúdo

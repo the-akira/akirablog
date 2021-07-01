@@ -22,6 +22,8 @@ description: "Estudos e Experimentos sobre Deep Learning usando os frameworks Te
     </blockquote>
 </figure>
 
+---------------------------------------
+
 Estudos e Experimentos sobre Deep Learning usando os frameworks Tensorflow e Keras.
 
 ## Conteúdo
