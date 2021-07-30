@@ -12,12 +12,12 @@ tags:
 description: "Guia para Iniciantes com a Linguagem Python"
 ---
 
-<h1 align="center">
-    <img alt="Python" title="Python-Iluminado" src="https://i.imgur.com/je28Hbb.jpg"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/Python-Iluminado/master/Imagens/Avatar.png)
+
+## Projeto
 
 <p align="center">
-	Python Iluminado é um Guia construído especialmente para Iniciantes com a <b>Linguagem Python</b>. O objetivo dele é fornecer uma base sólida do Python e também abordar conceitos essenciais de Algoritmos, Estruturas de Dados & Programação, bem como apresentar uma vasta lista de materiais de estudos para você aperfeiçoar seu conhecimento.
+Python Iluminado é um Guia construído especialmente para Iniciantes com a <b>Linguagem Python</b>. O objetivo dele é fornecer uma base sólida do Python e também abordar conceitos essenciais de Algoritmos, Estruturas de Dados & Programação, bem como apresentar uma vasta lista de materiais de estudos para você aperfeiçoar seu conhecimento.
 </p>
 
 ---------------------------------------
