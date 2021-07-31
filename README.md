@@ -1,7 +1,7 @@
 # akiradev.netlify.app
 
 <h1 align="center">
-    <img alt="akira" title="akira" src="https://i.imgur.com/0lTHk7w.png" width="400"> </br>
+    <img alt="akira" title="akira" src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/avatar.png" width="400"> </br>
 </h1>
 
 <h4 align="center">
