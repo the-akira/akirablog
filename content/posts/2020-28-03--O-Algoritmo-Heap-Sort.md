@@ -44,15 +44,46 @@ Considere um array de `N` elemento distintos em memória, o algoritmo Heap Sort 
 2. Na segunda fase o elemento raiz é eliminado da Heap, sendo assim, movido para o fim do array.
 3. Os elementos que ficaram, podem não ser uma Heap, sendo assim, repetimos os passos `1` e `2` para que tenhamos uma Max-Heap. Os procedimentos se repetem até que tenhamos todos os elementos eliminados, assim teremos nosso array ordenado.
 
-É importante frisar que ao eliminar um elemento da Heap, é necessário decrementar o valor do índice do array em `1`. Os elementos são eliminados em ordem decrescente para um `max heap` e em ordem crescente para `min heap`.
+É importante frisar que ao eliminar um elemento da Heap, é necessário decrementar o valor do índice do array em `1`. Os elementos são eliminados em ordem decrescente para um `max heap` e em ordem crescente para `min heap`. 
 
-Na figura ilustrativa a seguir, construímos uma **Max-Heap**
+## Exemplo
 
-![img](https://i.ibb.co/747tmkK/Heap-Sort.png)
+No diagrama abaixo, inicialmente há um **Array** não-ordenado com 6 elementos e, em seguida, o **max heap** será construído:
+
+![img](https://i.imgur.com/x5LaFLP.png)
+
+Após construir o **max heap**, os elementos no array serão:
+
+```
+Array = [8, 4, 7, 1, 3, 5]
+```
+
+E então as seguintes etapas são executadas:
+
+- **Etapa 1**: 8 é trocado por 5.
+- **Etapa 2**: 8 é desconectado da heap, pois 8 está na posição correta.
+- **Etapa 3**: O max heap é criado e 7 é trocado por 3.
+- **Etapa 4**: 7 é desconectado do heap.
+- **Etapa 5**: O max heap é criado e 5 é trocado por 1.
+- **Etapa 6**: 5 é desconectado do heap.
+- **Etapa 7**: O max heap é criado e 4 é trocado por 3.
+- **Etapa 8**: 4 é desconectado do heap.
+- **Etapa 9**: O max heap é criado e 3 é trocado por 1.
+- **Etapa 10**: 3 é desconectado.
+
+![img](https://i.imgur.com/H56OAUw.png)
+
+Depois de executar todas as etapas, teremos o Array ordenado:
+
+```
+Array = [1, 3, 4, 5, 7, 8]
+```
+
+Vejamos agora como podemos implementar este algoritmo com a linguagem Python.
 
 ## Implementação em Python
 
-A seguinte implementação constrói uma Max-Heap através da função `heapify()`
+A seguinte implementação constrói uma Max-Heap através da função `heapify()`:
 
 ```python
 def heapify(array, n, i): 
@@ -88,7 +119,7 @@ def heap_sort(array):
         heapify(array, i, 0) 
     return array
   
-array = [13,3,9,12,33,27,17,1,91,4]
+array = [4,3,7,1,8,5]
 array_ordenado = heap_sort(array)
 print(array_ordenado)
 ```

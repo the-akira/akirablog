@@ -62,7 +62,7 @@ def quick_sort(array):
         maiores = quick_sort(maiores)
         return menores + lista_pivot + maiores
  
-lista = [3,1,7,26,13,35,77,20,280,55,666,10]
+lista = [51,95,66,72,42,38,39,41,15]
 list_ordenada = quick_sort(lista)
 print(list_ordenada)
 ```
@@ -72,22 +72,39 @@ print(list_ordenada)
 3. Escolhemos um **pivot** de maneira aleatória, percorremos todos os elementos do array e os comparamos com o pivot: os menores são destinados ao array de `menores`, e os maiores para o de `maiores` e o pivot para a `lista_pivot`.
 4. Chamamos novamente a função `quick_sort()` e repetimos o procedimento até que o array esteja ordenado.
 
-A versão *in-place* do Quick Sort tem uma complexidade de espaço de `O(log n)`, mesmo na pior das hipóteses, quando é cuidadosamente implementada. Consideramos a seguinte ilustração que representa os procedimentos dessa versão
+Tecnicamente, o algoritmo quick sort segue as etapas abaixo:
 
-<img src="https://i.ibb.co/28ZkT96/Sem-T-tulo-1.png"> 
+1. Faça qualquer elemento como pivot.
+2. Particionar o array com base no pivot.
+3. Aplicar o quick sort na partição esquerda recursivamente.
+4. Aplicar o quick sort na partição direita recursivamente.
+
+Na ilustração a seguir, fazemos o procedimento de partição do array com base no primeiro pivot selecionado:
+
+![img](https://i.imgur.com/dBOqzAK.png)
+
+Já na seguinte ilustração, aplicamos o algoritmo quick sort recursivamente em todas as partições:
+
+![img](https://i.imgur.com/gIkXW8l.png)
+
+Por fim, obtemos o nosso array na forma ordenada:
+
+![img](https://i.imgur.com/S1JCSvo.png)
+
+A versão *in-place* do Quick Sort tem uma complexidade de espaço de `O(log n)`, mesmo na pior das hipóteses, quando é cuidadosamente implementada. 
 
 Que também se traduziria na seguinte receita:
 
-1. Selecionar o valor do primeiro índice como pivot
-2. Marcar duas variáveis de ponteiro *lower/left* e *upper/right*
-3. *Lower/Left* será um ponteiro para os índices menores
-4. *Upper/Right* será um ponteiro para os índices maiores
-5. Enquanto o valor em *Lower/Left* for menor que o Pivot, mover para a direita
-6. Enquanto o valor em *Upper/Right* for maior que o Pivot, mover para a esquerda
-7. Se ambos os passos `5` e `6` não corresponderem, trocar **Lower/Left** e **Upper/Right**
+1. Selecionar o valor do primeiro índice como pivot.
+2. Marcar duas variáveis de ponteiro *lower/left* e *upper/right*.
+3. *Lower/Left* será um ponteiro para os índices menores.
+4. *Upper/Right* será um ponteiro para os índices maiores.
+5. Enquanto o valor em *Lower/Left* for menor que o Pivot, mover para a direita.
+6. Enquanto o valor em *Upper/Right* for maior que o Pivot, mover para a esquerda.
+7. Se ambos os passos `5` e `6` não corresponderem, trocar **Lower/Left** e **Upper/Right**.
 8. Se `Lower/Left > Upper/Right`, o ponto que eles se encontram é o novo **pivot**.
 
-Vejamos agora essa versão implementada em Python
+Vejamos agora essa versão implementada em Python:
 
 ```python
 def quick_sort(array):
