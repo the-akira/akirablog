@@ -38,9 +38,9 @@ Na etapa de conquista, nós buscamos ordenar ambos os subarrays `X[i..q]` e `X[q
 
 Quando a etapa de conquista alcança o *base case* e nós obtemos dois arrays ordenados `X[i..q]` e `X[q+1..j]` para o array original `X[i..j]`, nós combinamos os resultados, criando um array ordenado `X[i..j]` através dos dois arrays ordenados `X[i..q]` e `X[q+1..j]`.
 
-A figura a seguir visa ilustrar o processo do algoritmo Merge Sort
+A figura a seguir visa ilustrar o procedimento do algoritmo Merge Sort:
 
-![img](https://i.ibb.co/fCN2VXQ/Merge-Sort.png)
+![img](https://i.imgur.com/xi8q8p0.png)
 
 ## Procedimento
 

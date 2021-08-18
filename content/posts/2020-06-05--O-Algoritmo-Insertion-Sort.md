@@ -25,15 +25,27 @@ description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Inse
 
 Quando as pessoas ordenam manualmente as cartas de um deck em uma mão, a maioria usa um método semelhante ao Insertion Sort.
 
+## Algoritmo
+
+Para ordenar um array de tamanho **n** em ordem crescente:
+
+1. Itere de `array[1]` para `array[n]` no array em questão.
+2. Compare o elemento atual (**chave**) com seu predecessor.
+3. Se o elemento-chave for menor do que seu predecessor, compare-o com os elementos anteriores. Mova os elementos maiores uma posição para cima para liberar espaço para o elemento trocado.
+
+Por exemplo:
+
+![img](https://i.imgur.com/l9pW2i3.png)
+
 ## Procedimento
 
 1. O primeiro passo envolve a comparação do elemento em questão com seu elemento adjacente.
 2. Se a cada comparação for revelado que o elemento em questão pode ser inserido em uma posição específica, é criado espaço para ele deslocando os outros elementos uma posição para a direita e inserindo o elemento na posição adequada.
 3. O procedimento acima é repetido até que todos os elementos no array estejam na posição apropriada.
 
-A figura a seguir ilustra o procedimento do Algoritmo Insertion Sort
+A figura a seguir ilustra o procedimento detalhado do Algoritmo Insertion Sort:
 
-![img](https://i.ibb.co/wSyVbYJ/Insertion-Sort.png)
+![img](https://i.imgur.com/DRXZzNe.png)
 
 Estamos considerando o array: `[8,4,2,0]`
 
@@ -41,13 +53,13 @@ Estamos considerando o array: `[8,4,2,0]`
 
 O array agora se encontra como: `[4,8,2,0]`
 
-2. **Iteração B**: Inicia com o segundo elemento **8**, porém ele já foi trocado e está na posição correta, então movemos para o próximo elemento. Agora estamos no terceiro elemento **2** e iremos compará-lo com os elementos que precedem ele. 
+2. **Iteração B**: Inicia com o segundo elemento **8**, porém ele já foi trocado e está na posição correta, então movemos para o próximo elemento. Agora estamos no terceiro elemento de valor **2**, e iremos compará-lo com os elementos que precedem ele. 
 
 Comparamos **8** com **2**. A comparação mostra que `2 < 8`, então fazemos a troca dos elementos. Novamente comparamos **4** com **2** e a comparação mostra que `2 < 4`, então fazemos a troca dos elementos.
 
 O array agora se encontra como: `[2,4,8,0]`
 
-3. **Iteração C**: Inicia com o terceiro elemento **8**, porém ele já foi trocado e está na posição correta, então movemos para o próximo elemento. Agora estamos no quarto elemento **0** e iremos compará-lo com os elementos que precedem ele. 
+3. **Iteração C**: Inicia com o terceiro elemento **8**, porém ele já foi trocado e está na posição correta, então movemos para o próximo elemento. Agora estamos no quarto elemento de valor **0** e iremos compará-lo com os elementos que precedem ele. 
 
 Comparamos **8** com **0**. A comparação mostra que `0 < 8`, então fazemos a troca dos elementos. Novamente comparamos **4** com **0** e a comparação mostra que `0 < 4`, então fazemos a troca dos elementos, por fim, comparamos **2** com **0** e temos que `0 < 2`, então é feita a última troca.
 
