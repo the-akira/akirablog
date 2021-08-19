@@ -67,7 +67,7 @@ Finalmente o array se encontra ordenado: `[0,2,4,8]`
 
 ## Implementação em Python
 
-A seguir temos a implementação do Algoritmo Insertion Sort em Python
+A seguir temos a implementação do Algoritmo Insertion Sort em Python:
 
 ```python
 def swap(array, i, j):

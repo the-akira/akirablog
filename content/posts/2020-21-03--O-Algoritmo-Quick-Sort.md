@@ -22,17 +22,17 @@ Foi Desenvolvido pelo cientista da computação Tony Hoare em 1959 e publicado e
 
 Ele funciona selecionando um elemento **'pivot'** do array e particionando os outros elementos em dois subarrays, dependendo se são menores ou maiores que o pivot. Os subarrays são então ordenados recursivamente. Isso pode ser feito **[in-place](https://en.wikipedia.org/wiki/In-place_algorithm)**, exigindo pequenas quantidades adicionais de memória para realizar o procedimento de sorting.
 
-A análise matemática em questão de complexidade de tempo do Quick Sort mostra que, em média, o algoritmo faz comparações `O(nlogn)` para classificar `n` itens. Na pior das hipóteses, faz comparações de `O(n²)`, embora esse comportamento seja raro.
+A análise matemática em questão de complexidade de tempo do Quick Sort mostra que, em média, o algoritmo faz comparações `O(nlogn)` para ordenar `n` itens. Na pior das hipóteses, faz comparações de `O(n²)`, embora esse comportamento seja raro.
 
 ## Procedimento
 
 O Algoritmo Quick Sort funciona da seguinte maneira:
 
-- Escolher um elemento do array que será chamado de pivot
+- Escolher um elemento do array que será chamado de pivot.
 - Particionar: reordenar o array para que todos os elementos com valores menores que o pivot venham antes do pivot, enquanto todos os elementos com valores maiores que o pivot venham depois dele. Após essa partição, o pivot está em sua posição final. Isso é chamado de operação de partição.
 - Aplicar recursivamente as etapas acima ao subarray de elementos com valores menores e separadamente ao subconjunto de elementos com valores maiores.
 
-Uma vez que estamos lidando com recursão, é necessário um *base case* simples - um cenário final que não usa recursão para produzir uma resposta.
+Uma vez que estamos lidando com recursão, é necessário um *base case* simples: um cenário final que não usa recursão para produzir uma resposta.
 
 Recursão é o processo pelo qual um procedimento passa quando uma das etapas do procedimento envolve a invocação do próprio procedimento. Um procedimento que passa por recursão é considerado 'recursivo'.
 
@@ -40,7 +40,9 @@ Quando um procedimento é definido como tal, isso cria imediatamente a possibili
 
 ## Implementação em Python
 
-Para que consigamos compreender melhor o Quick Sort, vamos considerar uma simples implementação em Python, versão menos comum, não *in-place* do Quicksort que usa espaço `O(n)` para armazenamento de trabalho e pode implementar uma ordenação estável. O armazenamento de trabalho permite que o array de entrada seja particionada facilmente de maneira estável e depois copiada de volta para o array de entrada para chamadas recursivas sucessivas.
+Para que consigamos compreender melhor o Quick Sort, vamos considerar uma simples implementação em Python, versão menos comum, não *in-place* do Quicksort que usa espaço `O(n)` para armazenamento de trabalho e pode implementar uma ordenação estável. 
+
+O armazenamento de trabalho permite que o array de entrada seja particionada facilmente de maneira estável e depois copiada de volta para o array de entrada para chamadas recursivas sucessivas.
 
 ```python
 from random import choice
@@ -149,15 +151,15 @@ Neste caso estamos utilizando uma função de partição que além de receber o 
 
 ### Complexidade Temporal
 
-- Complexidade de **Caso Pior** (Big-O) `O(n²)`: Ocorre quando o elemento pivot escolhido é sempre o maior ou menor do array
+- Complexidade de **Caso Pior** (Big-O) `O(n²)`: Ocorre quando o elemento pivot escolhido é sempre o maior ou menor do array.
 
-- Complexidade de **Caso Melhor** (Big-Ômega) `O(nlogn)`: Ocorre quando o elemento pivot é sempre o elemento do meio ou próximo ao elemento do meio
+- Complexidade de **Caso Melhor** (Big-Ômega) `O(nlogn)`: Ocorre quando o elemento pivot é sempre o elemento do meio ou próximo ao elemento do meio.
 
-- Complexidade de **Médio Caso** (Big-Theta) `O(nlogn)`: Ele ocorre apenas quando as condições acimas não ocorrem
+- Complexidade de **Médio Caso** (Big-Theta) `O(nlogn)`: Ele ocorre apenas quando as condições acimas não ocorrem.
 
 ### Complexidade Espacial
 
-A complexidade de espaço do algoritmo Quick Sort é `O(logn)` em grande partes das situações
+A complexidade de espaço do algoritmo Quick Sort é `O(logn)` em grande partes das situações.
 
 ## Conclusão
 

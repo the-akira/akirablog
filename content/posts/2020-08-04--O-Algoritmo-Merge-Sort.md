@@ -57,9 +57,9 @@ O algoritmo mantém três ponteiros, um ponteiro para cada um dos dois subarrays
 A ideia básica é fazermos a seguinte pergunta: Nós atingimos o fim de algum dos arrays?
 
 * Caso a resposta seja **Não**:
-	- Comparamos o elemento atual de ambos os arrays
-	- Copiamos o elemento menor para o array ordenado
-	- Movemos o ponteiro do array que contém o elemento menor
+	- Comparamos o elemento atual de ambos os arrays.
+	- Copiamos o elemento menor para o array ordenado.
+	- Movemos o ponteiro do array que contém o elemento menor.
 * Caso a resposta seja **Sim**:
 	- Copiamos todos elementos restantes do array não-vazio.
 
