@@ -83,11 +83,11 @@ Tecnicamente, o algoritmo quick sort segue as etapas abaixo:
 
 Na ilustração a seguir, fazemos o procedimento de partição do array com base no primeiro pivot selecionado:
 
-![img](https://i.imgur.com/dBOqzAK.png)
+![img](https://i.imgur.com/cn6MDmn.png)
 
 Já na seguinte ilustração, aplicamos o algoritmo quick sort recursivamente em todas as partições:
 
-![img](https://i.imgur.com/gIkXW8l.png)
+![img](https://i.imgur.com/aVHhiDh.png)
 
 Por fim, obtemos o nosso array na forma ordenada:
 
