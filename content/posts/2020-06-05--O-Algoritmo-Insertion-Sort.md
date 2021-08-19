@@ -45,7 +45,7 @@ Por exemplo:
 
 A figura a seguir ilustra o procedimento detalhado do Algoritmo Insertion Sort:
 
-![img](https://i.imgur.com/DRXZzNe.png)
+![img](https://i.imgur.com/xKnYOQA.png)
 
 Estamos considerando o array: `[8,4,2,0]`
 
