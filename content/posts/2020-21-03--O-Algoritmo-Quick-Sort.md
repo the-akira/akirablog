@@ -83,15 +83,15 @@ Tecnicamente, o algoritmo quick sort segue as etapas abaixo:
 
 Na ilustração a seguir, fazemos o procedimento de partição do array com base no primeiro pivot selecionado:
 
-![img](https://i.imgur.com/cn6MDmn.png)
+![img](https://i.imgur.com/VYDW6cK.png)
 
 Já na seguinte ilustração, aplicamos o algoritmo quick sort recursivamente em todas as partições:
 
-![img](https://i.imgur.com/aVHhiDh.png)
+![img](https://i.imgur.com/4SR6iTM.png)
 
 Por fim, obtemos o nosso array na forma ordenada:
 
-![img](https://i.imgur.com/S1JCSvo.png)
+![img](https://i.imgur.com/3lyOVZx.png)
 
 A versão *in-place* do Quick Sort tem uma complexidade de espaço de `O(log n)`, mesmo na pior das hipóteses, quando é cuidadosamente implementada. 
 

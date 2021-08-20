@@ -50,7 +50,7 @@ Considere um array de `N` elemento distintos em memória, o algoritmo Heap Sort 
 
 No diagrama abaixo, inicialmente há um **Array** não-ordenado com 6 elementos e, em seguida, o **max heap** será construído:
 
-![img](https://i.imgur.com/x5LaFLP.png)
+![img](https://i.imgur.com/Omnkurp.png)
 
 Após construir o **max heap**, os elementos no array serão:
 
@@ -71,7 +71,7 @@ E então as seguintes etapas são executadas:
 - **Etapa 9**: O max heap é criado e 3 é trocado por 1.
 - **Etapa 10**: 3 é desconectado.
 
-![img](https://i.imgur.com/H56OAUw.png)
+![img](https://i.imgur.com/nYf1upa.png)
 
 Depois de executar todas as etapas, teremos o Array ordenado:
 

@@ -40,7 +40,7 @@ Quando a etapa de conquista alcança o *base case* e nós obtemos dois arrays or
 
 A figura a seguir visa ilustrar o procedimento do algoritmo Merge Sort:
 
-![img](https://i.imgur.com/xi8q8p0.png)
+![img](https://i.imgur.com/OXEempV.png)
 
 ## Procedimento
 

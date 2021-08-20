@@ -35,7 +35,7 @@ Para ordenar um array de tamanho **n** em ordem crescente:
 
 Por exemplo:
 
-![img](https://i.imgur.com/l9pW2i3.png)
+![img](https://i.imgur.com/fGGly7o.png)
 
 ## Procedimento
 
@@ -45,7 +45,7 @@ Por exemplo:
 
 A figura a seguir ilustra o procedimento detalhado do Algoritmo Insertion Sort:
 
-![img](https://i.imgur.com/xKnYOQA.png)
+![img](https://i.imgur.com/HCnUDUW.png)
 
 Estamos considerando o array: `[8,4,2,0]`
 
