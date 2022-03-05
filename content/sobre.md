@@ -6,23 +6,23 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo ao meu blog</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Machine Learning. Eventualmente passei a atuar como freelancer e pesquisador independente, passando a dedicar a maior parte do meu tempo estudando e experimentando a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo.
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a atuar como freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. Atualmente estou atuando como Engenheiro de Software.
 
 <b>Conhecimentos que possuo:</b>
 
-  - **Linguagens:** HTML, CSS, Javascript, PHP, Bash, C, SQL, Python;
+  - **Linguagens:** HTML, CSS, Javascript, Bash, C, C#, Python, SQL;
   - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Tensorflow, Keras, Matplotlib, Beautifulsoup;
-  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Docker, Jupyter Lab;
+  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Docker, Jupyter Lab, Azure DevOps;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
   - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise de Dados, Matemática, Games;
 
 <b>Alguns de meus projetos incluem:</b>
 
 - [Python Iluminado](https://pythoniluminado.netlify.app): Um guia completo para iniciantes com a Linguagem Python;
-- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
-- [Secret Library](https://secretlibrary.herokuapp.com): Uma simples Biblioteca open-source desenvolvida com Flask;
+- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática com Python;
+- [Secret Library](https://secretlibrary.herokuapp.com): Uma simples Biblioteca (gerenciador de livros) open-source desenvolvida com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
-- [Video Games API](https://videogamesapi.herokuapp.com/): Uma REST API que oferece dados sobre o universo de Games, desenvolvido com o framework Django;
+- [Philosophy API](https://philosophyapi.herokuapp.com/): Uma REST API que apresenta dados sobre o Universo Filosófico, desenvolvido com o framework Django;
 - [CC33Z](https://cc33z.herokuapp.com/): Curso de Ciência da Computação 33Z em que eu abordo diversos temas relevantes do Universo dos Computadores;
 
 <b>Contribuições, Projetos e Ideias:</b>
