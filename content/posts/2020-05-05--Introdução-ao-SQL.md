@@ -505,7 +505,7 @@ SELECT * FROM books ORDER BY title;
 
 Ao pressionarmos a tecla **enter** podemos imediamente sair da shell.
 
-Caso possua alguma dúvida em relação ao código apresentado neste tutorial, você pode acessar os arquivos respectivos no repositório: [SQL](https://github.com/the-akira/python-experimentos/tree/master/SQL).
+Caso possua alguma dúvida em relação ao código apresentado neste tutorial, você pode acessar os arquivos respectivos no repositório: [SQL](https://github.com/the-akira/PythonExperimentos/tree/master/Banco%20de%20Dados/SQL).
 
 ## Conclusão
 
