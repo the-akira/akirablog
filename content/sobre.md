@@ -6,7 +6,7 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo ao meu blog</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a atuar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. Atualmente estou atuando como desenvolvedor de software, utilizando principalmente tecnologias Microsoft. 
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. 
 
 <b>Conhecimentos que possuo:</b>
 

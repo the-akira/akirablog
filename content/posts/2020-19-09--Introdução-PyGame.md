@@ -41,12 +41,13 @@ description: "Artigo voltado para estudos sobre o desenvolvimento de Games com P
 	- [Detectando Colisões](#detectando-colisões)
 	- [Sprites](#sprites)
 	- [Efeitos Sonoros](#efeitos-sonoros)
+    - [Debugging](#debugging)
 - [Construindo um Platform Game](#construindo-um-platform-game)
 - [Conclusão](#conclusão)
 
 ## Introdução
 
-**[Pygame](https://www.pygame.org/)** é um conjunto de módulos Python projetados para escrever vídeo-games. O Pygame adiciona funcionalidades à excelente [biblioteca SDL](https://www.libsdl.org/), que significa **Simple DirectMedia Layer**. SDL fornece acesso *cross-platform* aos componentes de hardware de multimídia de nosso sistema, como **som**, **vídeo**, **mouse**, **teclado** e **joystick**. Nos permitindo criar jogos completos e também programas multimídia na linguagem Python.
+**[Pygame](https://www.pygame.org/)** é um conjunto de módulos Python projetados para criar vídeo-games. O Pygame adiciona funcionalidades à excelente [biblioteca SDL](https://www.libsdl.org/), que significa **Simple DirectMedia Layer**. SDL fornece acesso *cross-platform* aos componentes de hardware de multimídia de nosso sistema, como **som**, **vídeo**, **mouse**, **teclado** e **joystick**. Nos permitindo construir jogos completos e também programas multimídia na linguagem Python.
 
 Pygame é altamente portátil e roda em quase todas as plataformas e sistemas operacionais.
 
@@ -58,7 +59,7 @@ Para instalarmos Pygame em nossa máquina, utilizaremos [pip](https://pypi.org/p
 pip install pygame
 ```
 
-Podemos verificar se instalação ocorreu corretamente carregando um dos exemplos embutidos com a biblioteca:
+Podemos verificar se a instalação ocorreu corretamente carregando um dos exemplos embutidos com a biblioteca:
 
 ```
 python3 -m pygame.examples.aliens
@@ -71,7 +72,7 @@ python3 -m pygame.examples.liquid
 
 Se uma janela de Game for exibida, isso indica que Pygame está instalado corretamente! Se você tiver problemas, o [guia de primeiros passos](https://www.pygame.org/wiki/GettingStarted) descreve alguns problemas conhecidos e advertências para todas as plataformas.
 
-Observe que cada exemplo apresenta uma funcionalidade que o Pygame nos proporciona. Para conhecer todos os exemplos disponíveis você pode visitar: [pygame.examples](https://www.pygame.org/docs/ref/examples.html)
+Observe que cada exemplo apresenta uma funcionalidade que o Pygame nos proporciona. Para conhecer todos os exemplos disponíveis você pode visitar: [pygame.examples](https://www.pygame.org/docs/ref/examples.html).
 
 ## Conceitos Fundamentais
 
@@ -85,14 +86,14 @@ Para usar os métodos da biblioteca Pygame, o módulo deve primeiro ser importad
 import pygame
 ```
 
-A instrução **import** grava a versão do pygame e um link para o site do Pygame no console (como efeito colateral):
+A instrução **import** grava a versão do pygame e um link para o site do Pygame no console:
 
 ```
 pygame 1.9.6
 Hello from the pygame community. https://www.pygame.org/contribute.html
 ```
 
-A instrução de importação do Pygame é sempre colocada no início do programa. Ela importa as classes, métodos e atributos do pygame para o espaço de nomes atual. Agora, esses novos métodos podem ser chamados via `pygame.metodo()`.
+A instrução de importação do Pygame é sempre colocada no início do programa. Ela importa as classes, métodos e atributos do Pygame para o espaço de nomes atual. Agora, esses novos métodos podem ser chamados via `pygame.metodo()`.
 
 Por exemplo, agora podemos **inicializar** ou **sair** do pygame com os seguintes comandos:
 
@@ -101,10 +102,10 @@ pygame.init()
 pygame.quit()
 ```
 
-- `pygame.init()`: Inicialize todos os módulos de pygame importados. Podemos sempre inicializar módulos individuais manualmente, mas **pygame.init()** inicializa todos os módulos pygame importados, é uma maneira conveniente de começar tudo.
-- `pygame.quit()`: Desinicializa todos os módulos do pygame que foram inicializados anteriormente. Quando o interpretador Python é encerrado, este método é chamado independentemente, portanto, seu programa não deve precisar dele, exceto quando deseja encerrar seus recursos de pygame e continuar. É seguro chamar esta função mais de uma vez, pois as chamadas repetidas não surtem efeito.
+- `pygame.init()`: Inicialize todos os módulos de Pygame importados. Podemos sempre inicializar módulos individuais manualmente, mas **pygame.init()** inicializa todos os módulos Pygame importados, é uma maneira conveniente de começar tudo.
+- `pygame.quit()`: Desinicializa todos os módulos do Pygame que foram inicializados anteriormente. Quando o interpretador Python é encerrado, este método é chamado independentemente, portanto, seu programa não deve precisar dele, exceto quando desejar encerrar seus recursos de Pygame.
 
-Se eventualmente precisarmos obter ajuda sobre algum método do Pygame, podemos utilizar a função **help()** do Python, por exemplo:
+Se eventualmente precisarmos obter ajuda sobre algum método ou classe do Pygame, podemos utilizar a função **help()** do Python, por exemplo:
 
 ```python
 help(pygame)
@@ -113,11 +114,11 @@ help(pygame.event)
 help(pygame.image)
 ```
 
-**Bônus**: Para acessar todos os exemplos utilizados neste tutorial e outros adicionais, você pode visitar o repositório do GitHub: **[PyGameDev](https://github.com/the-akira/PyGameDev/tree/master/Exemplos)**
+**Bônus**: Para acessar todos os exemplos utilizados neste tutorial e outros adicionais, você pode visitar o repositório do GitHub: **[PyGameDev](https://github.com/the-akira/PyGameDev/tree/master/Exemplos)**.
 
 ### Displays e Superfícies
 
-Além dos módulos, o Pygame também inclui várias classes Python que encapsulam conceitos não dependentes de hardware. Um deles é a **Surface**, que em sua forma mais básica, define uma área retangular na qual podemos desenhar. Objetos Surface são usados em muitos contextos no pygame.
+Além dos módulos, o Pygame também inclui várias classes Python que encapsulam conceitos não dependentes de hardware. Uma delas é a **Surface**, que em sua forma mais básica, define uma área retangular na qual podemos desenhar. Objetos Surface são usados em muitos contextos no Pygame.
 
 No Pygame, tudo é visualizado em uma única tela criada pelo usuário, que pode ser uma janela ou tela inteira. O **[display](https://www.pygame.org/docs/ref/display.html)** é criado usando o método **[set_mode()](https://www.pygame.org/docs/ref/display.html#pygame.display.set_mode)**, que retorna uma Surface representando a parte visível da janela. É essa superfície que passamos para as funções de desenho, como por exemplo **[pygame.draw.rect()](https://www.pygame.org/docs/ref/draw.html#pygame.draw.rect)**, e o conteúdo dessa superfície é colocado no display quando chamamos **[pygame.display.flip()](https://www.pygame.org/docs/ref/display.html#pygame.display.flip)**.
 
@@ -131,7 +132,7 @@ O argumento do tamanho é uma tupla com um par de números que representam a lar
 
 ### Coordenadas
 
-O sistema de coordenadas cartesianas, é o sistema ao qual a maioria das pessoas está acostumada ao traçar gráficos. Este é o sistema normalmente ensinado nas escolas. O Pygame usa um sistema de coordenadas semelhante, mas um pouco diferente.
+O sistema de coordenadas cartesianas é o sistema ao qual a maioria das pessoas está acostumada ao traçar gráficos. Este é o sistema normalmente ensinado nas escolas. O Pygame usa um sistema de coordenadas semelhante, mas um pouco diferente.
 
 ![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Images/coordinates.png)
 
@@ -141,7 +142,7 @@ Pygame usa um sistema de coordenadas **x** e **y** onde a posição `(0,0)` é d
 
 Podemos desenhar formas(**shapes**) diretamente na superfície da tela, além disso também podemos trabalhar com imagens no disco. O módulo de imagem permite carregar e salvar imagens em uma variedade de formatos populares. As imagens são carregadas em objetos Surface, que podem ser manipulados e exibidos de várias maneiras.
 
-Os Objetos Surface são representados por retângulos, assim como muitos outros objetos no pygame, como imagens e janelas. Retângulos são tão usados que existe uma classe especial **[Rect](https://www.pygame.org/docs/ref/rect.html)** apenas para manipulá-los. Usaremos objetos e imagens Rect em nossos jogos para desenhar personagens e inimigos e para gerenciar colisões entre eles.
+Os objetos Surface são representados por retângulos, assim como muitos outros objetos no Pygame, como imagens e janelas. Retângulos são tão usados que existe uma classe especial **[Rect](https://www.pygame.org/docs/ref/rect.html)** apenas para manipulá-los. Usaremos objetos e imagens Rect em nossos jogos para desenhar personagens e obstáculos e para gerenciar colisões entre eles.
 
 #### Retângulo
 
@@ -159,9 +160,13 @@ Rect(posicao, tamanho)
 Rect(objeto)
 ```
 
+A figura a seguir nos ajuda a compreender a criação do retângulo e seu posicionamento:
+
+![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Images/retangulo.png)
+
 ##### Atributos Virtuais
 
-O Objeto **Rect** tem vários atributos virtuais que podem ser usados para mover e alinhar o Rect. A atribuição a esses atributos apenas move o retângulo sem alterar seu tamanho:
+O objeto **Rect** tem vários atributos virtuais que podem ser usados para mover e alinhar o Rect. A atribuição a esses atributos apenas move o retângulo sem alterar seu tamanho:
 
 - x, y
 - top, left, bottom, right
@@ -169,7 +174,7 @@ O Objeto **Rect** tem vários atributos virtuais que podem ser usados para mover
 - midtop, midleft, midbottom, midright
 - center, centerx, centery
 
-A atribuição desses 5 atributos a seguir altera o tamanho do retângulo, mantendo sua posição superior esquerda.
+A atribuição desses 5 atributos a seguir altera o tamanho do retângulo, mantendo sua posição superior esquerda:
 
 - size, width, height, w, h
 
@@ -260,13 +265,13 @@ Cada ciclo do Game Loop é chamado de *frame* e quanto mais rápido fizermos as 
 
 A primeira coisa que o Game Loop faz é processar o *Input* do Usuário para permitir que o jogador se mova pela tela. Portanto, precisamos de alguma forma para capturar e processar uma variedade de *inputs*. Fazemos isso usando o [sistema de eventos](https://www.pygame.org/docs/ref/event.html) do Pygame.
 
-O fluxograma a seguir nos apresenta uma ideia geral de como um Game é estruturado e funciona no PyGame
+O fluxograma a seguir nos apresenta uma ideia geral de como um Game é estruturado e funciona no PyGame:
 
 ![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Images/pgflowchart.png)
 
 #### Processando Eventos
 
-A parte mais essencial de qualquer aplicação interativa é o **loop de eventos**. Reagir a eventos permite que o usuário interaja com a aplicação. Eventos são ações que podem acontecer em um programa, como:
+A parte essencial de qualquer aplicação interativa é o **loop de eventos**. Reagir a eventos permite que o usuário interaja com a aplicação. Eventos são ações que podem acontecer em um programa, como:
 
 - Clique do mouse
 - Movimento do mouse
@@ -279,19 +284,20 @@ A seguir temos um exemplo de um loop infinito que imprime todos os eventos no co
 import pygame 
 pygame.init()
 
-# Variável que inicializa a tela
+# Inicializa a tela
 screen = pygame.display.set_mode((500,500))
-# Variável para manter o loop principal funcionando
-running = True 
+pygame.display.set_caption("Eventos")
 
+# Game Loop ficará ativo até que running seja False
+running = True 
 while running: 
-	# Observa cada evento na fila de eventos
-	for event in pygame.event.get():
-		# Imprime no console todos os eventos que vierem a ocorrer
-		print(event)
-		# O usuário clicou no botão fechar da janela? Se sim, pára o Loop
-		if event.type == pygame.QUIT:
-			running = False
+    # Observa cada evento na fila de eventos
+    for event in pygame.event.get():
+        # Imprime no console todos os eventos que vierem a ocorrer
+        print(event)
+        # Fecha o jogo
+        if event.type == pygame.QUIT:
+           running = False
 
 pygame.quit()
 ```
@@ -318,7 +324,7 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 
-# Inicializa pygame e cria a janela
+# Inicializa PyGame, cria a janela e define o relógio
 pygame.init()
 pygame.mixer.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -328,17 +334,17 @@ clock = pygame.time.Clock()
 # Game Loop
 running = True
 while running:
-	# Manter o loop rodando na velocidade correta
-	clock.tick(FPS)
-	# Processar Inputs (Eventos)
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			running = False
-	# Atualizar
-	# Desenhar / Renderizar
-	screen.fill(BLACK)
-	# Depois de desenhar tudo: flipar o display
-	pygame.display.flip()
+    # Manter o loop rodando na velocidade correta
+    clock.tick(FPS)
+    # Processar Inputs (Eventos)
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    # Atualizar
+    # Desenhar / Renderizar
+    screen.fill(BLACK)
+    # Depois de desenhar tudo: flipar o display
+    pygame.display.flip()
 
 pygame.quit()
 ```
@@ -414,37 +420,67 @@ circle(Surface, color, center, radius, width) -> Rect
 
 A maioria das funções tem um argumento de largura. Se a largura for 0, a forma será preenchida com a devida cor.
 
-O seguinte código desenha primeiro a cor de fundo e, em seguida, adiciona três retângulos sólidos sobrepostos e, ao lado, três retângulos sobrepostos contornados com largura de linha crescente:
+O seguinte código preenche a cor de fundo com branco e, em seguida, adiciona três retângulos sólidos sobrepostos e, ao lado, três retângulos sobrepostos contornados com largura de linha crescente.
+
+Vamos executá-lo em nosso console:
 
 ```python
-screen.fill(COR)
-pygame.draw.rect(screen, RED, (50, 20, 120, 100))
-pygame.draw.rect(screen, GREEN, (100, 60, 120, 100))
-pygame.draw.rect(screen, BLUE, (150, 100, 120, 100))
+>>> import pygame
+>>> screen = pygame.display.set_mode((625, 220))
+>>> screen.fill(BRANCO)
 
-pygame.draw.rect(screen, RED, (350, 20, 120, 100), 1)
-pygame.draw.rect(screen, GREEN, (400, 60, 120, 100), 4)
-pygame.draw.rect(screen, BLUE, (450, 100, 120, 100), 8)
+>>> pygame.draw.rect(screen, VERMELHO, (50, 20, 120, 100))
+>>> pygame.draw.rect(screen, VERDE, (100, 60, 120, 100))
+>>> pygame.draw.rect(screen, AZUL, (150, 100, 120, 100))
+
+>>> pygame.draw.rect(screen, VERMELHO, (350, 20, 120, 100), 1)
+>>> pygame.draw.rect(screen, VERDE, (400, 60, 120, 100), 4)
+>>> pygame.draw.rect(screen, AZUL, (450, 100, 120, 100), 8)
 ```
 
-O código a seguir desenha primeiro a cor de fundo e, em seguida, adiciona três elipses sólidas sobrepostas e, ao lado, três elipses sobrepostas contornadas com largura de linha crescente:
+Perceba que o segundo comando que executamos irá abrir a tela e os comandos seguintes não apresentam nenhum resultado na tela, isso porque devemos atualizá-la:
 
 ```python
-screen.fill(COR)
-pygame.draw.ellipse(screen, RED, (50, 20, 160, 100))
-pygame.draw.ellipse(screen, GREEN, (100, 60, 160, 100))
-pygame.draw.ellipse(screen, BLUE, (150, 100, 160, 100))
-
-pygame.draw.ellipse(screen, RED, (350, 20, 160, 100), 1)
-pygame.draw.ellipse(screen, GREEN, (400, 60, 160, 100), 4)
-pygame.draw.ellipse(screen, BLUE, (450, 100, 160, 100), 8)
-
-pygame.display.update()
+pygame.display.flip()
 ```
+
+O resultado será este:
+
+![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Screenshots/screenshot10.png)
+
+Para fechar a janela podemos utilizar o método `quit()`:
+
+```python
+pygame.quit()
+```
+
+O código a seguir preenche a cor de fundo com branco e, em seguida, adiciona três elipses sólidas sobrepostas e, ao lado, três elipses sobrepostas contornadas com largura de linha crescente.
+
+Novamente, vamos executá-lo em nosso console:
+
+```python
+>>> import pygame
+>>> screen = pygame.display.set_mode((660, 220))
+>>> screen.fill(BRANCO)
+
+>>> pygame.draw.ellipse(screen, VERMELHO, (50, 20, 160, 100))
+>>> pygame.draw.ellipse(screen, VERDE, (100, 60, 160, 100))
+>>> pygame.draw.ellipse(screen, AZUL, (150, 100, 160, 100))
+
+>>> pygame.draw.ellipse(screen, VERMELHO, (350, 20, 160, 100), 1)
+>>> pygame.draw.ellipse(screen, VERDE, (400, 60, 160, 100), 4)
+>>> pygame.draw.ellipse(screen, AZUL, (450, 100, 160, 100), 8)
+
+>>> pygame.display.update()
+```
+
+Que nos trará o seguinte *output*:
+
+![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Screenshots/screenshot11.png)
 
 **Importante**: `display.update()` nos permite atualizar uma parte da tela, em vez de toda a área da tela. Sem passar argumentos, atualizará toda a tela.
 
-Para compreender a diferença entre **update()** e **flip()** você pode visitar este [Link](https://stackoverflow.com/questions/29314987/difference-between-pygame-display-update-and-pygame-display-flip)
+Para compreender a diferença entre **update()** e **flip()** você pode visitar este [Link](https://stackoverflow.com/questions/29314987/difference-between-pygame-display-update-and-pygame-display-flip).
 
 O script a seguir nos apresenta um exemplo de todas as formas possíveis que podemos desenhar:
 
@@ -468,13 +504,12 @@ screen = pg.display.set_mode([width, height])
 
 # Define três retângulos
 retangulos = [
-	pg.Rect(20, 20, 100, 50), 
-	pg.Rect(20, 90, 50, 50),
-	pg.Rect(500, 30, 80, 60)
+    pg.Rect(20, 20, 100, 50), 
+    pg.Rect(20, 90, 50, 50),
+    pg.Rect(500, 30, 80, 60)
 ]
 
 done = True
-
 while done:
     screen.fill(BLACK)
     for event in pg.event.get():
@@ -507,7 +542,7 @@ while done:
     pg.draw.polygon(screen, YELLOW, [[140, 120], [100, 200], [300, 200]])
     # Desenha um polígono verde (borda)
     pg.draw.polygon(screen, GREEN, [[140, 120], [100, 200], [300, 200]], 3)
-
+    # Atualiza a tela
     pg.display.update()
     
 pg.quit()
@@ -525,7 +560,7 @@ O [módulo de imagem](https://www.pygame.org/docs/ref/image.html) contém funç�
 
 Observe que não há classe Image; uma imagem é carregada como um objeto Surface. A classe Surface permite a manipulação (desenhar linhas, definir pixels, capturar regiões, etc).
 
-Quando construída com suporte total de imagem, a função `pygame.image.load()` pode suportar os formatos a seguir.
+Quando construída com suporte total de imagem, a função `pygame.image.load()` pode suportar os formatos a seguir:
 
 - JPG
 - PNG
@@ -537,7 +572,7 @@ Quando construída com suporte total de imagem, a função `pygame.image.load()`
 - PBM (e PGM, PPM)
 - XPM
 
-Salvar imagens suporta apenas um conjunto limitado de formatos. Podemos salvar nos seguintes formatos.
+Salvar imagens suporta apenas um conjunto limitado de formatos. Podemos salvar nos seguintes formatos:
 
 - BMP
 - TGA
@@ -558,8 +593,7 @@ O módulo [pygame.transform](https://www.pygame.org/docs/ref/transform.html) for
 No exemplo a seguir iremos carregar a imagem [player.png](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Sprite/player.png), redimensioná-la e desenhá-la na tela.
 
 ```python
-from sys import exit
-from pygame.locals import * 
+from dataclasses import dataclass
 import pygame
 
 # Define o relógio
@@ -568,8 +602,14 @@ clock = pygame.time.Clock()
 # Inicializa pygame
 pygame.init()
 
+# Define a cor de fundo
+BACKGROUND_COLOR = (70,86,94)
+
 # Define o nome da janela
 pygame.display.set_caption('PyGame')
+
+# Define o número de quadros por segundo
+FPS = 60
 
 # Define o tamanho da tela
 WIDTH, HEIGHT = 450, 200
@@ -578,50 +618,57 @@ WINDOW_SIZE = (WIDTH, HEIGHT)
 # Inicia a tela
 screen = pygame.display.set_mode(WINDOW_SIZE, True, 32)
 
-# Carrega a imagem do personagem
+# Carrega e altera a imagem do personagem
 player_image = pygame.image.load('player.png').convert_alpha()
-player_transformed = pygame.transform.scale(player_image, (50,75))
+player = pygame.transform.scale(player_image, (50,75))
 
 moving_right = False 
 moving_left = False
 
-player_location = [155, 310]
+@dataclass
+class PlayerLocation:
+    x: int 
+    y: int
+
+player_location = PlayerLocation(x=155, y=125)
 velocity = 3.5
 
 # Game Loop
-while True:					
-	screen.fill((70,86,94)) # Preenche a tela com cinza
-	screen.blit(player_transformed, player_location)
+running = True
+while running:   
+    # Preenche a tela com cinza              
+    screen.fill(BACKGROUND_COLOR) 
+    # Desenha o player
+    screen.blit(player, (player_location.x, player_location.y))
 
-	if moving_right == True:
-		player_location[0] += velocity
-	if moving_left == True: 
-		player_location[0] -= velocity
+    if moving_right:
+        player_location.x += velocity
+    if moving_left: 
+        player_location.x -= velocity
+        
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_RIGHT:
+                moving_right = True 
+            if event.key == pygame.K_LEFT:
+                moving_left = True 
+        if event.type == pygame.KEYUP:
+            if event.key == pygame.K_RIGHT:
+                moving_right = False 
+            if event.key == pygame.K_LEFT:
+                moving_left = False
+    
+    if player_location.x < 0:
+        player_location.x = 0
+    if player_location.x + player.get_width() > WIDTH:
+        player_location.x = WIDTH - player.get_width()
 
-	for event in pygame.event.get():
-		if event.type == QUIT:
-			pygame.quit()
-			exit()
-		if event.type == KEYDOWN:
-			if event.key == K_RIGHT:
-				moving_right = True 
-			if event.key == K_LEFT:
-				moving_left = True 
-		if event.type == KEYUP:
-			if event.key == K_RIGHT:
-				moving_right = False 
-			if event.key == K_LEFT:
-				moving_left = False
-	
-	if player_location[0] < 0:
-		player_location[0] = 0
-	elif player_location[0] + player_transformed.get_width() > WIDTH:
-		player_location[0] = WIDTH - player_transformed.get_width()
-	elif player_location[1] + player_transformed.get_height() > HEIGHT:
-		player_location[1] = HEIGHT - player_transformed.get_height()
+    pygame.display.update() 
+    clock.tick(FPS) 
 
-	pygame.display.update() # atualiza a tela
-	clock.tick(60) # mantém 60 FPS
+pygame.quit()
 ```
 
 A função **blit()** é muito importante, o termo **blit** significa *Block Transfer* e é como copiamos o conteúdo de um Surface para outra. O desenho ou imagem pode ser posicionado com o argumento **dest**. Dest pode ser um par de coordenadas que representam o canto superior esquerdo da superfície de origem. Um Rect também pode ser passado como o destino e o canto superior esquerdo do retângulo será usado como a posição para o blit. O tamanho do retângulo de destino não afeta o blit.
@@ -631,7 +678,7 @@ Sendo assim, **blit()** recebe dois importantes argumentos:
 1. A superfície para desenhar (neste caso estamos usando uma imagem)
 2. O local onde desenhá-lo na superfície de origem
 
-Perceba também que definimos uma variável chamada de **player_location** que representa as coordenadas da posição do player na tela. A variável **velocity** representa a velocidade de deslocamento do player. Para movermos o player usamos as Arrow Keys do teclado (<- & ->), ao pressionarmos elas, iremos acionar as respectivas variáveis **moving_right** e **moving_left** como **True** fazendo assim o player se movimentar. Por fim definimos os limites da tela, para que o player não desapareça de nossa visão e atualizamos a tela com o comando `pygame.display.update()`.
+Perceba também que definimos um objeto chamada de **player_location** que representa as coordenadas da posição do player na tela. A variável **velocity** representa a velocidade de deslocamento do player. Para mover o player usamos as Arrow Keys do teclado (<- & ->), ao pressionarmos elas, iremos acionar as respectivas variáveis **moving_right** e **moving_left** como **True** fazendo assim o player se movimentar. Por fim definimos os limites da tela, para que o player não desapareça de nossa visão e atualizamos a tela com o comando `pygame.display.update()`.
 
 Para transparência alfa, como em imagens **.png**, usamos o método **convert_alpha()** após o carregamento para que a imagem tenha transparência por pixel.
 
@@ -641,7 +688,7 @@ Este exemplo nos trará o seguinte resultado:
 
 ### Trabalhando com Textos
 
-No pygame, o texto não pode ser escrito diretamente na tela, o módulo [pygame.font](https://www.pygame.org/docs/ref/font.html) nos permite "desenhar" textos em nossa tela. Para isso precisamos seguir alguns passos. 
+No Pygame, o texto não pode ser escrito diretamente na tela, o módulo [pygame.font](https://www.pygame.org/docs/ref/font.html) nos permite "desenhar" textos em nossa tela. Para isso precisamos seguir alguns passos. 
 
 1. A primeira etapa é criar um [objeto Font](https://www.pygame.org/docs/ref/font.html#pygame.font.SysFont) com um determinado tamanho de fonte. 
 2. A segunda etapa é transformar o texto em uma imagem com uma determinada cor. 
@@ -671,7 +718,7 @@ print(f'Existem {len(fonts)} fonts disponíveis')
 pprint(fonts)
 ```
 
-No exemplo a seguir vamos exibir o texto "Hello PyGame" no centro de nossa tela.
+No exemplo a seguir vamos exibir o texto "Hello PyGame" no centro de nossa tela:
 
 ```python
 import pygame
@@ -722,131 +769,176 @@ Verificar colisões é uma técnica fundamental de programação de Games e gera
 No exemplo a seguir usaremos o método [colliderect](https://www.pygame.org/docs/ref/rect.html#pygame.Rect.colliderect), que retornará **True** se qualquer parte do retângulo se sobrepor (exceto as bordas top + bottom ou left + right).
 
 ```python
-from pygame.locals import * 
-from random import randint
-from sys import exit
+from dataclasses import dataclass
 import pygame
 pygame.init()
 
 # Define cores
-BLACK = (12, 12, 12)
 WHITE = (255, 255, 255)
-BLUE = (96, 110, 150)
-RED = (255, 0, 0)
+BLACK = (17, 17, 17)
  
-# Define o width e height da screen [width, height]
-width = 500
-height = 400
-size = (width, height)
-screen = pygame.display.set_mode(size)
-pygame.display.set_caption("My Game")
+# Define o comprimento e altura (WIDTH e HEIGHT) da tela (screen)
+WIDTH = 500
+HEIGHT = 400
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Collisions")
  
-# Game Loop fica ativo até que jogando seja False
+# Game Loop ficará ativo até que playing seja False
 playing = True
+# Define relógio e quadros por segundo
 clock = pygame.time.Clock()
+FPS = 60
 
+# Carrega o fundo
+background = pygame.image.load('sprites/background.png').convert_alpha()
+
+# Carrega o sprite, transforma sua dimensão, obtém retângulo e define posição x e y
 player_image = pygame.image.load('sprites/player.png').convert_alpha()
-player_transformed = pygame.transform.scale(player_image, (70,70))
+player_transformed = pygame.transform.scale(player_image, (50,75))
 player_rect = player_transformed.get_rect()
+player_rect.x = 10
+player_rect.y = 10
+# Velocidade x e y do player
+dx = 3.5
+dy = 3.5
 
-portal_image = pygame.image.load('sprites/portal.png')
-portal_transformed = pygame.transform.scale(portal_image, (70,70))
+portal_image = pygame.image.load('sprites/portal.png').convert_alpha()
+portal_transformed = pygame.transform.scale(portal_image, (65,65))
 portal_rect = portal_transformed.get_rect()
+portal_rect.x = 195
+portal_rect.y = 95
 
 trunk_image = pygame.image.load('sprites/trunk.png')
 trunk_image.set_colorkey(WHITE)
-trunk_transformed = pygame.transform.scale(trunk_image, (80,80))
-trunk_rect = portal_transformed.get_rect()
+trunk_transformed = pygame.transform.scale(trunk_image, (65,65))
+trunk_rect = trunk_transformed.get_rect()
+trunk_rect.x = 355
+trunk_rect.y = 205
 
-# Posição Inicial do player
-player_x = 20
-player_y = 20
+box_image = pygame.image.load('sprites/box.png').convert_alpha()
+box_transformed = pygame.transform.scale(box_image, (65,65))
+box_rect = box_transformed.get_rect()
+box_rect.x = 100
+box_rect.y = 255
 
-# Velocidade e Direção do player
-player_change = 3.5
+skull_image = pygame.image.load('sprites/skull.png').convert_alpha()
+skull_transformed = pygame.transform.scale(skull_image, (60,70))
+skull_rect = skull_transformed.get_rect()
+skull_rect.x = 430
+skull_rect.y = 10
 
+# Direção do personagem
 moving_right = False 
 moving_left = False
 moving_top = False 
 moving_down = False
- 
+
+# Movimento e colisões
+@dataclass
+class Movement:
+    x: int 
+    y: int
+
+def collision_test(player, obstacles):
+    collisions = []
+    for obstacle in obstacles:
+        if player.colliderect(obstacle):
+            collisions.append(obstacle)
+    return collisions
+
+def move_and_collide(player, movement, obstacles):
+    player.x += movement.x
+    collisions_x = collision_test(player, obstacles)
+    for obstacle in collisions_x:
+        if movement.x > 0:
+            player.right = obstacle.left
+        if movement.x < 0:
+            player.left = obstacle.right
+        if obstacle.x == skull_rect.x:
+            screen.fill(BLACK)
+    player.y += movement.y
+    collisions_y = collision_test(player, obstacles)
+    for obstacle in collisions_y:
+        if movement.y > 0:
+            player.bottom = obstacle.top
+        if movement.y < 0:
+            player.top = obstacle.bottom
+        if obstacle.y == skull_rect.y:
+            screen.fill(BLACK)
+
+# Início do Game Loop
 while playing:
-    screen.fill(BLUE)
+    screen.blit(background, (0,0))
 
-    if moving_right == True:
-        player_x += player_change
-    if moving_left == True: 
-        player_x -= player_change
-    if moving_top == True:
-        player_y -= player_change
-    if moving_down == True: 
-        player_y += player_change  
+    movement = Movement(x=0, y=0)
+    if moving_right:
+        movement.x += dx
+    if moving_left: 
+        movement.x -= dx
+    if moving_top:
+        movement.y -= dy
+    if moving_down: 
+        movement.y += dy  
 
-    player_rect.x = player_x
-    player_rect.y = player_y
-    portal_rect.x = 140
-    portal_rect.y = 170
-    trunk_rect.x = 300
-    trunk_rect.y = 250
+    if player_rect.x < 0:
+        player_rect.x = 0
+    elif player_rect.x + player_transformed.get_width() > WIDTH:
+        player_rect.x = WIDTH - player_transformed.get_width()
+    if player_rect.y < 0:
+        player_rect.y = 0
+    elif player_rect.y + player_transformed.get_height() > HEIGHT:
+        player_rect.y = HEIGHT - player_transformed.get_height()
 
     if player_rect.colliderect(portal_rect):
-        print('ocorreu uma colisão entre os objetos')
-        player_x = randint(35,450)
-        player_y = randint(35,350)
+        player_rect.x = 430
+        player_rect.y = 310
 
-    if player_rect.colliderect(trunk_rect):
-        print('ocorreu uma colisão entre os objetos')
-        exit()
-
-    if player_x < 0:
-        player_x = 0
-    elif player_x + player_transformed.get_width() > width:
-        player_x = width - player_transformed.get_width()
-    if player_y < 0:
-        player_y = 0
-    elif player_y + player_transformed.get_height() > height:
-        player_y = height - player_transformed.get_height()
+    obstacles = [trunk_rect, box_rect, skull_rect]
+    move_and_collide(player_rect, movement, obstacles)
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             playing = False
-        if event.type == KEYDOWN:
-            if event.key == K_RIGHT:
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_RIGHT:
                 moving_right = True 
-            if event.key == K_LEFT:
+            if event.key == pygame.K_LEFT:
                 moving_left = True 
-            if event.key == K_UP:
+            if event.key == pygame.K_UP:
                 moving_top = True
-            if event.key == K_DOWN:
+            if event.key == pygame.K_DOWN:
                 moving_down = True
-        if event.type == KEYUP:
-            if event.key == K_RIGHT:
+        if event.type == pygame.KEYUP:
+            if event.key == pygame.K_RIGHT:
                 moving_right = False 
-            if event.key == K_LEFT:
+            if event.key == pygame.K_LEFT:
                 moving_left = False
-            if event.key == K_UP:
+            if event.key == pygame.K_UP:
                 moving_top = False
-            if event.key == K_DOWN:
+            if event.key == pygame.K_DOWN:
                 moving_down = False
 
     screen.blit(player_transformed, [player_rect.x, player_rect.y])
     screen.blit(portal_transformed, [portal_rect.x, portal_rect.y])
     screen.blit(trunk_transformed, [trunk_rect.x, trunk_rect.y])
+    screen.blit(box_transformed, [box_rect.x, box_rect.y])
+    screen.blit(skull_transformed, [skull_rect.x, skull_rect.y])
 
-    pygame.display.flip()
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(FPS)
 
 pygame.quit()
 ```
 
-Observe que estamos carregando três imagens, redimensionando-as e usando o método **get_rect()** para obter um retângulo delas (necessário para testarmos as colisões).
+Observe que estamos carregando cinco imagens, redimensionando-as e usando o método **get_rect()** para obter um retângulo delas (necessário para testarmos as colisões).
 
 As imagens, representam, respectivamente:
 
 - Um [jogador](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Collision/sprites/player.png)
 - Um [portal](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Collision/sprites/portal.png)
 - Um [tronco](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Collision/sprites/trunk.png)
+- Um [baú](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Collision/sprites/box.png)
+- Um [crânio](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Collision/sprites/skull.png)
 
 Um detalhe que devemos citar é que o fundo do tronco é branco, então estamos usando uma técnica chamada *colorkey* que torna uma cor totalmente transparente. A função é bastante simples, é chamada `set_colorkey(COR)`.
 
@@ -856,7 +948,7 @@ O jogador poderá se mover livremente para as quatro direções (norte, sul, les
 
 ![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Images/arrowkeys.png)
 
-E testaremos se ele irá colidir com o **portal** ou o **tronco**. Se houver uma colisão com o portal, iremos mover o jogador para uma posição aleatória da tela, caso haja uma colisão com o tronco, encerraremos o Game com a função **exit()** da biblioteca [sys](https://docs.python.org/3/library/sys.html).
+E testaremos se ele irá colidir com o **portal**, o **tronco**, o **baú** ou o **crânio**, este último que apagará a luz. Se houver uma colisão com o portal, iremos mover o jogador para uma posição específica da tela, caso haja uma colisão com o tronco ou o baú, não permitiremos que ocorra sobreposição entre os retângulos.
 
 Executando este script, teremos a seguinte tela como *output*:
 
@@ -868,7 +960,7 @@ Em computação gráfica, um sprite é um bitmap bidimensional integrado em uma 
 
 Pygame fornece uma [classe Sprite](https://www.pygame.org/docs/ref/sprite.html) que é projetada para conter uma ou várias representações gráficas de qualquer objeto do Game que você deseja exibir na tela. Para usá-la, criamos uma nova classe que estende **Sprite**. Isso permite usarmos todos os seus métodos embutidos.
 
-Existe a classe Sprite principal e várias classes de Grupo que contêm Sprites. O uso dessas classes é totalmente opcional ao usar pygame. As classes são bastante leves e fornecem apenas um ponto de partida para o código comum à maioria dos Games.
+Existe a classe Sprite principal e várias classes de Grupo que contêm Sprites. O uso dessas classes é totalmente opcional ao usar Pygame. As classes são bastante leves e fornecem apenas um ponto de partida para o código comum à maioria dos Games.
 
 A classe Sprite tem como intenção ser usada como uma classe base para os diferentes tipos de objetos do Game. Existe também uma classe base [Group](https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Group) que simplesmente armazena sprites. Um Game pode criar novos tipos de classes de Grupo que operam em instâncias de Sprite especialmente personalizadas.
 
@@ -880,14 +972,13 @@ Os grupos são projetados para alta eficiência na remoção e adição de Sprit
 
 Sprites e grupos gerenciam seus relacionamentos com os métodos **add()** e **remove()**. Esses métodos podem aceitar um único ou vários destinos para associação. Os inicializadores padrão para essas classes também usam um único ou uma lista de destinos para a associação inicial. É seguro adicionar e remover repetidamente o mesmo Sprite de um Grupo.
 
-A classe base para objetos visíveis do Game. As classes derivadas necessitarão substituir `Sprite.update()` e atribuir atributos **Sprite.image** e **Sprite.rect**. O inicializador pode aceitar qualquer número de instâncias de Grupo a serem adicionadas.
+A classe base para objetos visíveis do Game é [pygame.sprite.Sprite](http://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Sprite). As classes derivadas necessitarão substituir `Sprite.update()` e atribuir atributos **Sprite.image** e **Sprite.rect**. O inicializador pode aceitar qualquer número de instâncias de Grupo a serem adicionadas.
 
 Ao criar uma subclasse do Sprite, certifique-se de chamar o inicializador base antes de adicionar o Sprite aos grupos. Por exemplo:
 
 ```python
 class Block(pygame.sprite.Sprite):
-	# Construtor. Recebe a cor do bloco
-	# e sua posição x e y como argumento
+    # Construtor. Recebe a cor do bloco e sua posição x e y como argumento
     def __init__(self, color, width, height):
        # Chama o construtor da classe pai (Sprite)
        pygame.sprite.Sprite.__init__(self)
@@ -895,7 +986,6 @@ class Block(pygame.sprite.Sprite):
        # Também pode ser uma imagem carregada do disco
        self.image = pygame.Surface([width, height])
        self.image.fill(color)
-
        # Busca o objeto retângulo que possui as dimensões da imagem
        # Atualiza a posição deste objeto setando os valores de rect.x e rect.y
        self.rect = self.image.get_rect()
@@ -909,7 +999,6 @@ Vejamos agora um exemplo com mais detalhes:
 
 ```python
 import pygame 
-import random 
 import os
 
 WIDTH = 800
@@ -922,28 +1011,27 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 
-# setup assets folders
 game_folder = os.path.dirname(__file__)
 img_folder = os.path.join(game_folder, 'img')
 
 class Player(pygame.sprite.Sprite):
-	def __init__(self):
-		pygame.sprite.Sprite.__init__(self)
-		self.image = pygame.image.load(os.path.join(img_folder, 'guy.png')).convert()
-		self.image.set_colorkey(BLACK)
-		self.rect = self.image.get_rect()
-		self.rect.center = (WIDTH / 2, HEIGHT / 2)
-		self.y_speed = 10
+    def __init__(self):
+        pygame.sprite.Sprite.__init__(self)
+        self.image = pygame.image.load(os.path.join(img_folder, 'guy.png')).convert()
+        self.image.set_colorkey(BLACK)
+        self.rect = self.image.get_rect()
+        self.rect.center = (WIDTH / 2, HEIGHT / 2)
+        self.y_speed = 10
 
-	def update(self):
-		self.rect.x += 4
-		self.rect.y += self.y_speed
-		if self.rect.bottom > HEIGHT - 100:
-			self.y_speed = -5
-		if self.rect.top < 100:
-			self.y_speed = 5
-		if self.rect.left > WIDTH:
-			self.rect.right = 0
+    def update(self):
+        self.rect.x += 4
+        self.rect.y += self.y_speed
+        if self.rect.bottom > HEIGHT - 100:
+            self.y_speed = -5
+        if self.rect.top < 100:
+            self.y_speed = 5
+        if self.rect.left > WIDTH:
+            self.rect.right = 0
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -956,17 +1044,16 @@ all_sprites.add(player)
 
 running = True 
 while running:
-	clock.tick(FPS)
+    clock.tick(FPS)
 
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			running = False
-
-	all_sprites.update()
-
-	screen.fill(BLACK)
-	all_sprites.draw(screen)
-	pygame.display.flip()
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    
+    screen.fill(BLACK)
+    all_sprites.update()
+    all_sprites.draw(screen)
+    pygame.display.flip()
 
 pygame.quit()
 ```
@@ -997,9 +1084,9 @@ som = pygame.mixer.Sound('american_crow_spring.ogg')
 print(f'length = {som.get_length()}')
 
 while True:
-	input('Aperte Enter para tocar o Som')
-	som.play()
-	print('Tocando o som... CTRL+Z para cancelar')
+    input('Aperte Enter para tocar o Som')
+    som.play()
+    print('Tocando o som... CTRL+Z para cancelar')
 ```
 
 Para cancelarmos a execução do script podemos usar os comandos `CTRL + Z` ou `CTRL + D`.
@@ -1031,21 +1118,21 @@ text = myriad_pro_font.render("p = play | s = stop", 1, WHITE)
 
 running = True
 while running:
-	clock.tick(FPS)
+    clock.tick(FPS)
 
-	for event in pygame.event.get():
-		if event.type == pygame.QUIT:
-			running = False
-		if event.type == pygame.KEYDOWN:
-			if event.key == pygame.K_p:
-				sound.play()
-		if event.type == pygame.KEYDOWN:
-			if event.key == pygame.K_s:
-				sound.stop()
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_p:
+                sound.play()
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_s:
+                sound.stop()
 
-	screen.fill(BLACK)
-	screen.blit(text, (100, 50))
-	pygame.display.flip()
+    screen.fill(BLACK)
+    screen.blit(text, (100, 50))
+    pygame.display.flip()
 
 pygame.quit()
 ```
@@ -1054,9 +1141,134 @@ Este exemplo irá nos apresentar a seguinte tela:
 
 ![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Screenshots/screenshot7.png)
 
-Usamos a tecla **P** para dar Play na música e a tecla **S** para dar Stop.
+Usamos a tecla **p** para dar Play na música e a tecla **s** para dar Stop.
 
 Perceba também que estamos carregando um [ícone de música](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Sound/icon.png) para customizar nossa janela.
+
+### Debugging
+
+[Debugging](https://en.wikipedia.org/wiki/Debugging) é o processo de detecção e remoção de erros existentes e potenciais (também chamados de 'bugs') em um código de software, que podem fazer com que ele se comporte inesperadamente ou falhe. Para evitar a operação incorreta de um software ou sistema, debugging é usada para localizar e resolver bugs ou defeitos.
+
+Sabemos que no Pygame temos um Game Loop e que quando ele está executando é interessante que possamos inspecionar o valor de certas variáveis que estão sofrendo alterações, para isso, poderíamos utilizar o comando **print()**, porém seria inconveniente devido ao fato de que o valor será impresso muitas vezes na tela e será difícil de rastreá-lo.
+
+Para solucionar este problema com o comando **print()**, podemos utilizar as próprias funcionalidades da biblioteca Pygame, utilizando o módulo [pygame.font](https://www.pygame.org/docs/ref/font.html) para carregar e renderizar fontes.
+
+No [exemplo a seguir](https://github.com/the-akira/PyGameDev/tree/master/Exemplos/Debugging) vamos definir uma função chamada **debug** que receberá como argumento um valor a ser inspecionado e também as coordenadas em que ele será apresentado na tela:
+
+```python
+import pygame 
+pygame.init()
+
+WIDTH = 835
+HEIGHT = 450
+FPS = 30
+WHITE = (255, 255, 255)
+font = pygame.font.Font(None, 33)
+
+def debug(info, x=10, y=10):
+    display_surface = pygame.display.get_surface()
+    debug_surface = font.render(str(info), True, WHITE)
+    debug_rect = debug_surface.get_rect(topleft=(x,y))
+    display_surface.blit(debug_surface, debug_rect)
+
+class Bug(pygame.sprite.Sprite):
+    def __init__(self, x, y, scale):
+        pygame.sprite.Sprite.__init__(self)
+        self.images_right = []
+        self.images_left = []
+        self.index = 0
+        self.counter = 0
+        for num in range(1,5):
+            img_left = pygame.image.load(f'images/{num}.png').convert_alpha()
+            new_dimension = (int(img_left.get_width() * scale), int(img_left.get_height() * scale))
+            img_left = pygame.transform.scale(img_left, new_dimension)
+            img_right = pygame.transform.flip(img_left, True, False)
+            self.images_right.append(img_right)
+            self.images_left.append(img_left)   
+        self.image = self.images_right[self.index]    
+        self.rect = self.image.get_rect()
+        self.rect.center = (x, y)
+        self.rect.x = x 
+        self.rect.y = y
+        self.direction = 0
+
+    def update(self):
+        dx = 0 
+        dy = 0
+        walk_cooldown = 4
+        key = pygame.key.get_pressed()
+
+        if key[pygame.K_LEFT]:
+            dx -= 6
+            self.counter += 1
+            self.direction = -1
+            if self.rect.left <= 0:
+                self.rect.left = 0
+        if key[pygame.K_RIGHT]:
+            dx += 6
+            self.counter += 1
+            self.direction = 1
+            if self.rect.right >= WIDTH:
+                self.rect.right = WIDTH
+        if key[pygame.K_LEFT] == False and key[pygame.K_RIGHT] == False:
+            self.counter = 0
+            self.index = 0
+            if self.direction == 1:
+                self.image = self.images_right[self.index]
+            if self.direction == -1:
+                self.image = self.images_left[self.index]
+
+        if self.counter > walk_cooldown:
+            self.counter = 0
+            self.index += 1 
+            if self.index >= len(self.images_right):
+                self.index = 0
+            if self.direction == 1:
+                self.image = self.images_right[self.index]
+            if self.direction == -1:
+                self.image = self.images_left[self.index]
+
+        self.rect.x += dx 
+        self.rect.y += dy
+
+pygame.init()
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption('Debugging')
+clock = pygame.time.Clock()
+
+background = pygame.image.load('images/bg.png').convert_alpha()
+all_sprites = pygame.sprite.Group()
+player = Bug(50, 165, 0.3)
+all_sprites.add(player)
+
+running = True 
+while running:
+    screen.blit(background,(0,0))
+    clock.tick(FPS)
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    
+    all_sprites.update()
+    all_sprites.draw(screen)
+    debug((player.rect.x, player.rect.y))
+    debug(pygame.mouse.get_pressed(), 380)
+    debug(pygame.mouse.get_pos(), 725)
+    pygame.display.flip()
+
+pygame.quit()
+```
+
+Este exemplo nos trará o seguinte resultado:
+
+![img](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Screenshots/screenshot12.png)
+
+Observe que na primeira tupla estamos apresentando os valores **x** e **y** que representam a posição do jogador, na tupla do meio estamos mostrando o estado de cada botão do mouse (esquerda, centro e direita), sendo 0 indicando que ele não está pressionado e 1 indicando que está, e por fim, na última tupla temos os valores **x** e **y** da posição do cursor.
+
+Perceba também que é possível mover o personagem para a esquerda e direita (utilizando as setas do teclado), além disso, estamos animando o personagem ao carregar diversas imagens e realizar um loop circular por elas ao sempre resetar o seu índice.
+
+Com essa técnica de debugging, podemos agora inspecionar as variáveis internas de nossos Games com mais facilidade, fazendo que consigamos solucionar os problemas com mais agilidade e eficiência.
 
 ## Construindo um Platform Game
 
@@ -1070,8 +1282,8 @@ Neste exemplo, vamos emular um simples Mario [8-bit](https://en.wikipedia.org/wi
 
 Vamos usar apenas duas imagens:
 
-- O personagem [Mario](https://github.com/the-akira/PyGameDev/blob/master/Exemplos/Mario/mario.png)
-- O [tijolo](https://github.com/the-akira/PyGameDev/blob/master/Exemplos/Mario/brick.png) tradicional do Game Mario
+- O personagem [Mario](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Mario%202.0/mario.png)
+- O [tijolo](https://raw.githubusercontent.com/the-akira/PyGameDev/master/Exemplos/Mario%202.0/brick.png) tradicional do Game Mario
 
 O Game contará com apenas 4 Classes e uma função **main()**:
 
@@ -1085,7 +1297,6 @@ Na função **main()** vamos inicializar nosso mapa, os Sprites e desenharemos t
 Vejamos então o código para compreendermos melhor:
 
 ```python
-from pygame import *
 import pygame
 
 SCREEN_SIZE = pygame.Rect((0, 0, 800, 640))
@@ -1093,6 +1304,7 @@ INITIAL_POS = (35, 700)
 BACKGROUND_BLUE = (104, 136, 247)
 GRAVITY = pygame.Vector2((0, 0.29))
 TILE_SIZE = 32
+FPS = 60
 
 class CameraLayeredUpdates(pygame.sprite.LayeredUpdates):
     def __init__(self, target, world_size):
@@ -1106,11 +1318,15 @@ class CameraLayeredUpdates(pygame.sprite.LayeredUpdates):
     def update(self, *args):
         super().update(*args)
         if self.target:
-            x = -self.target.rect.center[0] + SCREEN_SIZE.width/2
-            y = -self.target.rect.center[1] + SCREEN_SIZE.height/2
+            x = -self.target.rect.centerx + SCREEN_SIZE.width/2
+            y = -self.target.rect.centery + SCREEN_SIZE.height/2
             self.cam += (pygame.Vector2((x, y)) - self.cam) * 0.05
             self.cam.x = max(-(self.world_size.width-SCREEN_SIZE.width), min(0, self.cam.x))
             self.cam.y = max(-(self.world_size.height-SCREEN_SIZE.height), min(0, self.cam.y))
+        if self.target.moving_left:
+            self.target.image = self.target.flipped
+        elif self.target.moving_right:
+            self.target.image = self.target.original_image
 
     def draw(self, surface):
         spritedict = self.spritedict
@@ -1134,56 +1350,65 @@ class CameraLayeredUpdates(pygame.sprite.LayeredUpdates):
         return dirty            
 
 class Entity(pygame.sprite.Sprite):
-    def __init__(self, color, pos, *groups):
+    def __init__(self, pos, *groups):
         super().__init__(*groups)
-        self.image = Surface((TILE_SIZE, TILE_SIZE))
-        self.image.fill(color)
+        self.image = pygame.Surface((TILE_SIZE, TILE_SIZE))
         self.rect = self.image.get_rect(topleft=pos)
 
 class Player(Entity):
     def __init__(self, platforms, pos, *groups):
-        super().__init__(Color("#0000FF"), pos)
+        super().__init__(pos)
         self.image_load = pygame.image.load('mario.png').convert_alpha()
+        self.original_image = pygame.transform.scale(self.image_load, (55,65))
         self.image = pygame.transform.scale(self.image_load, (55,65))
+        self.flipped = pygame.transform.flip(self.image, True, False)
         self.rect = self.image.get_rect(topleft=pos)
         self.vel = pygame.Vector2((0, 0))
-        self.onGround = False
+        self.on_ground = False
+        self.moving_right = False
+        self.moving_left = False
         self.platforms = platforms
         self.speed = 6
         self.jump_strength = 9
 
     def update(self):
         pressed = pygame.key.get_pressed()
-        up = pressed[K_UP]
-        left = pressed[K_LEFT]
-        right = pressed[K_RIGHT]
-        running = pressed[K_SPACE]
+        up = pressed[pygame.K_UP]
+        left = pressed[pygame.K_LEFT]
+        right = pressed[pygame.K_RIGHT]
+        running = pressed[pygame.K_SPACE]
 
         if up:
-            # only jump if on the ground
-            if self.onGround: self.vel.y = -self.jump_strength
+            # pular apenas se estiver no chão
+            if self.on_ground: 
+                self.vel.y = -self.jump_strength
         if left:
             self.vel.x = -self.speed
+            self.moving_left = True
+            self.moving_right = False
         if right:
             self.vel.x = self.speed
+            self.moving_right = True
+            self.moving_left = False
         if running:
             self.vel.x *= 1.3
-        if not self.onGround:
-            # only accelerate with gravity if in the air
+        if not self.on_ground:
+            # só acelere com a gravidade se estiver no ar
             self.vel += GRAVITY
-            # max falling speed
-            if self.vel.y > 100: self.vel.y = 100
+            # velocidade máxima de queda
+            if self.vel.y > 100: 
+                self.vel.y = 100
         if not(left or right):
             self.vel.x = 0
-        # increment in x direction
+        # incrementar na direção x
         self.rect.left += self.vel.x
-        # do x-axis collisions
+        # executar colisão no eixo-x
         self.collide(self.vel.x, 0, self.platforms)
-        # increment in y direction
+        # incrementar na direção y
         self.rect.top += self.vel.y
-        # assuming we're in the air
-        self.onGround = False;
-        # do y-axis collisions
+        # assumindo que estamos no ar
+        self.on_ground = False
+        # executar a colisão no eixo-y
         self.collide(0, self.vel.y, self.platforms)
 
     def collide(self, xvel, yvel, platforms):
@@ -1195,14 +1420,14 @@ class Player(Entity):
                     self.rect.left = p.rect.right
                 if yvel > 0:
                     self.rect.bottom = p.rect.top
-                    self.onGround = True
+                    self.on_ground = True
                     self.yvel = 0
                 if yvel < 0:
                     self.rect.top = p.rect.bottom
 
 class Platform(Entity):
     def __init__(self, pos, *groups):
-        super().__init__(Color("#BE521C"), pos, *groups)
+        super().__init__(pos, *groups)
         self.image_load = pygame.image.load('brick.png').convert_alpha()
         self.image = pygame.transform.scale(self.image_load, (32,32))
 
@@ -1241,11 +1466,11 @@ def main():
 
     platforms = pygame.sprite.Group()
     player = Player(platforms, INITIAL_POS)
-    level_width  = len(level[0])*TILE_SIZE
-    level_height = len(level)*TILE_SIZE
+    level_width  = len(level[0]) * TILE_SIZE
+    level_height = len(level) * TILE_SIZE
     entities = CameraLayeredUpdates(player, pygame.Rect(0, 0, level_width, level_height))
 
-    # build the level
+    # construir o level do game
     x = y = 0
     for row in level:
         for col in row:
@@ -1256,17 +1481,17 @@ def main():
         x = 0
 
     while True:
-        for e in pygame.event.get():
-            if e.type == QUIT: 
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT: 
                 return
-            if e.type == KEYDOWN and e.key == K_ESCAPE:
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                 return
 
         entities.update()
         screen.fill(BACKGROUND_BLUE)
         entities.draw(screen)
         pygame.display.update()
-        timer.tick(60)
+        timer.tick(FPS)
 
 if __name__ == "__main__":
     main()
@@ -1292,7 +1517,7 @@ A classe **player** será utilizada para construir o objeto que representará no
 
 Um detalhe importante que devemos lembrar é que estamos utilizando o conceito de Vetores para manipular as coordenadas **x** e **y**, para encontrar mais detalhes sobre eles, podemos visitar a documentação do módulo [math](https://www.pygame.org/docs/ref/math.html) do Pygame.
 
-Na função **main()** de nosso Game, estamos definindo o mapa de nosso Jogo na variável **level**, onde todos os **P's** serão renderizados como tijolos, perceba que esta variável é uma list de strings.
+Na função **main()** de nosso Game, estamos definindo o mapa de nosso Jogo na variável **level**, onde todos os **P's** serão renderizados como tijolos, perceba que esta variável é uma **list** de **strings**.
 
 Finalmente construímos o nosso "level" através da classe **Platform**, damos início ao Game Loop, atualizamos todas as entities, preenchemos o background com a cor definida na variável **BACKGROUND_BLUE**, desenhamos as entities na tela e atualizamos o display. Nosso clock é setado para operar em 60 FPS.
 

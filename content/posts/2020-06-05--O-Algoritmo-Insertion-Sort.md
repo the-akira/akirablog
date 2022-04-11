@@ -152,7 +152,7 @@ O método **animation.FuncAnimation()** cria a animação ao chamar repetidament
 
 Finalmente, salvamos a figura como `insertion.gif` com o auxílio do writer **[PillowWriter](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.animation.PillowWriter.html)**, que nos traz o seguinte resultado:
 
-![img](https://i.ibb.co/Yb9Wfc6/animation.gif)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Animation/animation.gif)
 
 ## Complexidade do Algoritmo Insertion Sort
 
