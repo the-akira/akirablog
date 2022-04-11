@@ -13,7 +13,7 @@ tags:
 description: "Através desse tutorial seremos capazes de aprender como desenvolver uma GraphQL API com Django e Graphene-Python."
 ---
 
-![img](https://i.ibb.co/GnbJSzT/Django-Graph-QL.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/Django-Graph-QL.png)
 
 # Conteúdo
 
