@@ -44,7 +44,7 @@ Em um site tradicional orientado a dados, uma aplicação Web aguarda solicitaç
 
 Os aplicativos da web Django geralmente agrupam o código que lida com cada uma dessas etapas em arquivos separados, vejamos a estrutura: 
 
-![img](https://i.ibb.co/YNq9TS2/django.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Tutoriais/django.png)
 
 - **URL's:** Um mapeador de URL é usado para redirecionar solicitações HTTP para a visualização apropriada com base na URL de solicitação.
 - **View:** Uma **view** é uma função **request handler**, que recebe solicitações HTTP e retorna respostas HTTP. As **views** acessam os dados necessários para satisfazer solicitações por meio de modelos e delegam a formatação da resposta aos modelos.

@@ -12,7 +12,7 @@ tags:
 description: "Neste tutorial vamos aprender como desenvolver uma REST API com Django REST framework. Ferramenta capaz de nos prover funcionalidades que nos permite construir API's com eficiência e rapidez."
 ---
 
-![img](https://i.ibb.co/fpMDDKq/Sem-T-tulo-1.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/DjangoRest.png)
 
 # Conteúdo
 
@@ -38,7 +38,7 @@ Em um serviço da Web RESTful, as solicitações feitas ao **URI** de um recurso
 
 A figura a seguir ilustra com uma visão de alto nível o funcionamento de uma REST API
 
-![img](https://i.ibb.co/tXqFqdC/REST.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/REST.png)
 
 Ao utilizar um protocolo **stateless** e suas operações padrão, os sistemas RESTful visam desempenho rápido, confiabilidade e capacidade de expansão reutilizando componentes que podem ser gerenciados e atualizados sem afetar o sistema como um todo, mesmo enquanto estiver em execução.
 

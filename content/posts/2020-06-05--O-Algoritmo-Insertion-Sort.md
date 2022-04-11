@@ -35,7 +35,7 @@ Para ordenar um array de tamanho **n** em ordem crescente:
 
 Por exemplo:
 
-![img](https://i.imgur.com/fGGly7o.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Insertion%20Sort/1.png)
 
 ## Procedimento
 
@@ -45,7 +45,7 @@ Por exemplo:
 
 A figura a seguir ilustra o procedimento detalhado do Algoritmo Insertion Sort:
 
-![img](https://i.imgur.com/HCnUDUW.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Insertion%20Sort/2.png)
 
 Estamos considerando o array: `[8,4,2,0]`
 
@@ -152,7 +152,7 @@ O método **animation.FuncAnimation()** cria a animação ao chamar repetidament
 
 Finalmente, salvamos a figura como `insertion.gif` com o auxílio do writer **[PillowWriter](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.animation.PillowWriter.html)**, que nos traz o seguinte resultado:
 
-![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Animation/animation.gif)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Insertion%20Sort/animation.gif)
 
 ## Complexidade do Algoritmo Insertion Sort
 

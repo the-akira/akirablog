@@ -29,7 +29,7 @@ Uma vez que estamos cadastrados com sucesso, agora podemos nos autenticar na pla
 
 Vamos visualizar uma interface similar a essa
 
-![img](https://i.imgur.com/KAPWiYZ.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Tutoriais/PythonAnyWhere.png)
 
 2. Nesse passo, vamos clicar no botão **Open Web tab**, em seguida vamos clicar no botão **Add a new web app**.
 

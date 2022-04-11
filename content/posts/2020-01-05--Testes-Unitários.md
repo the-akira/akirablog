@@ -15,7 +15,7 @@ description: "Neste guia vamos explorar o framework unittest do Python para test
 
 No universo da programação de computadores, o [teste de unidade](https://pt.wikipedia.org/wiki/Teste_de_unidade) é um método de teste de software pelo qual unidades individuais do código-fonte, conjuntos de um ou mais módulos de um programa de computador, juntamente com dados de controle associados, procedimentos de uso e procedimentos operacionais, são testados para determinar se estes são adequados para uso.
 
-![img](https://i.imgur.com/Ib4jxIR.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Unit%20Testing/1.png)
 
 A figura acima ilustra uma visão geral sobre os diferentes tipos de testes, nesse guia focaremos apenas nos testes unitários.
 
@@ -33,7 +33,7 @@ O custo de encontrar um bug antes do início da codificação ou quando o códig
 
 No **[test-driven development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)** que é freqüentemente usado em [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming) e [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), os testes de unidade são criados antes mesmo do próprio código ser escrito. Quando os testes passam, esse código é considerado completo.
 
-![img](https://i.imgur.com/FPCWwHb.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Unit%20Testing/2.png)
 
 O teste de unidade permite ao programador [refatorar](https://en.wikipedia.org/wiki/Code_refactoring) o código ou atualizar as bibliotecas do sistema posteriormente e garantir que o módulo ainda funcione corretamente. O procedimento é escrever casos de teste para todas as funções e métodos, para que sempre que uma alteração cause uma falha, ela possa ser rapidamente identificada. Os testes de unidade detectam alterações que podem quebrar um [design contract](https://en.wikipedia.org/wiki/Design_by_contract).
 

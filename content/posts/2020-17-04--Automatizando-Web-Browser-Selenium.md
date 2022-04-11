@@ -11,7 +11,7 @@ tags:
 description: "Neste guia estudaremos técnicas de automação de Web Browsers com a API Selenium-Python."
 ---
 
-![img](https://i.ibb.co/cTgyM4g/Selenium.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Selenium%20Web/Selenium.png)
 
 ## Introdução
 
@@ -152,11 +152,11 @@ A maioria dos navegadores modernos oferecem uma ferramenta para Desenvolvimento 
 
 No Google Chrome, por exemplo, podemos clicar com o botão direito no elemento e escolher a opção Inspecionar:
 
-![img](https://i.ibb.co/xjRkPmK/inspec.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Selenium%20Web/inspec.png)
 
 Ao abrir o código-fonte HTML da página, selecionamos o elemento desejado e copiamos o XPath:
 
-![img](https://i.ibb.co/vw0NmDx/xpath.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Selenium%20Web/xpath.png)
 
 Com o elemento selecionado e armazenado na variável `search_field`, executamos o método `send_keys()` e passamos a ele como argumento o texto que desejamos usar no preenchimento do formulário.
 

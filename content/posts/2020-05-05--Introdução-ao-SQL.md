@@ -11,7 +11,7 @@ tags:
 description: "Neste tutorial vamos explorar o módulo sqlite3 do Python. Este que nos fornece uma Interface SQL compatível com o DB-API 2.0, nos permitindo criar tabelas, executar consultas e manipular dados."
 ---
 
-![img](https://i.ibb.co/HGng4Hf/SQLAvatar.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Banco%20de%20Dados/Figuras/SQLAvatar.png)
 
 ## Introdução
 
@@ -75,7 +75,7 @@ De acordo com a [DB-Engines](https://en.wikipedia.org/wiki/DB-Engines_ranking), 
 
 ## SQLite
 
-![img](https://www.sqlite.org/images/sqlite370_banner.gif)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Banco%20de%20Dados/Figuras/sqlite.gif)
 
 O [SQLite](https://www.sqlite.org/index.html) é uma biblioteca em linguagem C que implementa um mecanismo de banco de dados SQL pequeno, rápido, independente, de alta confiabilidade e completo.
 
@@ -147,7 +147,7 @@ Agora que temos uma função que nos permite conectar a um banco de dados, podem
 
 A seguinte figura ilustra o [esquema](https://en.wikipedia.org/wiki/Database_schema) de nosso banco de dados
 
-![img](https://i.ibb.co/myyb169/tables.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Banco%20de%20Dados/Figuras/tables.png)
 
 É possível observarmos que temos uma relação entre as tabelas. Especificamente uma relação [One-to-many](https://en.wikipedia.org/wiki/One-to-many_(data_model)) que é um tipo de cardinalidade que se refere ao relacionamento entre duas entidades (consulte também [modelo entidade-relacionamento](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)) **A** e **B** no qual um elemento de **A** pode estar vinculado a muitos elementos de **B**, mas um membro de **B** está vinculado a apenas um elemento de **A**.
 

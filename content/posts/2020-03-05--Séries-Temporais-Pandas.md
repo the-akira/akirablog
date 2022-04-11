@@ -11,7 +11,7 @@ tags:
 description: "Neste breve tutorial exploraremos o conceito de Séries Temporais com o auxílio da biblioteca Pandas e dados públicos sobre a criptomoeda Bitcoin."
 ---
 
-![img](https://i.ibb.co/PD7J84G/Time-Series.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/Time%20Series/Time-Series.png)
 
 ## Introdução
 
@@ -84,7 +84,7 @@ As formas de variações mais comuns que encontramos nas Séries Temporais são 
 
 O gráfico a seguir ilustra a ideia das variações de dados de Séries Temporais
 
-![img](https://i.ibb.co/9GnrLY1/variations-of-time-series.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/Time%20Series/variations-of-time-series.png)
 
 ## Métodos para Análises
 

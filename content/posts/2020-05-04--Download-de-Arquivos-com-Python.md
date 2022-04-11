@@ -11,7 +11,7 @@ tags:
 description: "Neste guia vamos explorar diversas técnicas de download de arquivos da Web. Para estas tarefas contaremos com o auxílio de diferentes bibliotecas Python."
 ---
 
-<img src="https://i.ibb.co/jMv819W/Downloading.png"> </br>
+<img src="https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/Downloading.png"> </br>
 
 ## Introdução
 

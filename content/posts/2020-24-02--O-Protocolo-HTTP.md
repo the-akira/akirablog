@@ -12,7 +12,7 @@ tags:
 description: "Neste artigo vamos conhecer detalhes importantes sobre o protocolo HTTP e explorar o seu funcionamento."
 ---
 
-![img](https://i.imgur.com/zo8nkkF.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/WWW.png)
 
 ## Conteúdo
 
@@ -34,7 +34,7 @@ HTTP é um protocolo sem estado. Em outras palavras, a solicitação atual não 
 
 O protocolo HTTP é um protocolo de **requisição**/**resposta**.
 
-![img](https://i.imgur.com/91YJ6o9.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/Client-Server.png)
 
 Um cliente envia uma **requisição** ao servidor na forma de um **[método de requisição](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)**, **[URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)** e **versão do protocolo**, seguido por uma mensagem semelhante a **[MIME](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)** contendo modificadores de requisição, informações do cliente e possível conteúdo do corpo através de uma conexão com um servidor.
 
@@ -142,7 +142,7 @@ authority = [userinfo@]host[:port]
 
 Isso pode ser representado através do diagrama de síntaxe:
 
-![img](https://i.ibb.co/XJ8ZGsV/URI-syntax-diagram.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/URI-syntax-diagram.png)
 
 O URI compreende então:
 
@@ -158,7 +158,7 @@ O URI compreende então:
 
 Unindo tudo em diversos exemplos:
 
-![img](https://i.imgur.com/8vXZNpf.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/syntax-examples.png)
 
 ### Linha de Requisição
 

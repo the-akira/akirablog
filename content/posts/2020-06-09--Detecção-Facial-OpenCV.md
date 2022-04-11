@@ -54,7 +54,7 @@ wget https://raw.githubusercontent.com/the-akira/python-experimentos/master/Open
 
 Agora precisamos de uma imagem para trabalhar, neste exemplo irei usar a famosa imagem da [Quinta Solvay Conference](https://en.wikipedia.org/wiki/Solvay_Conference) sobre elétrons e fótons, realizada de 24 a 29 de outubro de 1927, onde os físicos mais notáveis do mundo se reuniram para discutir a recém-formulada teoria quântica.
 
-![img](https://i.ibb.co/qJz7cQX/f-sicos.jpg)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/OpenCV/f%C3%ADsicos.jpg)
 
 Uma vez que temos nossa imagem selecionada, devemos então instalar a biblioteca **[OpenCV-Python](https://pypi.org/project/opencv-python/)** com o comando:
 
@@ -136,7 +136,7 @@ cv2.waitKey(0)
 
 Ele nos apresentará a seguinte imagem como resultado:
 
-![img](https://i.ibb.co/883DzRd/f-sicos-detec-o.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/OpenCV/f%C3%ADsicos_detec%C3%A7%C3%A3o.png)
 
 Como podemos observar, fomos capazes de detectar todas as faces da imagem. Com este conhecimento você pode agora experimentar a detecção de outros objetos e até mesmo utilizar outros algoritmos.
 

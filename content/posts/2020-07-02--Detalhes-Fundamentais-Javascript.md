@@ -90,7 +90,7 @@ A primeira JavaScript Engine moderna foi a V8, criada pelo Google para seu naveg
 
 As Engines convertem o código de alto nível em código legível por máquina, que permite ao computador executar algumas tarefas específicas. Vamos entender a **Google Chrome’s JavaScript V8 Engine** usando uma imagem:
 
-![img](https://i.ibb.co/VQcfhk4/JSEngine.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/JSEngine.png)
 
 - **Primeiramente**: Um arquivo Javascript é alimentado ao **Analisador Léxico ou Parser**.
 - **Analisador Léxico ou Parser**: Verifica a síntaxe e a semântica. O **Parser** nada mais é do que uma análise léxica que resulta na quebra do código em tokens de forma a entender seu significado e esses tokens são convertidos em uma **Árvore de Sintaxe Abstrata (AST)**.
@@ -124,7 +124,7 @@ Também existe dentro do JavaScript Runtime Environment a Javascript Engine(vist
 
 Podemos imaginar o JavaScript Runtime Environment como um grande container. Dentro desse container existem outros containers menores. Conforme a Javascript Engine executa a análise do código, esta começa a colocar diferentes pedaços de código em diferentes containers.
 
-![img](https://i.ibb.co/k6wjDHs/Java-Script-Engine.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/Java-Script-Engine.png)
 
 - **Heap**: Este é o espaço de memória física usado para armazenar variáveis, funções e objetos. Como tudo em Javascript é um objeto, tudo o que é alocado na memória usando a palavra-chave `new` é armazenado no **heap**. O Javascript também possui um coletor de lixo que libera a memória alocada para que não precise ser liberada manualmente, como em C/C++
 - **Stack**: É aqui que as chamadas de função e API (API da Web em browsers e API C/C ++ em máquinas locais via Nodejs) são armazenadas. Essa parte se comporta exatamente como uma estrutura de dados de pilha típica com uma estrutura LIFO (Last In, First Out). As chamadas de função são adicionadas ao topo da pilha e salvas do topo após a conclusão da execução.

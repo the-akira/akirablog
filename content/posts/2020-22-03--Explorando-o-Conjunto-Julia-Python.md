@@ -12,7 +12,7 @@ tags:
 description: "Neste breve guia vamos explorar o Conjunto Julia, um tipo de Fractal: padrões infinitamente complexos que são auto-similares em diferentes escalas."
 ---
 
-![img](https://i.ibb.co/jk00SYx/julia-set14.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia01.png)
 
 <figure>
     <blockquote>
@@ -110,33 +110,33 @@ Em seguida executamos a computação das iterações e salvamos a imagem gerada 
 
 #### `c = -0.8 + 0.156i`
 
-![img](https://i.ibb.co/61NjC53/julia-set3.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia02.png)
 
-![img](https://i.ibb.co/BcrX2PJ/julia-set4.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia03.png)
 
 #### `c = -0.8i`
 
-![img](https://i.ibb.co/Gt7q3By/julia-set13.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia04.png)
 
-![img](https://i.ibb.co/0mwPyF9/julia-set7.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia05.png)
 
-![img](https://i.ibb.co/r27w3Ph/julia-set10.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia06.png)
 
 #### `c = 1 - φ`
 
-![img](https://i.ibb.co/VW1CptX/julia-set6.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia07.png)
 
 #### `c = -0.835 -0.2321i`
 
-![img](https://i.ibb.co/FJp9Ktx/julia-set8.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia10.png)
 
 #### `c = 0.285 + 0i`
 
-![img](https://i.ibb.co/njq7GCx/julia-set12.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia08.png)
 
 #### `c = -0.162 + 1.04i`
 
-![img](https://i.ibb.co/gtrMD6W/julia-set15.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Julia/julia09.png)
 
 ## Conclusão
 

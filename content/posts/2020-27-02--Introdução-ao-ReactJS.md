@@ -12,7 +12,7 @@ tags:
 description: "Neste artigo irei introduzir o famoso ReactJS, que é uma poderosa biblioteca Javascript, feita especialmente para a construção de Interfaces de Usuários."
 ---
 
-![img](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/thumb/react.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/logo.png)
 
 ## Conteúdo
 
@@ -370,7 +370,7 @@ Os **Components** permitem que possamos dividir nossa Interface do Usuário em p
 
 Outra definição seria que os **Components** são microentidades independentes e auto-sustentáveis que descrevem uma parte da sua Interface do Usuário. A interface do usuário de uma aplicação pode ser dividida em components menores, onde cada component tem seu próprio código, estrutura e API.
 
-![img](https://i.imgur.com/8ewnLfR.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/ReactFuncionamento.png)
 
 Existem dois tipos de Components: **Function components** e **Class components**
 

@@ -12,7 +12,7 @@ tags:
 description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Quick Sort"
 ---
 
-<img src="https://i.ibb.co/SJ4g5Tr/Sorting-quicksort-anim.gif"> </br>
+<img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Quick%20Sort/Sorting-quicksort-anim.gif"> </br>
 
 ## Introdução
 
@@ -83,15 +83,15 @@ Tecnicamente, o algoritmo quick sort segue as etapas abaixo:
 
 Na ilustração a seguir, fazemos o procedimento de partição do array com base no primeiro pivot selecionado:
 
-![img](https://i.imgur.com/VYDW6cK.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Quick%20Sort/1.png)
 
 Já na seguinte ilustração, aplicamos o algoritmo quick sort recursivamente em todas as partições:
 
-![img](https://i.imgur.com/4SR6iTM.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Quick%20Sort/2.png)
 
 Por fim, obtemos o nosso array na forma ordenada:
 
-![img](https://i.imgur.com/3lyOVZx.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Quick%20Sort/3.png)
 
 A versão *in-place* do Quick Sort tem uma complexidade de espaço de `O(log n)`, mesmo na pior das hipóteses, quando é cuidadosamente implementada. 
 

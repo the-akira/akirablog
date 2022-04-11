@@ -12,7 +12,7 @@ tags:
 description: "Neste guia vamos experimentar as funcionalidades da biblioteca random do Python. Esta que irá nos possibilitar trabalharmos com geradores de números pseudo-aleatórios para diversas distribuições de números."
 ---
 
-![img](https://i.ibb.co/pnW7LPY/Sem-T-tulo-1.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/RNG.png)
 
 <figure>
     <blockquote>
@@ -441,7 +441,7 @@ plt.show()
 
 Vamos obter o seguinte gráfico:
 
-![img](https://i.ibb.co/ZVTXtBJ/gauss.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/gauss.png)
 
 Distribuições normais são importantes em estatística e são frequentemente usadas nas ciências naturais e sociais para representar variáveis aleatórias com valor real cujas distribuições não são conhecidas. Sua importância é parcialmente devido ao teorema do limite central. Ele afirma que, sob algumas condições, a média de muitas amostras (observações) de uma variável aleatória com média e variância finitas é ela própria: uma variável aleatória cuja distribuição converge para uma distribuição normal à medida que o número de amostras aumenta.
 

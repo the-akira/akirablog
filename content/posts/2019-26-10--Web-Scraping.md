@@ -13,7 +13,7 @@ description: "Explorando Técnicas de Web Scraping com Python"
 ---
 
 <h1 align="center">
-    <img alt="Python" title="Python-Scraping" src="https://i.imgur.com/Oc3XgpO.png"> </br>
+    <img alt="Python" title="Python-Scraping" src="https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Avatar.png"> </br>
 </h1>
 
 <p style="text-align: center;">

@@ -178,7 +178,7 @@ Considere ler sobre o [no free lunch theorem](https://en.wikipedia.org/wiki/No_f
 
 ## Scikit-Learn
 
-![img](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/scikit-learn-logo-small.png)
 
 **[Scikit-Learn](https://scikit-learn.org/stable/)** é [software livre](https://en.wikipedia.org/wiki/Free_software) de Machine Learning, especificamente uma biblioteca para a linguagem de programação Python. Conta com diversos algoritmos para tarefas como: classificação, regressão e clusterização, incluindo Support Vector Machines, Random Forests, gradient boosting, k-means, DBSCAN e diversos outros. É projetada para interoperar com as bibliotecas numéricas e científicas Python: [NumPy](https://en.wikipedia.org/wiki/NumPy) e [SciPy](https://www.scipy.org/).
 
@@ -194,7 +194,7 @@ O conjunto de dados de flores íris ou o conjunto de dados da íris de Fisher é
 
 O conjunto de dados consiste em 50 amostras de cada uma das três espécies de Iris (**Iris setosa**, **Iris virginica** e **Iris versicolor**). Quatro *features* foram medidas em cada amostra: o comprimento e a largura das sépalas e pétalas, em centímetros. Com base na combinação dessas quatro *features*, Fisher desenvolveu um modelo discriminante linear para distinguir as espécies umas das outras.
 
-![img](https://i.ibb.co/GdvDzBx/iris-flower-dataset.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/iris-flower-dataset.png)
 
 O conjunto de dados contém no total um conjunto de 150 registros, sob cinco atributos: **comprimento da pétala**, **largura da pétala**, **comprimento da sépala**, **largura da sépala** e **espécie da flor**.
 

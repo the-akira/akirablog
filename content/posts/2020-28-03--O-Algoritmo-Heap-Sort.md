@@ -12,7 +12,7 @@ tags:
 description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Heap Sort"
 ---
 
-<img src="https://i.ibb.co/bBKVbj0/Sorting-heapsort-anim.gif"> </br>
+<img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Heap%20Sort/Sorting-heapsort-anim.gif"> </br>
 
 ## Introdução
 
@@ -50,7 +50,7 @@ Considere um array de `N` elemento distintos em memória, o algoritmo Heap Sort 
 
 No diagrama abaixo, inicialmente há um **Array** não-ordenado com 6 elementos e, em seguida, o **max heap** será construído:
 
-![img](https://i.imgur.com/Omnkurp.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Heap%20Sort/1.png)
 
 Após construir o **max heap**, os elementos no array serão:
 
@@ -71,7 +71,7 @@ E então as seguintes etapas são executadas:
 - **Etapa 9**: O max heap é criado e 3 é trocado por 1.
 - **Etapa 10**: 3 é desconectado.
 
-![img](https://i.imgur.com/nYf1upa.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Heap%20Sort/2.png)
 
 Depois de executar todas as etapas, teremos o Array ordenado:
 

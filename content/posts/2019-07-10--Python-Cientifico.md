@@ -14,7 +14,7 @@ de dados, machine learning, processamento de linguagem natural, análise complex
 mais."
 ---
 
-![img](https://i.ibb.co/s3gQQGM/Python-Cientifico.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Tutoriais/Python-Cientifico.png)
 
 ---------------------------------------
 

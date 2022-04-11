@@ -12,7 +12,7 @@ tags:
 description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Merge Sort"
 ---
 
-<img src="https://i.ibb.co/PW34M2v/merge-sort-gif-9.gif"> </br>
+<img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Merge%20Sort/merge-sort-gif.gif"> </br>
 
 ## Introdução
 
@@ -40,7 +40,7 @@ Quando a etapa de conquista alcança o *base case* e nós obtemos dois arrays or
 
 A figura a seguir visa ilustrar o procedimento do algoritmo Merge Sort:
 
-![img](https://i.imgur.com/OXEempV.png)
+![img](https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Merge%20Sort/Procedimento.png)
 
 ## Procedimento
 

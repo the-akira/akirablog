@@ -21,7 +21,7 @@ Neste guia buscamos como objetivo transformar uma aplicação **Flask** em um **
 
 O Docker é um conjunto de produtos de plataforma como serviço [(PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service) que usam a virtualização no nível do Sistema Operacional para fornecer software em pacotes chamados contêineres. Os contêineres são isolados um do outro e agrupam seu próprio software, bibliotecas e arquivos de configuração; eles podem também se comunicar através de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, são mais leves que as máquinas virtuais, o software que hospeda os contêineres é chamado **Docker Engine**:
 
-![img](https://docs.docker.com/engine/images/engine-components-flow.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Tutoriais/docker-engine-components-flow.png)
 
 ### Docker Container
 
