@@ -10,7 +10,7 @@ tags:
   - "Programação"
   - "Python"
   - "Algoritmos"
-description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Insertion Sort"
+description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Insertion Sort."
 ---
 
 ## Introdução

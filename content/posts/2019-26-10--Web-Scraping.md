@@ -9,7 +9,7 @@ tags:
   - "Python"
   - "Programação"
   - "Web Scraping"
-description: "Explorando Técnicas de Web Scraping com Python"
+description: "Explorando Técnicas de Web Scraping com Python."
 ---
 
 <h1 align="center">

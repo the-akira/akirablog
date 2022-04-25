@@ -10,7 +10,7 @@ tags:
   - "Flask"
   - "Python"
   - "Web"
-description: "Neste guia vamos aprender como transformar uma aplicação Flask em um Docker Container, assim como, fazer Deploy desta aplicação na plataforma Heroku"
+description: "Neste guia vamos aprender como transformar uma aplicação Flask em um Docker Container, assim como, fazer Deploy desta aplicação na plataforma Heroku."
 ---
 
 # Introdução

@@ -10,7 +10,7 @@ tags:
   - "Flask"
   - "Python"
   - "Web"
-description: "Neste guia vamos aprender como fazer Deploy de uma simples aplicação na plataforma PythonAnywhere"
+description: "Neste guia vamos aprender como fazer Deploy de uma simples aplicação na plataforma PythonAnywhere."
 ---
 
 # Introdução

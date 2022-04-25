@@ -9,7 +9,7 @@ tags:
   - "Fundamentos"
   - "Algoritmos"
   - "Python"
-description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Merge Sort"
+description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Merge Sort."
 ---
 
 <img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Merge%20Sort/merge-sort-gif.gif"> </br>

@@ -9,7 +9,7 @@ tags:
   - "Fundamentos"
   - "Algoritmos"
   - "Python"
-description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Quick Sort"
+description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Quick Sort."
 ---
 
 <img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Quick%20Sort/Sorting-quicksort-anim.gif"> </br>

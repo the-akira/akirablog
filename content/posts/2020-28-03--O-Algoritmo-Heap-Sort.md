@@ -9,7 +9,7 @@ tags:
   - "Fundamentos"
   - "Algoritmos"
   - "Python"
-description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Heap Sort"
+description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Heap Sort."
 ---
 
 <img src="https://raw.githubusercontent.com/the-akira/IntroComp/master/Exemplos%20Python/Sorting/Heap%20Sort/Sorting-heapsort-anim.gif"> </br>

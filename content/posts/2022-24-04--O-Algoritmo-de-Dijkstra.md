@@ -9,7 +9,7 @@ tags:
   - "Fundamentos"
   - "Algoritmos"
   - "Python"
-description: "Artigo que visa estabelecer um breve estudo ilustrado sobre o Algoritmo de Dijkstra"
+description: "Artigo que visa estabelecer um breve estudo ilustrado sobre o Algoritmo de Dijkstra."
 ---
 
 <figure>

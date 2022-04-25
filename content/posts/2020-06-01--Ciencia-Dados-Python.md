@@ -9,7 +9,7 @@ tags:
   - "Machine Learning"
   - "Data Science"
   - "Python"
-description: "Coleção de recursos sobre Ciência de Dados com Python: Artigos, Experimentos, Notebooks e Materiais"
+description: "Coleção de recursos sobre Ciência de Dados com Python: Artigos, Experimentos, Notebooks e Materiais."
 ---
 
 ![img](https://raw.githubusercontent.com/the-akira/DataScience/master/Avatar.png)

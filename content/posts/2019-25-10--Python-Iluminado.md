@@ -9,7 +9,7 @@ tags:
   - "Python"
   - "Programação"
   - "Fundamentos"
-description: "Guia para Iniciantes com a Linguagem Python"
+description: "Guia para Iniciantes com a Linguagem Python."
 ---
 
 ![img](https://raw.githubusercontent.com/the-akira/Python-Iluminado/master/Imagens/Avatar.png)
