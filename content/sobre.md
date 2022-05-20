@@ -10,7 +10,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 
 <b>Conhecimentos que possuo:</b>
 
-  - **Linguagens:** HTML, CSS, Javascript, Bash, C, C#, Python, SQL;
+  - **Linguagens:** HTML, CSS, JavaScript, Bash, C, C#, Python, SQL;
   - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Tensorflow, Keras, Matplotlib, Beautifulsoup;
   - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Docker, Jupyter Lab, Azure DevOps, Visual Studio;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
@@ -43,7 +43,3 @@ Muito obrigado por sua visita, sinta-se a vontade para entrar em contato para co
 </figure>
 
 **[CV Gabriel Felippe](https://gabrielcv.netlify.com/)**
-
-<a class="float-left" href="https://dev.to/theakira" target="_blank">
-  <img src="https://i.ibb.co/GsmX1Lq/dev-badge.png" alt="Gabriel Felippe's DEV Profile" height="50" width="50">
-</a>
