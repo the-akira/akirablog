@@ -20,7 +20,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 
 - [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a linguagem Python;
 - [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
-- [Secret Library](https://secretlibrary.pythonanywhere.com/): Uma Biblioteca open-source desenvolvida com Django;
+- [Secret Library](https://secretslibrary.pythonanywhere.com/): Uma simples Biblioteca open-source desenvolvida com Flask;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
 - [Philosophy API](https://philosophyapi.pythonanywhere.com/): Uma REST API que apresenta dados sobre o Universo Filosófico, desenvolvida com o framework Django;
 - [CC33Z](https://cc33z.pythonanywhere.com/): Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores;
