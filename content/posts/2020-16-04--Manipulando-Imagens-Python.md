@@ -381,7 +381,7 @@ O script nos apresentará o seguinte gráfico para a imagem selecionada:
 
 ![img](https://arquivos.netlify.app/images/grafico.png)
 
-Com o gráfico dessa imagem específica podemos observar que o AZUL tem valores elevados em algumas regiões da imagem.
+Com o gráfico dessa imagem específica podemos observar que o AZUL tem grande quantidade de valores próximos de 50 em diversas regiões da imagem.
 
 ### Transformando a Perspectiva com OpenCV
 
