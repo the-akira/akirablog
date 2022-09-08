@@ -13,7 +13,7 @@ tags:
 description: "Neste artigo vamos estudar detalhes fundamentais sobre Javascript e os mecanismos principais que atuam por trás da linguagem."
 ---
 
-# Conteúdo
+## Conteúdo
 
 1. [Introdução](#introducao)
 2. [O Poder de Javascript](#o-poder-de-javascript)
@@ -23,7 +23,7 @@ description: "Neste artigo vamos estudar detalhes fundamentais sobre Javascript 
 6. [Conclusão](#conclusão)
 7. [Referências](#referências)
 
-# Introdução
+## Introdução
 
 JavaScript é uma linguagem de programação que está em conformidade com a especificação **[ECMAScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)**. 
 
@@ -42,7 +42,7 @@ Normalmente cada Browser/Navegador incorpora uma **JavaScript Engine** específi
 - **Nitro** - O mecanismo desenvolvido pela Apple. É usado no Safari.
 - **Chakra** - Desenvolvido pela Microsoft como o mecanismo JavaScript do navegador Edge.
 
-## O Poder de Javascript
+### O Poder de Javascript
 
 O JavaScript moderno é uma linguagem de programação "segura". Ele não fornece acesso de baixo nível à memória ou ao CPU, porque foi criada inicialmente para navegadores que não precisam deste acesso.
 
@@ -63,7 +63,7 @@ O **ambiente do JavaScript no navegador** pode fazer tudo relacionado à manipul
 - Persistência dos dados no lado do cliente ("armazenamento local").
 - Envie solicitações pela rede para servidores remotos, faça o download e faça o upload de arquivos (AJAX).
 
-### Application Programming Interfaces (API's)
+#### Application Programming Interfaces (API's)
 
 Uma característica muito importante do JavaScript são as **[Application Programming Interfaces (APIs)](https://en.wikipedia.org/wiki/Application_programming_interface)** que nos fornecem poderes extras para utilizarmos em nosso código Javascript.
 
@@ -80,7 +80,7 @@ As **API's do navegador** são incorporadas ao seu navegador da Web e podem expo
 - A **[API do Twitter](https://developer.twitter.com/en/docs)** permite que você faça coisas como exibir seus últimos tweets em seu site.
 - A **[API do Google Maps](https://cloud.google.com/maps-platform/)** e permite incorporar mapas personalizados no seu site e outras funcionalidades desse tipo.
 
-## Javascript Engine
+### Javascript Engine
 
 Uma JavaScript Engine é um programa de computador que executa o código JavaScript.
 
@@ -114,7 +114,7 @@ No código acima nós estamos chamando a função **adicionar()** 1000 vezes. Qu
 
 É importante recordarmos também que desde 2017 os browsers adicionaram suporte ao **WebAssembly**. Isso permite o uso de executáveis pré-compilados para partes críticas de desempenho dos scripts da página. Os mecanismos JavaScript executam o código do WebAssembly na mesma sandbox que o código JavaScript comum.
 
-## JavaScript Runtime Environment
+### JavaScript Runtime Environment
 
 Quando visitamos um website, utilizamos normalmente um web browser como Google Chrome ou Mozilla Firefox para esta tarefa. Cada browser possui um **Javascript Runtime Environment**, nele estão contidas as **Web API's** que um desenvolvedor pode acessar para construir um programa.
 
@@ -144,7 +144,7 @@ Ao criar uma função **Callback**, você sempre o associa a um evento específi
 
 Se um script é muito longo, ele bloqueia outros. É por isso que os Callbacks devem ser relativamente curtos e simples.
 
-## Single-Threaded vs Assíncrono
+### Single-Threaded vs Assíncrono
 
 Javascript é uma linguagem de Single-Thread (Na ciência da computação, uma Thread é como uma entidade capaz de executar linhas de código independentemente) isso significa que ele possui uma stack de chamadas e um heap(memória). Como esperado, ele executa o código em ordem e deve concluir a execução de uma peça de código antes de passar para o próximo. É síncrono, mas às vezes isso pode ser prejudicial. Por exemplo, se uma função demorar para executar ou tiver de esperar por algo, isso causará um "congelamento" durante esse período, um bom exemplo que podemos considerar é:
 
@@ -192,7 +192,7 @@ A partir da especificação **ES6**, o JavaScript introduziu vários recursos qu
 - **[Promises](https://flaviocopes.com/javascript-promises/)**
 - **[Async/Await](https://flaviocopes.com/javascript-async-await/)**
 
-## Conclusão
+### Conclusão
 
 Javascript é uma linguagem moderna com diversas particularidades, tornando assim essencial que entendamos os mecanismos que operam por trás da linguagem, para que assim seja possível escrevermos códigos mais eficientes e livre de *bugs*! 
 
@@ -208,7 +208,7 @@ Para masterizar seu conhecimento existem recursos excelentes na Web, destaco esp
 
 Bons estudos!
 
-## Referências
+### Referências
 
 - [V8 Engine](https://v8.dev/)
 - [What is the difference between JavaScript Engine and JavaScript Runtime Environment](https://stackoverflow.com/questions/29027845/what-is-the-difference-between-javascript-engine-and-javascript-runtime-environm/29027933)

@@ -13,7 +13,7 @@ tags:
 description: "Neste guia vamos aprender como fazer Deploy de uma simples aplicação na plataforma PythonAnywhere."
 ---
 
-# Introdução
+## Introdução
 
 O **PythonAnywhere** é um ambiente de desenvolvimento integrado online ([IDE](https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado)) e um serviço de hospedagem na web ([plataforma como serviço](https://pt.wikipedia.org/wiki/Plataforma_como_servi%C3%A7o)) baseado na linguagem de programação Python. Fundada por **Giles Thomas** e **Robert Smithson** em 2012, fornece acesso no navegador a interfaces de linha de comando Python e Bash baseadas em servidor, além de um editor de código com destaque de sintaxe. Os arquivos do programa podem ser transferidos de e para o serviço usando o navegador do usuário. Os aplicativos da Web hospedados pelo serviço podem ser gravados usando qualquer estrutura de aplicativos baseada em [WSGI](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface).
 
@@ -21,7 +21,7 @@ O **WSGI** não é um servidor, um módulo python, uma estrutura, uma API ou qua
 
 Neste guia vamos fazer o **[Deploy](https://www.fullstackpython.com/deployment.html)** de uma simples Aplicação Web escrita com o microframework Flask, para isso vamos utilizar a plataforma PythonAnywhere. O deployment envolve empacotar seu aplicativo Web e colocá-lo em um ambiente de produção que possa executar o aplicativo para que todos no mundo possam vê-lo.
 
-## Tutorial
+### Tutorial
 
 1. Nosso primeiro passo neste guia será fazer o registro na plataforma **PythonAnywhere**, para esta tarefa vamos navegar até este **[Link](https://www.pythonanywhere.com/registration/register/beginner/)** e fazer nosso cadastro. Importante, lembre-se de confirmar seu endereço de email.
 

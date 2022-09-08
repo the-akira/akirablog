@@ -15,7 +15,7 @@ description: "Através desse tutorial seremos capazes de aprender como desenvolv
 
 ![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/Django-Graph-QL.png)
 
-# Conteúdo
+## Conteúdo
 
 1. [Introdução](#introdução)
 2. [Configurando a Aplicação](#configurando-a-aplicação)
@@ -23,13 +23,13 @@ description: "Através desse tutorial seremos capazes de aprender como desenvolv
 4. [Conclusão](#conclusão)
 5. [Referências](#referências)
 
-# Introdução
+## Introdução
 
 As **[APIs (Application Programming Interfaces)](https://developer.mozilla.org/en-US/docs/Glossary/API)** são construções disponibilizadas nas linguagens de programação para permitir que os desenvolvedores criem funcionalidades complexas com mais facilidade. Eles abstraem o código mais complexo, fornecendo uma sintaxe mais fácil de usar em seu lugar.
 
 Elas permitem que os desenvolvedores integrem duas partes de um aplicativo ou aplicativos diferentes juntos. Ela consiste de vários elementos, como funções, protocolos e ferramentas que permitem aos desenvolvedores criar aplicativos. Um objetivo comum de todos os tipos de APIs é acelerar o desenvolvimento de aplicativos, fornecendo uma parte de sua funcionalidade pronta para uso, para que os desenvolvedores não precisem implementá-la. Existem APIs para todos os tipos de sistemas, incluindo sistemas operacionais, bibliotecas e a Web.
 
-## Web APIs
+### Web APIs
 
 Uma **Web API** é um tipo exclusivo de interface em que a comunicação ocorre usando a Internet e protocolos específicos da Web. Assim como as APIs remotas fazem os recursos remotos parecerem locais, as APIs da Web fazem o mesmo com os recursos disponíveis na Web. De fato, as Web APIs começaram a se popularizar com o advento dos serviços de Internet que permitiram aos usuários armazenar conteúdo online. 
 
@@ -37,7 +37,7 @@ De modo geral, você serve Web APIs por meio de uma interface **[HTTP](https://d
 
 O GraphQL é um novo padrão de API que fornece uma alternativa mais eficiente, poderosa e flexível ao REST. Foi desenvolvido pelo Facebook e é de código aberto e atualmente é mantido por uma grande comunidade de empresas e indivíduos de todo o mundo.
 
-## Sobre GraphQL
+### Sobre GraphQL
 
 GraphQL é uma linguagem de consulta para sua API.
 
@@ -51,7 +51,7 @@ O GraphQL não é uma arquitetura de API como o REST, é uma linguagem que nos p
 
 Este **[artigo](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)** ilustra muito bem a diferença entre **GraphQL** e **REST**
 
-## A Biblioteca Graphene
+### A Biblioteca Graphene
 
 O Graphene é uma biblioteca que fornece ferramentas para implementar uma API GraphQL em Python.
 
@@ -59,15 +59,15 @@ Graphene é totalmente caracterizado com integrações para frameworks da Web e 
 
 Com o Graphene, não precisamos usar a sintaxe do GraphQL para criar um *schema*, usamos apenas o Python! Esta biblioteca open-source também foi integrada ao Django para que possamos criar esquemas referenciando os modelos de nossos aplicativos!
 
-## Graphene-Django
+### Graphene-Django
 
 O **Graphene-Django** é construído sob o Graphene. O Graphene-Django fornece algumas abstrações adicionais que facilitam a adição da funcionalidade GraphQL ao nosso projeto Django.
 
 Agora que estamos brevemente familiarizados com as tecnologias que iremos utilizar nesse tutorial, podemos dar início à configuração de nosso projeto e iniciar o desenvolvimento de nossa GraphQL API, projeto que irá expor dados sobre artistas musicais.
 
-# Configurando a Aplicação
+## Configurando a Aplicação
 
-## Diretórios
+### Diretórios
 
 Iniciando do princípio vamos então criar o diretório de nosso projeto
 
@@ -81,7 +81,7 @@ Navegamos até nosso projeto através do comando `cd`
 cd projeto/
 ```
 
-## Ambiente Virtual
+### Ambiente Virtual
 
 Agora que estamos dentro do diretório `projeto`, vamos criar um **ambiente virtual**, de forma que possamos manter todas as dependências de nosso projeto isolados de nosso sistemas ou até mesmo de outros projetos.
 
@@ -101,7 +101,7 @@ source ambientev/bin/activate
 
 Imediatamente nosso terminal de comandos será prefixado com `(ambientev)` significando que estamos com este ambiente virtual ativado e toda biblioteca Python será instalada nele. Caso queriamos desativar este ambiente devemos digitar o comando `deactivate`.
 
-## Instalando Bibliotecas
+### Instalando Bibliotecas
 
 Com o nosso ambiente virtual ativado, vamos então utilizar `pip` para instalar o framework Django e a biblioteca Graphene, ferramentas fundamentais de nosso projeto.
 
@@ -110,7 +110,7 @@ pip install django
 pip install graphene-django
 ```
 
-## Criando o Projeto
+### Criando o Projeto
 
 Agora que temos Django instalado em nosso ambiente virtual, vamos inicializar a criação do projeto com o seguinte comando
 
@@ -138,7 +138,7 @@ python manage.py migrate
 
 Com o banco de dados inicializado, agora podemos começar a editar os arquivos do projeto.
 
-## Configurando os Arquivos
+### Configurando os Arquivos
 
 Dentro do arquivo `graphqlapi/settings.py`, vamos buscar uma lista Python com o nome `INSTALLED_APPS` e vamos adicionar o seguinte a ela
 
@@ -165,9 +165,9 @@ GRAPHENE = {
 
 Finalmente podemos então executar o projeto com o comando `python manage.py runserver` e visitá-lo no endereço `http://127.0.0.1:8000/`. Agora que temos uma base de projeto definida e configurada, podemos dar início a criação de nossos **modelos** e **schemas**.
 
-# Desenvolvendo o Projeto
+## Desenvolvendo o Projeto
 
-## Definindo o Modelo
+### Definindo o Modelo
 
 Os modelos do Django descrevem o layout do banco de dados do nosso projeto. Cada modelo é uma classe Python que geralmente é mapeada para uma tabela de banco de dados. As propriedades da classe são mapeadas para as colunas do banco de dados.
 
@@ -244,7 +244,7 @@ python manage.py runserver
 
 Visitamos o endereço `127.0.0.1:8000/admin/` para fazer login no painel administrativo e imediatamente veremos que nossos modelos estão todos registrados, já podemos começar a inserir dados experimentais para os testes que iremos fazer com GraphQL, então escolha seus artistas e discos favoritos e vamos para a próxima etapa.
 
-## GraphQL - Schema e Object Types
+### GraphQL - Schema e Object Types
 
 Para executarmos *queries* ao nosso projeto Django, precisaremos de elementos essenciais:
 
@@ -339,7 +339,7 @@ schema = graphene.Schema(query=Query)
 
 Podemos imaginar esse arquivo como similar ao arquivo `urls.py` de nível superior, agora finalmente podemos registrar nossas **views** para posteriormente testarmos as *queries*.
 
-## Criando GraphiQL Views
+### Criando GraphiQL Views
 
 O GraphiQL é um IDE GraphQL interativo gráfico no navegador. Em outras palavras, um playground para executarmos nossos testes. 
 
@@ -362,7 +362,7 @@ urlpatterns = [
 
 Certificamos-nos que nosso servidor está executando normalmente e nos dirigimos então ao endereço `http://127.0.0.1:8000/graphql/` e agora podemos testar nossa API!
 
-## Executando Queries
+### Executando Queries
 
 Lembre de criar dados de teste para que nossas consultas não retornem vazio, feito isso, vamos iniciar selecionando os Discos de nosso banco de dados
 
@@ -429,7 +429,7 @@ query Artistas {
 
 Perceba que estamos conseguindo selecionar os dados com sucesso, nossas *queries* estão funcionando, nosso objetivo agora é criar *mutations* que nos permitirão enviar dados para o servidor e inserí-los em nosso banco de dados.
 
-## Criando Mutations
+### Criando Mutations
 
 As **Mutations queries** modificam os dados no banco de dados e retornam um valor. Pode ser usado para inserir, atualizar ou excluir dados. Mutações são definidas como parte do schema, vamos agora implementá-las para possamos inserir artistas e discos em nosso projeto.
 
@@ -522,7 +522,7 @@ schema = graphene.Schema(query=Query, mutation=Mutation)
 
 De forma a garantir que nossas mutações estão funcionando corretas, vamos escrever alguns testes!
 
-## Escrevendo Mutations
+### Escrevendo Mutations
 
 As mutações seguem um modelo similar às *queries*, vamos adicionar um disco ao nosso banco de dados para entendermos melhor
 
@@ -568,7 +568,7 @@ mutation createArtista {
 
 Veja que conseguimos inserir dados com sucesso em nossa aplicação, nosso objetivo está finalmente concluído e temos uma GraphQL API executando com sucesso e com a funcionalidade de inserção de dados.
 
-# Conclusão
+## Conclusão
 
 Através desse tutorial estivemos aptos a aprender sobre a nova tecnologia GraphQL e como utilizar ela em conjunto com o framework Django através da biblioteca Graphene que nos permitiu facilmente criarmos uma API para assim consultarmos dados de nosso banco de dados e até mesmo inserí-los. Você pode aprimorar este projeto adicionando a funcionalidade de atualizar os dados ou até mesmo deletá-los.
 
@@ -576,7 +576,7 @@ O código fonte do projeto pode ser encontrado no GitHub: **[Django GraphQL Tuto
 
 Bons estudos!
 
-# Referências
+## Referências
 
 - [How to GraphQL](https://www.howtographql.com)
 - [What are Web APIs](https://hackernoon.com/what-are-web-apis-c74053fa4072)

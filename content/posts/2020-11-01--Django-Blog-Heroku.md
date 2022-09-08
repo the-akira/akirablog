@@ -13,7 +13,7 @@ tags:
 description: "Neste guia vamos desenvolver um Blog completo com o framework Django e no final vamos fazer o deployment de nosso projeto na plataforma Heroku utilizando o sistema gerenciador de banco de dados PostgreSQL."
 ---
 
-# Conteúdo
+## Conteúdo
 
 1. [Introdução](#introdução)
 2. [Primeiros Passos](#primeiros-passos)
@@ -21,7 +21,7 @@ description: "Neste guia vamos desenvolver um Blog completo com o framework Djan
 4. [Deployment no Heroku](#deployment-no-heroku)
 5. [Conclusão](#conclusão)
 
-# Introdução
+## Introdução
 
 O **[Django](https://www.djangoproject.com)** é um framework Web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático. Construído por desenvolvedores experientes, ele cuida de grande parte do aborrecimento do desenvolvimento Web, para que você possa se concentrar em escrever seu aplicativo sem precisar reinventar a roda. É de código aberto e gratuito.
 
@@ -38,7 +38,7 @@ Sites conhecidos que usam o **Django** incluem o Public Broadcasting Service, In
 - Neste guia vamos desenvolver juntos o seguinte projeto: **https://akiradjango.herokuapp.com**
 - Você pode encontrar o código fonte em: **https://github.com/the-akira/Django-Blog-Tutorial**
 
-## Funcionamento
+### Funcionamento
 
 Em um site tradicional orientado a dados, uma aplicação Web aguarda solicitações **HTTP** do navegador da Web (ou outro cliente). Quando uma solicitação é recebida, o aplicativo calcula o que é necessário com base na **URL** e, possivelmente, nas informações dos dados `POST` ou `GET`. Dependendo do que for necessário, ele poderá ler ou gravar informações em um banco de dados ou executar outras tarefas necessárias para atender à solicitação. O aplicativo retornará uma resposta ao navegador da Web, geralmente criando dinamicamente uma **página HTML** para exibição do navegador, inserindo os dados recuperados nos espaços reservados em um **template HTML**.
 
@@ -59,7 +59,7 @@ Agora que obtivemos informações essenciais sobre os fundamentos básicos do Dj
 
 Lembre-se que é necessário termos o **[Python](https://www.python.org)** em nosso computador para que possamos utilizar o Django!
 
-# Primeiros Passos
+## Primeiros Passos
 
 Iniciaremos nosso projeto criando um diretório, chamaremos ele de **projeto**, vamos utilizar o comando **[mkdir](https://en.wikipedia.org/wiki/Mkdir)** para criá-lo:
 
@@ -154,7 +154,7 @@ Escolha o nome do seu usuário, preencha seu endereço de email e escolha uma se
 Estes foram os primeiros passos básicos para iniciarmos uma aplicação Django, agora vamos efetivamente iniciar a construção de nosso Blog!
 
 
-# Construindo o Blog
+## Construindo o Blog
 
 Um conceito muito importante no framework Django são os **apps**, Um Django **app** é uma pequena biblioteca que representa uma parte discreta de um projeto maior. É muito comum um projeto Django ser composto de vários **apps**, cada um contendo uma solução específica, por exemplo, é possível ter um **app** que vá lidar apenas com o gerenciamento dos usuários de nossa aplicação.
 
@@ -178,7 +178,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-## Model
+### Model
 
 Agora que nosso **app** já está registrado, vamos criar nosso **model** que é a fonte única e definitiva de informações sobre seus dados. Ele contém os campos e comportamentos essenciais dos dados que você está armazenando. Geralmente, cada modelo é mapeado para uma única tabela de banco de dados, manteremos nosso **model** simples para fins de aprendizado, vamos então editar o arquivo `models.py` localizado dentro do diretório `blog/`, ele contará com o seguinte conteúdo:
 
@@ -223,7 +223,7 @@ python manage.py migrate
 
 Com o comando `python manage.py runserver` executamos nosso servidor, visitamos o endereço `http://127.0.0.1:8000/admin/` e veremos que já podemos cadastrar os nossos Posts através do painel de administrativo do Django. Muito legal, não?
 
-## Templates
+### Templates
 
 Um **Django template** é um documento de texto ou uma sequência de caracteres Python **marcada usando** a linguagem de modelo do Django. Algumas construções são reconhecidas e interpretadas pelo mecanismo de modelo. Os principais são variáveis e tags.
 
@@ -266,7 +266,7 @@ E o arquivo `index.html` contará com o seguinte conteúdo:
 
 O arquivo `base.html` será o nosso layout principal, os demais arquivos HTML serão apenas um extensão dele, ele é nosso arquivo mestre. Veja que nele foram definidas as tags `{% block content %}{% endblock content %}`, elas definem um bloco de conteúdo que pode ser inserido através de outro arquivo, e é exatamente o que fazemos no arquivo `index.html`, todas as tags HTML dentro de `{% block content %}{% endblock content %}` são injetadas no arquivo `base.html` fazendo com que seja muito mais fácil organizarmos e mantermos o código de nossa aplicação, sem precisarmos repetir código.
 
-## Atualizando views e urls
+### Atualizando views e urls
 
 Começaremos alterando o arquivo `views.py` com o seguinte conteúdo:
 
@@ -302,7 +302,7 @@ Além dos imports já presentes no arquivo, importamos também o **PostListView*
 
 Nesse ponto já podemos visitar nosso blog em `http://127.0.0.1:8000/` e ver os **Posts** apresentados em nosso index. Caso não haja nenhum post apresentado, visite o back-end de nossa aplicação (painel administrativo Django) e cadastre novos posts!
 
-## Arquivos Static
+### Arquivos Static
 
 Os sites geralmente precisam exibir arquivos adicionais, como imagens, JavaScript ou CSS. No Django, nos referimos a esses arquivos como "arquivos static".
 
@@ -337,7 +337,7 @@ Agora precisamos atualizar nosso arquivo `base.html` para que nosso CSS seja car
 
 Observe que usamos o comando `{% load static %}` para carregar os arquivos static e depois utilizamos a função `{% static 'blog/style.css' %}` para carregar nosso arquivo `style.css`. Como podemos ver, nossos estilos foram aplicados com sucesso, caso não tenha atualizado para você, certifique-se de ter seguido todos os passos corretamente e não esqueça de sempre fazer uma limpeza no cache de seu navegador.
 
-## Página de Detalhes para cada Post e Paginação no Index
+### Página de Detalhes para cada Post e Paginação no Index
 
 Vamos agora adicionar uma página específica para cada post de nosso blog, para isso, precisaremos alterar nosso arquivo `views.py` e nosso arquivo `urls.py` e também devemos criar um novo template chamado `post_detail.html`
 
@@ -434,7 +434,7 @@ Por fim, vamos adicionar paginação em nossa página principal e também vamos 
 {% endblock content %}
 ```
 
-## Adicionando Formulário para busca de Posts
+### Adicionando Formulário para busca de Posts
 
 Vamos adicionar um formulário de pesquisa em nossa aplicação de forma a permitir que nossos usuários executem buscas em nosso banco de dados. Começaremos editando nosso arquivo `index.html`:
 
@@ -579,7 +579,7 @@ Observe que simplesmente importamos as **views** do package **blog** e definimos
 
 Finalmente podemos executar nosso servidor com o comando `python manage.py runserver` para testarmos nossa aplicação! Caso não tenha inserido posts em seu blog, visite o Back-end `http://127.0.0.1:8000/admin/` e insira alguns para que você possa experimentar com o formulário de busca.
 
-## Melhorando a aparência de nossa aplicação!
+### Melhorando a aparência de nossa aplicação!
 
 Para finalizar, vamos fazer algumas edições em nossos arquivos `.html` e `.css`, de forma aperfeiçoarmos o aspecto visual de nossa aplicação.
 
@@ -796,7 +796,9 @@ i{
 
 Nosso projetado está finalizado, agora podemos fazer o deployment dele na plataforma Heroku.
 
-# Deployment no Heroku
+## Deployment no Heroku
+
+**Importante**: A partir de 28 de novembro de 2022, o Heroku Dynos gratuito, o Heroku Postgres gratuito e o Heroku Data for Redis gratuito não estarão mais disponíveis.
 
 Nosso primeiro passo no tutorial é fazer o download e instalar a interface de linha de comandos do Heroku para o seu Sistema Operacional, não vamos abordar essa etapa em detalhe, uma vez que ela é particular para cada sistema.
 
@@ -876,7 +878,7 @@ Porém... Veja que se acessarmos nossa aplicação, veremos um erro, algo como: 
 heroku run python manage.py migrate
 ```
 
-Com as migrações feitas, nossa aplicação já pode ser visitada em `https://akiradjango.herokuapp.com`, agora precisamos apenas criar o super-usuário, vamos executar:
+Com as migrações feitas, agora precisamos apenas criar o super-usuário, vamos executar:
 
 ```
 heroku run bash
@@ -888,9 +890,9 @@ Ganhamos uma interface de linha de comandos que nos fornece acesso direto ao nos
 python manage.py createsuperuser
 ```
 
-Escolha seu **nome de usuário**, **endereço de email** e defina uma **senha**. Sucesso! Agora podemos navegar até `https://akiradjango.herokuapp.com/admin/` e começar a adicionar **Posts** em nosso Blog.
+Escolha seu **nome de usuário**, **endereço de email** e defina uma **senha**. Agora podemos acessar o painel de administrador e adicionar **Posts** ao nosso blog!
 
-# Conclusão
+## Conclusão
 
 Através desse pequeno tutorial fomos capazes de aprender conceitos fundamentais do framework Django e através deles criar um simples Blog no qual fizemos o deploy na plataforma Heroku.
 

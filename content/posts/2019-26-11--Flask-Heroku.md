@@ -13,13 +13,15 @@ tags:
 description: "Neste guia vamos aprender como fazer Deploy de uma simples aplicação na plataforma Heroku."
 ---
 
-# Introdução
+## Introdução
 
 Heroku é uma **plataforma em nuvem como serviço** ([PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)) que suporta várias linguagens de programação. Uma das primeiras plataformas em nuvem, o Heroku está em desenvolvimento desde junho de 2007, quando suportava apenas a linguagem de programação Ruby, mas agora suporta Java, Node.js, Scala, Clojure, Python, PHP e Go. Por esse motivo, o Heroku é considerado uma plataforma poliglota, pois possui recursos para um desenvolvedor criar, executar e dimensionar aplicativos de maneira semelhante na maioria dos idiomas.
 
 Neste guia vamos fazer o **[Deploy](https://www.fullstackpython.com/deployment.html)** de uma simples Aplicação Web escrita com o microframework Flask, para isso vamos utilizar a plataforma Heroku. O **deployment** envolve empacotar seu aplicativo Web e colocá-lo em um ambiente de produção que possa executar o aplicativo para que todos no mundo possam vê-lo.
 
-## Tutorial
+**Importante**: A partir de 28 de novembro de 2022, o Heroku Dynos gratuito, o Heroku Postgres gratuito e o Heroku Data for Redis gratuito não estarão mais disponíveis.
+
+### Tutorial
 
 1. Nosso primeiro passo no tutorial é **fazer o download e instalar** a **interface de linha de comandos** do Heroku para o seu Sistema Operacional, não vamos abordar essa etapa em detalhe, uma vez que ela é particular para cada sistema.
 
@@ -103,6 +105,6 @@ git push heroku master
 
 Observe que o envio não apenas envia as alterações, mas também resulta em uma reconstrução. O arquivo `requirements.txt` é verificado mais uma vez e assim por diante.
 
-Nossa aplicação já está **online**, podemos visitá-la em `https://akiraflask.herokuapp.com`
+Nossa aplicação já está **online**!
 
 Podemos concluir então que Heroku é uma plataforma muito interessante e que facilita muito o processo de Deployment de aplicações Python e até mesmo de outras linguagens.

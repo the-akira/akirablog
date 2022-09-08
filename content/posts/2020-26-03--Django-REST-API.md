@@ -14,7 +14,7 @@ description: "Neste tutorial vamos aprender como desenvolver uma REST API com Dj
 
 ![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/DjangoRest.png)
 
-# Conteúdo
+## Conteúdo
 
 1. [Introdução](#introdução)
 2. [Iniciando o Projeto](#iniciando-o-projeto)
@@ -22,13 +22,13 @@ description: "Neste tutorial vamos aprender como desenvolver uma REST API com Dj
 4. [Conclusão](#conclusão)
 5. [Referências](#referências)
 
-# Introdução
+## Introdução
 
 Django REST framework é um kit de ferramentas poderoso e flexível para a construção de **Web API's**, também muito conhecidas como **REST API's**.
 
 É fundamental que tenhamos a compreensão do conceito **REST** de forma que assim consigamos aproveitar o máximo do potencial deste framework para a construção de API's que estejam de acordo com as restrições **REST**.
 
-## REST
+### REST
 
 REST é acrônimo para **REpresentational State Transfer**. É um estilo arquitetônico para sistemas hipermídia distribuídos e foi apresentado pela primeira vez por **Roy Fielding** em 2000 em sua famosa [dissertação](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
 
@@ -44,7 +44,7 @@ Ao utilizar um protocolo **stateless** e suas operações padrão, os sistemas R
 
 Como qualquer outro estilo arquitetural, o REST também possui seus próprios guias restritivos que devem ser atendidas caso uma interface tenha o desejo de ser referida como RESTful.
 
-## Princípios Orientadores do REST
+### Princípios Orientadores do REST
 
 1. **Client-Server**: Ao separar os aspectos da interface do usuário dos aspectos de armazenamento de dados, aprimoramos a portabilidade da interface do usuário em várias plataformas e melhoramos a escalabilidade, simplificando os componentes do servidor.
 2. **Stateless**: Cada solicitação do cliente para o servidor deve conter todas as informações necessárias para entender a solicitação e não pode tirar proveito de nenhum contexto armazenado no servidor. O estado da sessão é, portanto, mantido inteiramente no cliente.
@@ -53,7 +53,7 @@ Como qualquer outro estilo arquitetural, o REST também possui seus próprios gu
 5. **Layered System**: O estilo do sistema em camadas permite que uma arquitetura seja composta de camadas hierárquicas, restringindo o comportamento do componente, de modo que cada componente não possa "ver" além da camada imediata com a qual está interagindo.
 6. **Code on demand (optional)**: O REST permite que a funcionalidade do cliente seja estendida baixando e executando o código na forma de applets ou scripts. Isso simplifica os clientes, reduzindo o número de recursos necessários para a pré-implementação.
 
-## Recursos
+### Recursos
 
 A abstração chave das informações na arquitetura REST são os **recursos**. Qualquer informação que possa ser nomeada pode ser um recurso: um **documento** ou **imagem**, um **serviço temporal**, uma **coleção de outros recursos**, um **objeto não virtual** (por exemplo, uma pessoa) e assim por diante. O REST usa um **identificador de recurso** para identificar o recurso específico envolvido em uma interação entre componentes.
 
@@ -63,7 +63,7 @@ O formato dos dados de uma representação é conhecido como um **[media type](h
 
 O acesso aos recursos é fornecido pelo **servidor REST** no qual o **cliente REST** é usado para acessar e também para modificar recursos. Todos os recursos são identificados via [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)(Uniform Resource Identifier).
 
-## Projeto
+### Projeto
 
 A **REST API** que vamos desenvolver oferecerá os recursos **filmes** e **usuários**, estes últimos que serão os usuários da aplicação, cadastrados em nosso banco de dados, capazes de: 
 
@@ -88,7 +88,7 @@ Com essa breve introdução podemos finalmente iniciar as preparações para o d
 
 Você pode encontrar o código-fonte desse projeto no **[GitHub](https://github.com/the-akira/Django-REST-Tutorial)** caso tenha alguma dúvida específica.
 
-# Iniciando o Projeto
+## Iniciando o Projeto
 
 Começaremos do princípio, criando o diretório principal de nosso projeto
 
@@ -201,9 +201,9 @@ Escolha um **username** e uma **senha**. Dados estes que serão utilizados para 
 
 Estão definidas as configurações básicas de nossa API, agora podemos efetivamente partir para as etapas de desenvolvimento.
 
-# Desenvolvendo a API
+## Desenvolvendo a API
 
-## Modelo
+### Modelo
 
 Um modelo é uma classe que representa tabela ou coleção em nosso banco de dados e onde cada atributo da classe é um campo da tabela ou coleção.
 
@@ -248,7 +248,7 @@ E finalmente, sincronizar o banco de dados com os modelos atualizados
 python manage.py migrate
 ```
 
-## Serializers
+### Serializers
 
 Os serializadores permitem que dados complexos, como **querysets** e **models**, sejam convertidos em tipos de dados Python nativos, que podem ser facilmente renderizados em JSON, XML ou outros tipos de conteúdo. 
 
@@ -282,7 +282,7 @@ Observe que importamos os modelos **Filme** e **User** que serão serializados e
 
 Com nossos serializadores estabelecidos, devemos agora trabalhar nas **views** de nossa API
 
-## Views
+### Views
 
 Uma view é um mecanismo Python que recebe uma requisição Web e retorna uma resposta. Para trabalharmos com as views, editaremos o arquivo `resources/views.py`
 
@@ -352,13 +352,13 @@ python manage.py runserver
 
 "Starting development server at `http://127.0.0.1:8000/`"
 
-## Testando os Endpoints
+### Testando os Endpoints
 
 Para os testes irei utilizar [curl](https://curl.haxx.se/), ferramenta de linha de comando e biblioteca para transferir dados com URL's que acredito ser muito eficaz. Existem muitas outras opções excelentes de ferramentas para essas tarefas, como [HTTPie](https://httpie.org/) por exemplo e obviamente **[Requests](https://requests.readthedocs.io/en/master/)**, sinta-se livre para escolher sua solução favorita.
 
 O próprio Django REST framework oferece um mecanismo construído que nos permite interagir diretamente como nossa API, visite por exemplo o endereço: `http://127.0.0.1:8000/usuarios/` e verás os usuários cadastrados no projeto.
 
-### Autenticando
+#### Autenticando
 
 Você deve lembrar que no início de nosso projeto, registramos um super usuário com permissões especiais, utilizaremos ele para autenticar em nossa API, para que possamos então interagir com todos os recursos disponíveis.
 
@@ -382,7 +382,7 @@ Receberemos um **Token** similar a esse:
 
 Iremos guardá-lo para utilizarmos ele nas próximas requisições.
 
-### Enviando Dados
+#### Enviando Dados
 
 Através do método **POST** podemos cadastrar filmes no endpoint `filmes/`
 
@@ -390,7 +390,7 @@ Através do método **POST** podemos cadastrar filmes no endpoint `filmes/`
 curl -d '{"titulo":"The Lord of the Rings","diretor":"Peter Jackson","sinopse":"The Lord of the Rings is a film series of three epic fantasy adventure films directed by Peter Jackson, based on the novel written by J. R. R. Tolkien.","genero":"Adventure","owner":1}' -H "Content-Type: application/json" -X POST http://localhost:8000/filmes/ -H 'Authorization: Token 75c0bba76256298d8d7ea5f204cfad83fe9a174d'
 ```
 
-### Obtendo Dados
+#### Obtendo Dados
 
 Através do método **GET** podemos obter os filmes cadastrados na aplicação
 
@@ -418,7 +418,7 @@ curl -X GET http://localhost:8000/usuarios/1/
 
 Note que não foi preciso especificarmos o **Token** para que possámos obter os usuários, uma vez que esse recurso não foi protegido por nós.
 
-### Atualizando Dados
+#### Atualizando Dados
 
 O método HTTP **PUT** nos permite atualizarmos os dados de nossa API, vejamos como podemos atualizar um filme
 
@@ -428,7 +428,7 @@ curl -d '{"titulo":"Fight Club","diretor":"David Fincher","sinopse":"Fight Club 
 
 Perceba que estou alterando o filme de `ID=2`.
 
-### Deletando Dados
+#### Deletando Dados
 
 O método **DELETE** nos permite remover recursos específicos de nossa API
 
@@ -440,7 +440,7 @@ Perceba que estou removendo o filme de `ID=1`.
 
 Finalmente conseguimos atingir as funcionalidades básicas fundamentais de uma REST API.
 
-# Conclusão
+## Conclusão
 
 Através desse pequeno guia fomos capazes de aprender os aspectos básicos da arquitetura REST, bem como sua importância no desenvolvimento de Softwares. 
 
@@ -454,7 +454,7 @@ Considere também a escrita de testes automatizados para validar cada **endpoint
 
 Desejo a você uma boa exploração!
 
-# Referências
+## Referências
 
 - [Django REST framework](https://www.django-rest-framework.org/)
 - [Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)

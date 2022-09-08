@@ -14,7 +14,7 @@ description: "Neste artigo estudaremos os três pilares ao qual a linguagem Java
 
 ![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/PilaresJS.png)
 
-# Conteúdo
+## Conteúdo
 
 1. [Introdução](#introdução)
 2. [Pilar I: Escopo e Closure](#pilar-i-escopo-e-closure)
@@ -35,11 +35,11 @@ description: "Neste artigo estudaremos os três pilares ao qual a linguagem Java
     - [Coerção de Tipos](#coerção-de-tipos)
 5. [Referências](#referências)
 
-# Introdução
+## Introdução
 
 Inspirado pelo livro [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS), no qual o autor Kyle Simpson cita **Escopos/Closures**, **Prototypes/Objetos** e **Tipos/Coerção** como os três pilares fundamentais em que a linguagem Javascript é organizada, gostaria de estabelecer um breve estudo sobre esses importantes conceitos de forma a maximizar nosso conhecimento. Para informações mais detalhadas você pode consultar o livro ou as referências utilizadas.
 
-## Pilar I: Escopo e Closure
+### Pilar I: Escopo e Closure
 
 O escopo no JavaScript refere-se ao contexto atual do código, que determina a acessibilidade das variáveis ao JavaScript.
 
@@ -51,7 +51,7 @@ Sumarizando então temos:
 - O escopo determina a acessibilidade (visibilidade) das variáveis.
 - Variáveis definidas dentro de uma função não são acessíveis (visíveis) de fora da função.
 
-### Escopo Global
+#### Escopo Global
 
 Uma variável que estiver declarada fora de todas as **funções** ou **chaves** (`{}`) pertencerá ao **escopo global**.
 
@@ -96,7 +96,7 @@ var nome = 'felippe'
 console.log(nome) // felippe
 ```
 
-### Escopo Local
+#### Escopo Local
 
 As variáveis com escopo local são apenas visíveis e acessíveis em seus escopos locais (onde estão definidas). Você pode pensar no escopo local como um novo escopo criado dentro do escopo global.
 
@@ -123,7 +123,7 @@ console.log(numero) // ReferenceError: numero is not defined
 
 Como imaginávamos, nos foi retornado um erro(*ReferenceError*), uma vez que a variável `numero` pertence exclusivamente ao escopo local da função `escopoLocal()`.
 
-### Instruções de Bloco
+#### Instruções de Bloco
 
 Instruções de bloco como as condições `if` e `switch` ou loops `for` e `while`, diferente das funções, eles não criam um novo escopo. Variáveis definidas dentro da instrução de bloco irão permanecer no escopo em que já estavam. Vejamos exemplos:
 
@@ -169,7 +169,7 @@ console.log(jogo) // ReferenceError: jogo is not defined
 
 Perceba que não foi possível acessarmos as variáveis `livro` e `jogo`, uma vez que elas estão restritas ao **escopo do bloco**.
 
-### O Conceito de Escopo Léxico
+#### O Conceito de Escopo Léxico
 
 O escopo de JavaScript é determinado em tempo de compilação. O termo para essa forma de escopo é "escopo léxico". Esta palavra "léxico" está relacionada ao estágio "*lexing*" de compilação, a idéia principal do "escopo léxico" é que ele é totalmente controlado pelo posicionamento de funções, blocos e declarações de variáveis, um em relação ao outro.
 
@@ -206,7 +206,7 @@ A função `inicializar()` cria uma variável local chamada `bibliotecas` e uma 
 
 Este é um exemplo de escopo léxico, que descreve como um *[parser](https://www.techopedia.com/definition/3853/parse)* resolve nomes de variáveis quando funções são aninhadas. A palavra "léxico" refere-se ao fato de o escopo léxico usar o local em que uma variável é declarada no código-fonte para determinar onde essa variável está disponível. Funções aninhadas têm acesso a variáveis declaradas em seu escopo externo, por isso foi possível acessarmos os dados do [array](https://www.w3schools.com/js/js_arrays.asp) `bibliotecas`.
 
-### Closure
+#### Closure
 
 *[Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))* é a combinação de uma função agrupada (envolvida) com referências ao seu ambiente léxico. Em outras palavras, closure nos fornece acesso ao escopo de uma função externa a partir de uma função interna. Em JavaScript, closures são criados toda vez que uma função é criada, no momento da criação da função.
 
@@ -283,13 +283,13 @@ Em outras palavras, cada vez o que usuário clicar no botão, `conta()` receber�
 
 Finalizamos então nosso breve estudo sobre **Escopos e Closures** reconhecendo a importância desses aspectos dentro da linguagem Javascript, para mais detalhes você pode visitar as referências!
 
-## Pilar II: Prototypes e Objetos
+### Pilar II: Prototypes e Objetos
 
 JavaScript é uma linguagem projetada em um paradigma simples baseado em objetos. 
 
 Um **objeto** é uma coleção de propriedades e uma propriedade é uma **associação** entre um **nome (ou chave)** e um **valor**. O valor de uma propriedade pode ser uma função; nesse caso, a propriedade é conhecida como método. Além dos objetos predefinidos no navegador, podemos definir nossos próprios objetos. 
 
-### Criando Objetos
+#### Criando Objetos
 
 Existem diversas maneiras de criarmos um objeto em JavaScript. A maneira mais simples e popular é usar a **sintaxe literal do objeto**:
 
@@ -356,7 +356,7 @@ A palavra-chave `this` tem valores diferentes, dependendo do contexto em que é 
 - Em um evento, `this` se refere ao elemento que recebeu o evento.
 - Métodos como `call()` e `apply()` podem se referir a qualquer objeto. 
 
-### Métodos
+#### Métodos
 
 Como vimos, uma propriedade é a associação entre um **nome(chave)** e um **valor** dentro de um objeto, e nela pode estar contigo qualquer tipo de dados. Uma propriedade geralmente se refere à característica de um objeto.
 
@@ -378,9 +378,9 @@ console.log(pessoa.nomeCompleto())
 
 No exemplo acima, vemos que o valor da string do método do objeto `nomeCompleto()` é retornado.
 
-### Modificando Propriedades dos Objetos
+#### Modificando Propriedades dos Objetos
 
-#### Adicionando Propriedades
+##### Adicionando Propriedades
 
 Para adicionar uma nova propriedade a um **objeto**, você atribui um novo valor a uma propriedade com o operador de atribuição (**=**). Por exemplo, nós podemos modificar o **nome**, **sobrenome** e **idade** do objeto **pessoa**:
 
@@ -405,7 +405,7 @@ console.log(pessoa.info())
 
 Como podemos ver através da operação de atribuição, podemos modificar as propriedades e métodos de um objeto JavaScript.
 
-#### Removendo Propriedades
+##### Removendo Propriedades
 
 Você pode remover uma propriedade - não herdada - usando o operador `delete`. No código a seguir vamos remover a propriedade **idade** de nossa **pessoa**.
 
@@ -425,7 +425,7 @@ console.log(pessoa.idade)
 
 Observe que nos é retornado `undefined`, demonstrando assim que a propriedade `idade` e seu valor associado não estão mais disponíveis, mostrando assim que a exclusão ocorreu com sucesso.
 
-#### Enumerando as Propriedades
+##### Enumerando as Propriedades
 
 O JavaScript possui um tipo interno de loop `for` que se destina especificamente à iteração sob as propriedades de um **objeto**. Ele é conhecido como loop `for...in`.
 
@@ -475,7 +475,7 @@ console.log(Object.getOwnPropertyNames(pessoa))
 // [ 'nome', 'sobrenome', 'idade' ]
 ```
 
-### Prototypes em Javascript
+#### Prototypes em Javascript
 
 Todos os objetos JavaScript herdam propriedades e métodos de um **prototype**. 
 
@@ -528,7 +528,7 @@ Object {
 
 É importante que todo objeto em JavaScript tenha um [[Prototype]], pois cria uma maneira de vincular dois ou mais objetos.
 
-### Herança e a cadeia de Prototypes
+#### Herança e a cadeia de Prototypes
 
 Quando se trata de herança, o JavaScript possui apenas um constructo: **objetos**. Cada objeto possui uma propriedade privada que mantém um link para outro objeto chamado **prototype**. Esse objeto de **prototype** possui um prototype próprio e assim por diante até que um objeto seja alcançado com `null` como seu prototype. Por definição, `null` não possui protótipo e atua como o link final nessa cadeia de protótipos.
 
@@ -553,9 +553,9 @@ objeto.__proto__.__proto__
 
 Podemos perceber que o mecanismo de herança de Javascript é diferente de linguagens tradicionais como Java e C++, uma vez ele que é baseado em **prototypes**. Ao usar a herança, é recomendável que você não tenha muitos níveis de herança e mantenha um controle cuidadoso de onde define seus métodos e propriedades.
 
-## Pilar III: Tipos e Coerção
+### Pilar III: Tipos e Coerção
 
-### Tipos de Dados em Javascript
+#### Tipos de Dados em Javascript
 
 JavaScript define sete tipos internos:
 
@@ -583,7 +583,7 @@ console.log(typeof null) // object
 
 Perceba que `null` nos retorna um **object**, isso é um bug que persistiu por quase duas décadas e provavelmente nunca será corrigido porque há muito conteúdo da Web existente que se baseia no seu comportamento.
 
-### Valores como Tipos
+#### Valores como Tipos
 
 No JavaScript, as variáveis não têm tipos - os valores possuem tipos. As variáveis podem conter qualquer valor, a qualquer momento.
 
@@ -603,11 +603,11 @@ console.log(typeof typeof x) // string
 
 Uma vez que `typeof` retorna uma string, se utilizarmos por exemplo ele duas vezes em um número, receberemos uma string como retorno.
 
-### Coerção de Tipos
+#### Coerção de Tipos
 
 Coerção de tipo é o processo de conversão de valor de um tipo para outro (como string para número, objeto para booleano e assim por diante). Qualquer tipo, seja primitivo ou um objeto, é um válido para coerção de tipo. A coerção de tipos pode ser explícita e implícita.
 
-#### Coerção Explícita
+##### Coerção Explícita
 
 Quando um desenvolvedor expressa a intenção de converter entre tipos escrevendo o código apropriado, como `Number(valor)`, ele é chamado de **coerção explícita de tipo**(ou conversão de tipo), por exemplo:
 
@@ -617,7 +617,7 @@ console.log(String(8)) // 8
 console.log(Boolean(1)) // true
 ```
 
-#### Coerção Implícita
+##### Coerção Implícita
 
 Uma vez que JavaScript é uma [linguagem de tipagem fraca](https://en.wikipedia.org/wiki/Strong_and_weak_typing), os valores também podem ser convertidos entre diferentes tipos automaticamente, e isso é chamado de **coerção implícita** de tipo, por exemplo:
 
@@ -666,7 +666,7 @@ console.log(1 === '1') // false
 
 O conceito de coerção é algo que encontramos constantemente como desenvolvedores JavaScript, portanto, entendê-lo é essencial. As informações que expomos nesse artigo são suficientes para obtermos uma visão geral, porém existem muitos detalhes que você pode estudar para se aprofundar.
 
-## Referências
+### Referências
 
 - [Understanding Scope in Javascript](https://scotch.io/tutorials/understanding-scope-in-javascript)
 - [Javascript: A Basic Guide to Scope](https://codeburst.io/javascript-a-basic-guide-to-scope-9682d57be6fc)

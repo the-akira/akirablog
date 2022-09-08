@@ -17,6 +17,8 @@ description: "Recursos de alto nível para estudantes e pesquisadores de Ciênci
 	Projeto que visa reunir recursos de alto nível sobre Ciência da Computação para você masterizar seu conhecimento nesta poderosa Ciência e seus diversos campos.
 </p>
 
+---------------------------------------
+
 ## Conteúdo
 
 - Getting Started

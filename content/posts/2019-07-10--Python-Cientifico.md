@@ -18,6 +18,8 @@ mais."
 
 ---------------------------------------
 
+## Python Científico
+
 Python é uma linguagem capaz de rodar em múltiplas plataformas, de propósito-geral e alto nível. De tal forma, ela possui
 inúmeras aplicações e vem sendo amplamente adotada em diversas comunidades, da ciência de dados até mesmo desenvolvimento web.
 Python é muito valorizada por sua eficiente e precisa sintáxe e sua capacidade de integração com outras linguagens (**C**/**C++**/**FORTRAN**).

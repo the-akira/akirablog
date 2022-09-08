@@ -13,17 +13,19 @@ tags:
 description: "Neste guia vamos aprender como transformar uma aplicação Flask em um Docker Container, assim como, fazer Deploy desta aplicação na plataforma Heroku."
 ---
 
-# Introdução
+## Introdução
 
-Neste guia buscamos como objetivo transformar uma aplicação **Flask** em um **[Docker Container](https://www.docker.com/resources/what-container)** e em seguida fazer deploy desta aplicação na plataforma Heroku. Para estas tarefas, é importante, primeiramente, entendermos o que é a tecnologia Docker e como ela pode ajudar os desenvolvedores.
+Neste guia buscamos como objetivo transformar uma aplicação **Flask** em um **[Docker Container](https://www.docker.com/resources/what-container)** e em seguida fazer deploy desta aplicação na plataforma **Heroku**. Para estas tarefas, é importante, primeiramente, entendermos o que é a tecnologia Docker e como ela pode ajudar os desenvolvedores.
 
-## Docker
+**Importante**: A partir de 28 de novembro de 2022, o Heroku Dynos gratuito, o Heroku Postgres gratuito e o Heroku Data for Redis gratuito não estarão mais disponíveis.
+
+### Docker
 
 O Docker é um conjunto de produtos de plataforma como serviço [(PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service) que usam a virtualização no nível do Sistema Operacional para fornecer software em pacotes chamados contêineres. Os contêineres são isolados um do outro e agrupam seu próprio software, bibliotecas e arquivos de configuração; eles podem também se comunicar através de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, são mais leves que as máquinas virtuais, o software que hospeda os contêineres é chamado **Docker Engine**:
 
 ![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Tutoriais/docker-engine-components-flow.png)
 
-### Docker Container
+#### Docker Container
 
 Um contêiner é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro. Uma imagem de contêiner do Docker é um pacote de software leve, independente e executável que inclui tudo que é necessário para executar um aplicativo: código, tempo de execução, ferramentas do sistema, bibliotecas e configurações do sistema.
 
@@ -159,7 +161,7 @@ Estamos quase concluindo nossa implantação. O contêiner foi enviado, mas aind
 heroku container:release web --app dockerflaskpy
 ```
 
-Feito! Funcionou! Nossa aplicação já está **live** no seguinte endereço: `https://dockerflaskpy.herokuapp.com/`
+Feito! Funcionou! Nossa aplicação está **online**.
 
 ### Conclusão
 
