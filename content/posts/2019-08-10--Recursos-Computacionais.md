@@ -13,6 +13,8 @@ description: "Recursos de alto nível para estudantes e pesquisadores de Ciênci
 
 ![alt text](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/avatar.png "")
 
+## Objetivo
+
 <p align="center">
 	Projeto que visa reunir recursos de alto nível sobre Ciência da Computação para você masterizar seu conhecimento nesta poderosa Ciência e seus diversos campos.
 </p>

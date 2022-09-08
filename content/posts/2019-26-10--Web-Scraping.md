@@ -12,12 +12,12 @@ tags:
 description: "Explorando Técnicas de Web Scraping com Python."
 ---
 
-<h1 align="center">
-    <img alt="Python" title="Python-Scraping" src="https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Avatar.png"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Avatar.png)
+
+## Objetivo
 
 <p style="text-align: center;">
-	Explorando Técnicas de Web Scraping com Python
+Explorar Técnicas de Web Scraping com Python.
 </p>
 
 ---------------------------------------

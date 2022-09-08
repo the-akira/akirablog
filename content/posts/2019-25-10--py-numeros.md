@@ -12,9 +12,9 @@ tags:
 description: "Projeto que visa estabelecer um estudo sobre Números, Sistemas de Numeração e Bases Numéricas."
 ---
 
-<h1 align="center">
-    <img alt="Python" title="PyNumeros" src="https://raw.githubusercontent.com/the-akira/PyNumeros/master/Imagens/Avatar.png"> </br>
-</h1>
+![img](https://raw.githubusercontent.com/the-akira/PyNumeros/master/Imagens/Avatar.png)
+
+## Objetivo
 
 <p align="center">
 	Projeto que visa estabelecer um estudo sobre Números, Sistemas de Numeração e Bases Numéricas.
