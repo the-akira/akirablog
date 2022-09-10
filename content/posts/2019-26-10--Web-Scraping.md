@@ -15,7 +15,7 @@ description: "Explorando Técnicas de Web Scraping com Python."
 ![img](https://raw.githubusercontent.com/the-akira/Python-Web-Scraping/master/images/Avatar.png)
 
 <p style="text-align: center;">
-Explorando Técnicas de Web Scraping com Python.
+Projeto que visa Explorar Técnicas de Web Scraping com Python.
 </p>
 
 ---------------------------------------
