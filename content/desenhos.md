@@ -7,40 +7,40 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 <b>Abstrato</b>
 
-![img](https://i.imgur.com/3KXCWZK.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
 
 <b>Diversão entre amigos</b>
 
-![img](https://i.imgur.com/NKnfzd9.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/friends.png)
 
 <b>Alienação</b>
 
-![img](https://i.imgur.com/LJZOl2w.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/alienation.png)
 
 <b>Geo-Insetos</b>
 
-![img](https://i.imgur.com/J3gUyeR.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/insects.png)
 
 <b>Guardião dos Mistérios</b>
 
-![img](https://i.imgur.com/I1PRlMk.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/key.png)
 
 <b>Capela da Restauração da Ordem Divina</b>
 
-![img](https://i.imgur.com/CY3DvIC.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/chapel.png)
 
 <b>Igreja do Grande Arquiteto</b>
 
-![img](https://i.imgur.com/jk4VFYU.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/church.png)
 
 <b>Mesquita do Profeta Esquecido</b>
 
-![img](https://i.imgur.com/6zgpVIu.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/moske.png)
 
 <b>Templo do Sol Eterno</b>
 
-![img](https://i.imgur.com/kgFuBI7.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/temple.png)
 
 <b>Templo da Unificação da Consciência</b>
 
-![img](https://i.imgur.com/lb3loRj.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/sunmoon.png)
