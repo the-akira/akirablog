@@ -9,6 +9,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
 
+<b>Simetria</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
+
 <b>Diversão entre amigos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/friends.png)
@@ -17,7 +21,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/alienation.png)
 
-<b>Geo-Insetos</b>
+<b>Insetos Geométricos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/insects.png)
 
@@ -29,7 +33,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/chapel.png)
 
-<b>Igreja do Grande Arquiteto</b>
+<b>Igreja do Grande Arquiteto do Universo</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/church.png)
 
@@ -41,6 +45,6 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/temple.png)
 
-<b>Templo da Unificação da Consciência</b>
+<b>Santuário da Unificação da Consciência</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/sunmoon.png)
