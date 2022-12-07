@@ -9,11 +9,23 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
 
-<b>Simetria</b>
+<b>Totem Sagrado</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/totem.png)
 
-<b>Diversão entre amigos</b>
+<b>Outra Dimensão</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/dimension.png)
+
+<b>Reunião</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
+
+<b>Natureza</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/nature.png)
+
+<b>Diversão entre Amigos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/friends.png)
 
