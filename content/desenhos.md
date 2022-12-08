@@ -25,9 +25,9 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
 
-<b>Natureza Paralela</b>
+<b>Planeta Ômega</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/nature.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/omega.png)
 
 <b>Diversão entre Amigos</b>
 
