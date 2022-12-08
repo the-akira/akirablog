@@ -9,6 +9,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
 
+<b>Matrix</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/matrix.png)
+
 <b>Totem Sagrado</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/totem.png)
@@ -21,7 +25,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
 
-<b>Natureza</b>
+<b>Natureza Paralela</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/nature.png)
 
