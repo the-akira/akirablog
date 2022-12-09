@@ -25,6 +25,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
 
+<b>Ascensão</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/ascension.png)
+
 <b>Planeta Ômega</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/omega.png)
@@ -64,3 +68,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Santuário da Unificação da Consciência</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/sunmoon.png)
+
+<b>Portal Ancestral</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/portal.png)
