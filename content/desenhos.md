@@ -21,6 +21,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/dimension.png)
 
+<b>Máquina Secreta</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/machine.png)
+
 <b>Reunião</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
