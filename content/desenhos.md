@@ -9,6 +9,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
 
+<b>Matemática</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/math.png)
+
 <b>Matrix</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/matrix.png)
@@ -16,6 +20,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Totem Sagrado</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/totem.png)
+
+<b>Unidade</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/unity.png)
 
 <b>Outra Dimensão</b>
 
