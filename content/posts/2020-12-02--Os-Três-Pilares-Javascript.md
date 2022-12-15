@@ -1,15 +1,15 @@
 ---
-title: Os Três Pilares de Javascript
+title: Os Três Pilares de JavaScript
 date: "2020-02-12T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/pilares-javascript/"
-category: "Javascript"
+category: "JavaScript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "Programação"
   - "Web"
-description: "Neste artigo estudaremos os três pilares ao qual a linguagem Javascript é organizada: Escopos/Closures, Prototypes/Objetos e Tipos/Coerção."
+description: "Neste artigo estudaremos os três pilares ao qual a linguagem JavaScript é organizada: Escopos/Closures, Prototypes/Objetos e Tipos/Coerção."
 ---
 
 ![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/PilaresJS.png)
@@ -27,17 +27,17 @@ description: "Neste artigo estudaremos os três pilares ao qual a linguagem Java
     - [Criando Objetos](#criando-objetos)
     - [Métodos](#métodos)
     - [Modificando Propriedades dos Objetos](#modificando-propriedades-dos-objetos)
-    - [Prototypes em Javascript](#prototypes-em-javascript)
+    - [Prototypes em JavaScript](#prototypes-em-javascript)
     - [Herança e a Cadeia de Prototypes](#herança-e-a-cadeia-de-prototypes)
 4. [Pilar III: Tipos e Coerção](#pilar-iii-tipos-e-coerção)
-    - [Tipos de Dados em Javascript](#tipos-de-dados-em-javascript)
+    - [Tipos de Dados em JavaScript](#tipos-de-dados-em-javascript)
     - [Valores como Tipos](#valores-como-tipos)
     - [Coerção de Tipos](#coerção-de-tipos)
 5. [Referências](#referências)
 
 ## Introdução
 
-Inspirado pelo livro [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS), no qual o autor Kyle Simpson cita **Escopos/Closures**, **Prototypes/Objetos** e **Tipos/Coerção** como os três pilares fundamentais em que a linguagem Javascript é organizada, gostaria de estabelecer um breve estudo sobre esses importantes conceitos de forma a maximizar nosso conhecimento. Para informações mais detalhadas você pode consultar o livro ou as referências utilizadas.
+Inspirado pelo livro [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS), no qual o autor Kyle Simpson cita **Escopos/Closures**, **Prototypes/Objetos** e **Tipos/Coerção** como os três pilares fundamentais em que a linguagem JavaScript é organizada, gostaria de estabelecer um breve estudo sobre esses importantes conceitos de forma a maximizar nosso conhecimento. Para informações mais detalhadas você pode consultar o livro ou as referências utilizadas.
 
 ### Pilar I: Escopo e Closure
 
@@ -238,7 +238,7 @@ Perceba que esse código é bastante similar ao anterior, exceto que estamos rec
 
 Uma vez que `inicializar('svelte')` teve sua execução finalizada, você pode esperar que a variável `nome` e `bibliotecas` não sejam mais acessíveis. No entanto, como o código ainda funciona conforme o esperado, não é o que ocorre com JavaScript.
 
-O motivo de conseguirmos acessar as variáveis é porque em Javascript as funções formam *Closures*. Podemos dizer então que uma *Closure* é uma combinação de uma função e o ambiente léxico no qual essa função foi declarada. O ambiente consiste de qualquer variável local que estava no escopo no momento em que a *Closure* foi criada.
+O motivo de conseguirmos acessar as variáveis é porque em JavaScript as funções formam *Closures*. Podemos dizer então que uma *Closure* é uma combinação de uma função e o ambiente léxico no qual essa função foi declarada. O ambiente consiste de qualquer variável local que estava no escopo no momento em que a *Closure* foi criada.
 
 As situações em que você pode querer aplicar *Closures* são particularmente comuns na web. Grande parte do código que escrevemos no JavaScript front-end é baseado em eventos - definimos algum comportamento e o anexamos a um evento que é disparado pelo usuário (como um clique ou um pressionamento de tecla). Nosso código geralmente é anexado como um *Callback*: uma única função que é executada em resposta ao evento.
 
@@ -281,7 +281,7 @@ Nesse simples documento **HTML** temos uma botão que ativa a função `contar()
 
 Em outras palavras, cada vez o que usuário clicar no botão, `conta()` receberá o valor de retorno da função `adicao()`, guardando sempre o estado da variável `counter`, fazendo possível com que consigamos incrementá-la sem perder o seu "estado" e assim modificando o valor do parágrafo em cada clique que ocorre.
 
-Finalizamos então nosso breve estudo sobre **Escopos e Closures** reconhecendo a importância desses aspectos dentro da linguagem Javascript, para mais detalhes você pode visitar as referências!
+Finalizamos então nosso breve estudo sobre **Escopos e Closures** reconhecendo a importância desses aspectos dentro da linguagem JavaScript, para mais detalhes você pode visitar as referências!
 
 ### Pilar II: Prototypes e Objetos
 
@@ -475,7 +475,7 @@ console.log(Object.getOwnPropertyNames(pessoa))
 // [ 'nome', 'sobrenome', 'idade' ]
 ```
 
-#### Prototypes em Javascript
+#### Prototypes em JavaScript
 
 Todos os objetos JavaScript herdam propriedades e métodos de um **prototype**. 
 
@@ -551,11 +551,11 @@ objeto.__proto__.__proto__
 // null
 ```
 
-Podemos perceber que o mecanismo de herança de Javascript é diferente de linguagens tradicionais como Java e C++, uma vez ele que é baseado em **prototypes**. Ao usar a herança, é recomendável que você não tenha muitos níveis de herança e mantenha um controle cuidadoso de onde define seus métodos e propriedades.
+Podemos perceber que o mecanismo de herança de JavaScript é diferente de linguagens tradicionais como Java e C++, uma vez ele que é baseado em **prototypes**. Ao usar a herança, é recomendável que você não tenha muitos níveis de herança e mantenha um controle cuidadoso de onde define seus métodos e propriedades.
 
 ### Pilar III: Tipos e Coerção
 
-#### Tipos de Dados em Javascript
+#### Tipos de Dados em JavaScript
 
 JavaScript define sete tipos internos:
 
@@ -587,7 +587,7 @@ Perceba que `null` nos retorna um **object**, isso é um bug que persistiu por q
 
 No JavaScript, as variáveis não têm tipos - os valores possuem tipos. As variáveis podem conter qualquer valor, a qualquer momento.
 
-Outra forma de pensarmos sobre os tipos em Javascript é que a linguagem não tem "imposição de tipo", pois o mecanismo não insiste que uma variável sempre mantenha valores do mesmo tipo inicial com o qual começa. Uma variável pode, em uma instrução de atribuição, conter uma string e, na próxima, um número, e assim por diante.
+Outra forma de pensarmos sobre os tipos em JavaScript é que a linguagem não tem "imposição de tipo", pois o mecanismo não insiste que uma variável sempre mantenha valores do mesmo tipo inicial com o qual começa. Uma variável pode, em uma instrução de atribuição, conter uma string e, na próxima, um número, e assim por diante.
 
 O valor 100 tem um tipo intrínseco de número e seu tipo não pode ser alterado. Outro valor, como "88" com o tipo de string, pode ser criado a partir do valor numérico 88 por meio de um processo chamado **coerção**.
 
@@ -668,16 +668,16 @@ O conceito de coerção é algo que encontramos constantemente como desenvolvedo
 
 ### Referências
 
-- [Understanding Scope in Javascript](https://scotch.io/tutorials/understanding-scope-in-javascript)
-- [Javascript: A Basic Guide to Scope](https://codeburst.io/javascript-a-basic-guide-to-scope-9682d57be6fc)
-- [Scope and Closures in Javascript](https://8thlight.com/blog/jarkyn-soltobaeva/2017/06/13/scope-and-closures-in-javascript.html)
+- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)
+- [JavaScript: A Basic Guide to Scope](https://codeburst.io/javascript-a-basic-guide-to-scope-9682d57be6fc)
+- [Scope and Closures in JavaScript](https://8thlight.com/blog/jarkyn-soltobaeva/2017/06/13/scope-and-closures-in-javascript.html)
 - [JS Function Closures](https://www.w3schools.com/js/js_function_closures.asp)
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-- [Javascript Scope Closures](https://css-tricks.com/javascript-scope-closures/)
+- [JavaScript Scope Closures](https://css-tricks.com/javascript-scope-closures/)
 - [YDKJY: Scope-Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
-- [Understanding Objects in Javascript](https://www.taniarascia.com/understanding-objects-in-javascript/)
+- [Understanding Objects in JavaScript](https://www.taniarascia.com/understanding-objects-in-javascript/)
 - [Understanding Prototypes and Inheritance in JS](https://www.taniarascia.com/understanding-prototypes-and-inheritance-in-javascript/)
-- [Javascript Objects](https://javascript.info/object)
+- [JavaScript Objects](https://javascript.info/object)
 - [Objects Prototypes and Classes in JS](https://dev.to/attacomsian/objects-prototypes-and-classes-in-javascript-3i9b)
 - [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - [Objects Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)

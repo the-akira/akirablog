@@ -1,23 +1,23 @@
 ---
-title: Compreendendo Detalhes Fundamentais de Javascript
+title: Compreendendo Detalhes Fundamentais de JavaScript
 date: "2020-02-07T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/detalhes-fundamentais-javascript/"
-category: "Javascript"
+category: "JavaScript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "Programação"
   - "Fundamentos"
   - "Web"
-description: "Neste artigo vamos estudar detalhes fundamentais sobre Javascript e os mecanismos principais que atuam por trás da linguagem."
+description: "Neste artigo vamos estudar detalhes fundamentais sobre JavaScript e os mecanismos principais que atuam por trás da linguagem."
 ---
 
 ## Conteúdo
 
 1. [Introdução](#introdução)
-2. [O Poder de Javascript](#o-poder-de-javascript)
-3. [Javascript Engine](#javascript-engine)
+2. [O Poder de JavaScript](#o-poder-de-javascript)
+3. [JavaScript Engine](#javascript-engine)
 4. [JavaScript Runtime Environment](#javascript-runtime-environment)
 5. [Single-Threaded vs Assíncrono](#single-threaded-vs-assíncrono)
 6. [Conclusão](#conclusão)
@@ -42,7 +42,7 @@ Normalmente cada Browser/Navegador incorpora uma **JavaScript Engine** específi
 - **Nitro** - O mecanismo desenvolvido pela Apple. É usado no Safari.
 - **Chakra** - Desenvolvido pela Microsoft como o mecanismo JavaScript do navegador Edge.
 
-### O Poder de Javascript
+### O Poder de JavaScript
 
 O JavaScript moderno é uma linguagem de programação "segura". Ele não fornece acesso de baixo nível à memória ou ao CPU, porque foi criada inicialmente para navegadores que não precisam deste acesso.
 
@@ -65,7 +65,7 @@ O **ambiente do JavaScript no navegador** pode fazer tudo relacionado à manipul
 
 #### Application Programming Interfaces (API's)
 
-Uma característica muito importante do JavaScript são as **[Application Programming Interfaces (APIs)](https://en.wikipedia.org/wiki/Application_programming_interface)** que nos fornecem poderes extras para utilizarmos em nosso código Javascript.
+Uma característica muito importante do JavaScript são as **[Application Programming Interfaces (APIs)](https://en.wikipedia.org/wiki/Application_programming_interface)** que nos fornecem poderes extras para utilizarmos em nosso código JavaScript.
 
 As **API's** normalmente pertencem a duas categorias:
 
@@ -80,7 +80,7 @@ As **API's do navegador** são incorporadas ao seu navegador da Web e podem expo
 - A **[API do Twitter](https://developer.twitter.com/en/docs)** permite que você faça coisas como exibir seus últimos tweets em seu site.
 - A **[API do Google Maps](https://cloud.google.com/maps-platform/)** e permite incorporar mapas personalizados no seu site e outras funcionalidades desse tipo.
 
-### Javascript Engine
+### JavaScript Engine
 
 Uma JavaScript Engine é um programa de computador que executa o código JavaScript.
 
@@ -92,7 +92,7 @@ As Engines convertem o código de alto nível em código legível por máquina, 
 
 ![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/JSEngine.png)
 
-- **Primeiramente**: Um arquivo Javascript é alimentado ao **Analisador Léxico ou Parser**.
+- **Primeiramente**: Um arquivo JavaScript é alimentado ao **Analisador Léxico ou Parser**.
 - **Analisador Léxico ou Parser**: Verifica a síntaxe e a semântica. O **Parser** nada mais é do que uma análise léxica que resulta na quebra do código em tokens de forma a entender seu significado e esses tokens são convertidos em uma **Árvore de Sintaxe Abstrata (AST)**.
 - **Abstract Syntax Tree**: É uma árvore hierárquica que serve como a estrutura de representação do programa, que permite ao interpretador entender o programa. A Abstract Syntax Tree é inicialmente direcionado ao interpretador. Você pode utilizar o [ASTExplorer](https://astexplorer.net/) para explorar em detalhes como o **Parser** funciona.
 - **Interpretador**: Permite que a **AST** seja convertida em **[Bytecode](https://en.wikipedia.org/wiki/Bytecode)**. No mecanismo V8, esse processo é conhecido como Ignição. Porém quando um código é repetido várias vezes:
@@ -116,17 +116,17 @@ No código acima nós estamos chamando a função **adicionar()** 1000 vezes. Qu
 
 ### JavaScript Runtime Environment
 
-Quando visitamos um website, utilizamos normalmente um web browser como Google Chrome ou Mozilla Firefox para esta tarefa. Cada browser possui um **Javascript Runtime Environment**, nele estão contidas as **Web API's** que um desenvolvedor pode acessar para construir um programa.
+Quando visitamos um website, utilizamos normalmente um web browser como Google Chrome ou Mozilla Firefox para esta tarefa. Cada browser possui um **JavaScript Runtime Environment**, nele estão contidas as **Web API's** que um desenvolvedor pode acessar para construir um programa.
 
-O **[AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)**, a **[árvore DOM](https://www.w3schools.com/js/js_htmldom.asp)** e outras APIs não fazem parte do Javascript, são apenas objetos com propriedades e métodos, fornecidos pelo navegador e disponibilizados no JavaScript Runtime Environment do navegador.
+O **[AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)**, a **[árvore DOM](https://www.w3schools.com/js/js_htmldom.asp)** e outras APIs não fazem parte do JavaScript, são apenas objetos com propriedades e métodos, fornecidos pelo navegador e disponibilizados no JavaScript Runtime Environment do navegador.
 
-Também existe dentro do JavaScript Runtime Environment a Javascript Engine(vista anteriormente por nós) que analisa o código.
+Também existe dentro do JavaScript Runtime Environment a JavaScript Engine(vista anteriormente por nós) que analisa o código.
 
-Podemos imaginar o JavaScript Runtime Environment como um grande container. Dentro desse container existem outros containers menores. Conforme a Javascript Engine executa a análise do código, esta começa a colocar diferentes pedaços de código em diferentes containers.
+Podemos imaginar o JavaScript Runtime Environment como um grande container. Dentro desse container existem outros containers menores. Conforme a JavaScript Engine executa a análise do código, esta começa a colocar diferentes pedaços de código em diferentes containers.
 
 ![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/Java-Script-Engine.png)
 
-- **Heap**: Este é o espaço de memória física usado para armazenar variáveis, funções e objetos. Como tudo em Javascript é um objeto, tudo o que é alocado na memória usando a palavra-chave `new` é armazenado no **heap**. O Javascript também possui um coletor de lixo que libera a memória alocada para que não precise ser liberada manualmente, como em C/C++
+- **Heap**: Este é o espaço de memória física usado para armazenar variáveis, funções e objetos. Como tudo em JavaScript é um objeto, tudo o que é alocado na memória usando a palavra-chave `new` é armazenado no **heap**. O JavaScript também possui um coletor de lixo que libera a memória alocada para que não precise ser liberada manualmente, como em C/C++
 - **Stack**: É aqui que as chamadas de função e API (API da Web em browsers e API C/C ++ em máquinas locais via Nodejs) são armazenadas. Essa parte se comporta exatamente como uma estrutura de dados de pilha típica com uma estrutura LIFO (Last In, First Out). As chamadas de função são adicionadas ao topo da pilha e salvas do topo após a conclusão da execução.
 - **API's (Web ou C/C++)**: É aqui que a funcionalidade real das funções internas, como `setTimeout()` e `fetch()`, está localizada. De certa forma, funções como `setTimeout()` podem ser consideradas como uma ativação da função API e sendo retiradas da **Stack de chamadas** imediatamente enquanto a função API continua sendo executada em segundo plano (nesse caso, um temporizador é executado no fundo)
 - **Fila de Callbacks**: Algumas funções, como `setTimeout()` que entram em contato com a API, exigem que uma **[função callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)** seja fornecida para que ela saiba o que fazer após a execução da função da API. Nesse caso, as funções callback são colocadas na fila de callback. A própria fila se comporta como uma estrutura de dados fila, uma estrutura FIFO (primeiro a entrar, primeiro a sair)
@@ -146,7 +146,7 @@ Se um script é muito longo, ele bloqueia outros. É por isso que os Callbacks d
 
 ### Single-Threaded vs Assíncrono
 
-Javascript é uma linguagem de Single-Thread (Na ciência da computação, uma Thread é como uma entidade capaz de executar linhas de código independentemente) isso significa que ele possui uma stack de chamadas e um heap(memória). Como esperado, ele executa o código em ordem e deve concluir a execução de uma peça de código antes de passar para o próximo. É síncrono, mas às vezes isso pode ser prejudicial. Por exemplo, se uma função demorar para executar ou tiver de esperar por algo, isso causará um "congelamento" durante esse período, um bom exemplo que podemos considerar é:
+JavaScript é uma linguagem de Single-Thread (Na ciência da computação, uma Thread é como uma entidade capaz de executar linhas de código independentemente) isso significa que ele possui uma stack de chamadas e um heap(memória). Como esperado, ele executa o código em ordem e deve concluir a execução de uma peça de código antes de passar para o próximo. É síncrono, mas às vezes isso pode ser prejudicial. Por exemplo, se uma função demorar para executar ou tiver de esperar por algo, isso causará um "congelamento" durante esse período, um bom exemplo que podemos considerar é:
 
 ```javascript
 alert("Hello World");
@@ -154,11 +154,11 @@ alert("Hello World");
 
 Não poderemos interagir com a página web até que cliquemos em **OK** para que o alerta possa desaparecer.
 
-É então que podemos nos perguntar, como obter código assíncrono com Javascript?
+É então que podemos nos perguntar, como obter código assíncrono com JavaScript?
 
 A stack de chamadas é capaz de reconhecer funções da **Web API** e possibilita elas serem manuseadas pelo browser. Uma vez que essas tarefas sejam finalizadas pelo browser, elas retornam e são colocadas na stack como uma Callback.
 
-Podemos abrir o **console** de nosso navegador e digitar `window` e então apertar **enter**. Podemos então visualizar tudo que a **Web API** tem a nos oferecer. Isso inclui chamadas AJAX, Event Listeners, fetch API e setTimeout, o Javascript usa linguagens de programação de baixo nível como C++ para executá-las nos bastidores.
+Podemos abrir o **console** de nosso navegador e digitar `window` e então apertar **enter**. Podemos então visualizar tudo que a **Web API** tem a nos oferecer. Isso inclui chamadas AJAX, Event Listeners, fetch API e setTimeout, o JavaScript usa linguagens de programação de baixo nível como C++ para executá-las nos bastidores.
 
 Vamos agora executar o seguinte código em nosso console para vermos um exemplo:
 
@@ -182,7 +182,7 @@ undefined
 Vamos compreender o que aconteceu:
 
 - Nos é retornado *undefined*, isso porque `setTimeout` não foi finalizado, ele retorna *undefined* como padrão, uma vez que ainda não foi atribuído um valor a ele.
-- `console.log("1")` é o primeiro na stack, sendo assim, ele é impresso. Em seguida, a JavaScript Engine percebe o `setTimeout`, ao qual não é manuseado pelo Javascript, sendo assim ele é enviado para a **Web API** para ser tratado de forma assíncrona. A stack de chamadas segue então sem se preocupar com o código que foi enviado para a Web API e o `console.log("3")` é impresso.
+- `console.log("1")` é o primeiro na stack, sendo assim, ele é impresso. Em seguida, a JavaScript Engine percebe o `setTimeout`, ao qual não é manuseado pelo JavaScript, sendo assim ele é enviado para a **Web API** para ser tratado de forma assíncrona. A stack de chamadas segue então sem se preocupar com o código que foi enviado para a Web API e o `console.log("3")` é impresso.
 - Uma vez que a função Callback finalmente é executada, `console.log("2")` é impresso.
 
 Para mais detalhes, **[Loupe](https://latentflip.com/loupe/)** é uma visualização para ajudar você a entender como a **stack de chamadas** / **loop de eventos** / **fila de callbacks** do JavaScript interagem entre si.
@@ -194,13 +194,13 @@ A partir da especificação **ES6**, o JavaScript introduziu vários recursos qu
 
 ### Conclusão
 
-Javascript é uma linguagem moderna com diversas particularidades, tornando assim essencial que entendamos os mecanismos que operam por trás da linguagem, para que assim seja possível escrevermos códigos mais eficientes e livre de *bugs*! 
+JavaScript é uma linguagem moderna com diversas particularidades, tornando assim essencial que entendamos os mecanismos que operam por trás da linguagem, para que assim seja possível escrevermos códigos mais eficientes e livre de *bugs*!
 
-Este artigo trouxe um estudo sobre essas peculiaridades e apresentou a sua importância, demonstrando que é essencial entendermos como uma linguagem é construída, dessa forma a sua caminhada perante o aprendizado de Javascript será otimizada. 
+Este artigo trouxe um estudo sobre essas peculiaridades e apresentou a sua importância, demonstrando que é essencial entendermos como uma linguagem é construída, dessa forma a sua caminhada perante o aprendizado de JavaScript será otimizada.
 
 Para masterizar seu conhecimento existem recursos excelentes na Web, destaco especialmente:
 
-- **[W3Schools Javascript Tutorial](https://www.w3schools.com/js/)**
+- **[W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)**
 - **[The Modern JavaScript Tutorial](https://javascript.info/)**
 - **[TypeOfNaN JavaScript Quizzes](https://quiz.typeofnan.dev/)**
 - **[MDN - JavaScript - Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)**
@@ -214,8 +214,8 @@ Bons estudos!
 - [What is the difference between JavaScript Engine and JavaScript Runtime Environment](https://stackoverflow.com/questions/29027845/what-is-the-difference-between-javascript-engine-and-javascript-runtime-environm/29027933)
 - [What happens inside JavaScript Engine?](https://www.geeksforgeeks.org/what-happens-inside-javascript-engine/)
 - [What is JavaScript Engine?](http://dolszewski.com/javascript/javascript-runtime-environment/)
-- [If Javascript Is Single Threaded, How Is It Asynchronous?](https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd)
-- [Javascript and Asynchronous Magic - Explaining the JS Engine and Event Loop](https://levelup.gitconnected.com/javascript-and-asynchronous-magic-bee537edc2da)
-- [The Javascript Runtime Environment](https://medium.com/@olinations/the-javascript-runtime-environment-d58fa2e60dd0)
+- [If JavaScript Is Single Threaded, How Is It Asynchronous?](https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd)
+- [JavaScript and Asynchronous Magic - Explaining the JS Engine and Event Loop](https://levelup.gitconnected.com/javascript-and-asynchronous-magic-bee537edc2da)
+- [The JavaScript Runtime Environment](https://medium.com/@olinations/the-javascript-runtime-environment-d58fa2e60dd0)
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [So you think you know JavaScript?](https://www.amanexplains.com/so-you-think-you-know-JavaScript/)
