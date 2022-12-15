@@ -4,9 +4,9 @@ date: "2020-02-07T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/detalhes-fundamentais-javascript/"
-category: "JavaScript"
+category: "Javascript"
 tags:
-  - "JavaScript"
+  - "Javascript"
   - "Programação"
   - "Fundamentos"
   - "Web"
