@@ -84,3 +84,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Portal Ancestral</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/portal.png)
+
+<b>Coruja Sábia</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/owl.png)
