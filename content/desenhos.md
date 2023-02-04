@@ -88,3 +88,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Coruja Sábia</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/owl.png)
+
+<b>Criaturas do Abismo Primordial</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abyss.png)
