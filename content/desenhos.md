@@ -85,7 +85,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/portal.png)
 
-<b>Memorial à Rainha Gloriosa</b>
+<b>Memorial à Sacerdotisa Gloriosa</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/memorial.png)
 
@@ -100,3 +100,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Cyber Dragon GFX-7833</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/cyberdragon.png)
+
+<b>Mágico Aprendiz</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/rabbit.png)
