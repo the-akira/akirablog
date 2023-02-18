@@ -104,3 +104,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Mágico Aprendiz</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/rabbit.png)
+
+<b>Biblioteca Mística</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/library.png)
