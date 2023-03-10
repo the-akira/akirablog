@@ -108,3 +108,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Biblioteca Mística</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/library.png)
+
+<b>Monumento ao Magnífico Espírito</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/spirit.png)
