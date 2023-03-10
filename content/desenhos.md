@@ -97,10 +97,6 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abyss.png)
 
-<b>Cyber Dragon GFX-7833</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/cyberdragon.png)
-
 <b>Mágico Aprendiz</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/rabbit.png)
