@@ -108,3 +108,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Monumento ao Magnífico Espírito</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/spirit.png)
+
+<b>Interconexão</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/interconnection.png)
