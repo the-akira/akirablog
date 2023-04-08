@@ -6,7 +6,7 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo ao meu blog</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. 
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2022) e atualmente sou professor de informática em uma escola.
 
 <b>Conhecimentos que possuo:</b>
 
@@ -21,6 +21,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 - [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a linguagem Python;
 - [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
 - [Secret Library](https://secretslibrary.pythonanywhere.com/): Uma simples Biblioteca open-source desenvolvida com Flask;
+- [Bibliotheca Lucis](https://bibliothecalucis.netlify.app/): Um experimento de uma simples Biblioteca desenvolvida com JavaScript com o intuito de testar as capacidades de uma inteligência artificial no auxílio de desenvolvimento de software;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
 - [Philosophy API](https://philosophyapi.pythonanywhere.com/): Uma REST API que apresenta dados sobre o Universo Filosófico, desenvolvida com o framework Django;
 - [CC33Z](https://cc33z.pythonanywhere.com/): Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores;
