@@ -45,6 +45,10 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/omega.png)
 
+<b>Fluxo Natural</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/nature.png)
+
 <b>Diversão entre Amigos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/friends.png)
