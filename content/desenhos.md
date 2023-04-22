@@ -124,3 +124,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Bruxa Visionária</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/witch.png)
+
+<b>Dualidade Holográfica</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/duality.png)

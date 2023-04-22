@@ -6,13 +6,13 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo ao meu blog</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2022) e atualmente sou professor de informática em uma escola.
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-SC, Brasil. Estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com a linguagem de programação Python, porém não me limito apenas a ela, de fato me interesso pela computação como um todo. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2023) e atualmente sou professor de informática em uma escola.
 
 <b>Conhecimentos que possuo:</b>
 
   - **Linguagens:** HTML, CSS, JavaScript, Bash, C, C#, Python, SQL;
   - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Tensorflow, Keras, Matplotlib, Beautifulsoup;
-  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, Firefox, Google Chrome, Git, Docker, Jupyter Lab, Azure DevOps, Visual Studio;
+  - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, ChatGPT, Google Chrome, Git, Docker, Jupyter Lab, Azure DevOps, Visual Studio, Microsoft Excel;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
   - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise e Manipulação de Dados, Matemática, Games;
 
