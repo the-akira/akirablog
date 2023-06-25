@@ -128,3 +128,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Dualidade Holográfica</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/duality.png)
+
+<b>Visão</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/vision.png)
