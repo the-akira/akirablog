@@ -129,6 +129,6 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/duality.png)
 
-<b>Visão</b>
+<b>Gerador de Mana</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/vision.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/mana.png)
