@@ -132,3 +132,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Gerador de Mana</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/mana.png)
+
+<b>Altar da Sabedoria</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/altar.png)
