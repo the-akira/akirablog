@@ -101,7 +101,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abyss.png)
 
-<b>Visitantes do Além</b>
+<b>Vigilantes do Além</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/alien.png)
 
@@ -136,3 +136,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Altar da Sabedoria</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/altar.png)
+
+<b>Centro de Estudos Filosóficos</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/philosophy.png)
