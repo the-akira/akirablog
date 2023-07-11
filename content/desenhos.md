@@ -140,3 +140,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Centro de Estudos Filosóficos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/philosophy.png)
+
+<b>Simetria</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
