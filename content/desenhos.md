@@ -144,3 +144,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Simetria</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
+
+<b>Sinal</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/signal.png)
