@@ -43,4 +43,4 @@ Muito obrigado por sua visita, sinta-se a vontade para entrar em contato para co
 01000100 01100101 01110101 01110011 00100000 01110011 01110000 01100101 01110011 00100000 01101110 01101111 01110011 01110100 01110010 01100001
 </figure>
 
-**[CV Gabriel Felippe](https://gabrielcv.netlify.com/)**
+**[CV Gabriel Felippe](https://gabrielcv.netlify.com/)** | **[CL Gabriel Felippe](http://lattes.cnpq.br/6618667439740836)**
