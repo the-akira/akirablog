@@ -152,3 +152,11 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Lembrança de Cristo</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/christ.png)
+
+<b>Figuras</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/figures.png)
+
+<b>Unidos</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/united.png)
