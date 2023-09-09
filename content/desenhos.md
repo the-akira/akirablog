@@ -160,3 +160,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Formas</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/shapes.png)
+
+<b>Sigilo da Estrela</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/star.png)
