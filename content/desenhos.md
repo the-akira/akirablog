@@ -164,3 +164,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Sigilo da Estrela</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/star.png)
+
+<b>Fragmentos</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/fragments.png)
