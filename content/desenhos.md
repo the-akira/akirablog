@@ -168,3 +168,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Fragmentos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/fragments.png)
+
+<b>Harmonia</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/harmony.png)
