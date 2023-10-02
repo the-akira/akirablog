@@ -17,7 +17,7 @@ description: "Guia para Iniciantes com a Linguagem Python."
 ## Projeto
 
 <p align="center">
-Python Iluminado é um Guia construído especialmente para Iniciantes com a Linguagem Python. O objetivo é explorar conceitos fundamentais da computação e compreender o funcionamento da linguagem e suas capacidades e potencial, bem como apresentar uma vasta lista de materiais de estudos qualificados para você ampliar e aperfeiçoar o seu conhecimento.
+Python Iluminado é um Guia construído especialmente para Iniciantes com a Linguagem Python. O objetivo é explorar conceitos fundamentais de programação e compreender o funcionamento da linguagem e suas capacidades e potencial, bem como apresentar uma vasta lista de materiais de estudos qualificados para você ampliar e aperfeiçoar o seu conhecimento.
 </p>
 
 ---------------------------------------
