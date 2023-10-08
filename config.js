@@ -20,6 +20,10 @@ module.exports = {
       path: '/desenhos/'
     },
     {
+      label: 'Material Educativo',
+      path: '/materiais/'
+    },
+    {
       label: 'Sobre',
       path: '/sobre/'
     },
