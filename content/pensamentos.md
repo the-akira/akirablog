@@ -97,7 +97,7 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/FyodorDostoevsky.png)
 
-<b>GalileoGalilei</b>
+<b>Galileo Galilei</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/GalileoGalilei.png)
 
@@ -144,6 +144,10 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 <b>Ludwig Feuerbach</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/LudwigFeuerbach.png)
+
+<b>Ludwig Wittgenstein</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/LudwigWittgenstein.png)
 
 <b>Martin Luther King</b>
 
