@@ -24,6 +24,10 @@ module.exports = {
       path: '/materiais/'
     },
     {
+      label: 'Pensamentos',
+      path: '/pensamentos/'
+    },
+    {
       label: 'Sobre',
       path: '/sobre/'
     },
