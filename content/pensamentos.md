@@ -129,6 +129,10 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/Joana.png)
 
+<b>J.R.R. Tolkien</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/Tolkien.png)
+
 <b>Khalil Gibran</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/KhalilGibran.png)
@@ -140,6 +144,10 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 <b>Leo Tolstoy</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/LeoTolstoy.png)
+
+<b>Leonardo da Vinci</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/LeonardoDaVinci.png)
 
 <b>Ludwig Feuerbach</b>
 
