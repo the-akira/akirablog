@@ -4,11 +4,12 @@ date: "2019-04-25T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/python-numeros/"
-category: "Programação"
+category: "Python"
 tags:
   - "Python"
   - "Programação"
   - "Fundamentos"
+  - "Matemática"
 description: "Projeto que visa estabelecer um estudo sobre Números, Sistemas de Numeração e Bases Numéricas."
 ---
 

@@ -9,6 +9,7 @@ tags:
   - "Fundamentos"
   - "Algoritmos"
   - "Python"
+  - "Programação"
 description: "Artigo que visa estabelecer um breve estudo sobre o Algoritmo Quick Sort."
 ---
 

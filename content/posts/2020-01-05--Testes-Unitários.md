@@ -8,6 +8,7 @@ category: "Programação"
 tags:
   - "Fundamentos"
   - "Python"
+  - "Programação"
 description: "Neste guia vamos explorar o framework unittest do Python para testes automatizados através da execução de testes em uma Aplicação Flask."
 ---
 

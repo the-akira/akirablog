@@ -4,10 +4,11 @@ date: "2020-04-17T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/automatizando-web-browser-selenium/"
-category: "Web"
+category: "Web Development"
 tags:
-  - "Fundamentos"
+  - "Programação"
   - "Python"
+  - "Web Development"
 description: "Neste guia estudaremos técnicas de automação de Web Browsers com a API Selenium-Python."
 ---
 

@@ -4,10 +4,11 @@ date: "2020-09-06T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/face-detection/"
-category: "Programação"
+category: "Científico"
 tags:
   - "Programação"
   - "Científico"
+  - "Machine Learning"
 description: "Neste breve guia vamos explorar o conceito de Computer Vision com a biblioteca OpenCV, assim nos possibilitando, detectar faces em uma fotografia."
 ---
 

@@ -4,11 +4,13 @@ date: "2020-03-16T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/numeros-aleatorios-python/"
-category: "Fundamentos"
+category: "Matemática"
 tags:
   - "Python"
   - "Programação"
   - "Fundamentos"
+  - "Matemática"
+  - "Científico"
 description: "Neste guia vamos experimentar as funcionalidades da biblioteca random do Python. Esta que irá nos possibilitar trabalharmos com geradores de números pseudo-aleatórios para diversas distribuições de números."
 ---
 

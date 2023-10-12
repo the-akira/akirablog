@@ -6,9 +6,9 @@ draft: false
 slug: "/posts/algoritmo-dijkstra/"
 category: "Algoritmos"
 tags:
-  - "Fundamentos"
   - "Algoritmos"
   - "Python"
+  - "Programação"
 description: "Artigo que visa estabelecer um breve estudo ilustrado sobre o Algoritmo de Dijkstra."
 ---
 

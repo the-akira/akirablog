@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/detalhes-fundamentais-javascript/"
 category: "Javascript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "Programação"
   - "Fundamentos"
-  - "Web"
+  - "Web Development"
 description: "Neste artigo vamos estudar detalhes fundamentais sobre JavaScript e os mecanismos principais que atuam por trás da linguagem."
 ---
 

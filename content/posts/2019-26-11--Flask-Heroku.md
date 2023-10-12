@@ -9,7 +9,7 @@ tags:
   - "Fundamentos"
   - "Flask"
   - "Python"
-  - "Web"
+  - "Web Development"
 description: "Neste guia vamos aprender como fazer Deploy de uma simples aplicação na plataforma Heroku."
 ---
 

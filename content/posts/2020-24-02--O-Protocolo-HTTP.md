@@ -4,11 +4,13 @@ date: "2020-02-24T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/protocolo-http/"
-category: "Web"
+category: "Web Development"
 tags:
-  - "Web"
+  - "Web Development"
   - "Programação"
   - "Fundamentos"
+  - "JavaScript"
+  - "Python"
 description: "Neste artigo vamos conhecer detalhes importantes sobre o protocolo HTTP e explorar o seu funcionamento."
 ---
 

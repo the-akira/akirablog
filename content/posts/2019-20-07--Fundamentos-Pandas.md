@@ -9,6 +9,7 @@ tags:
   - "Python"
   - "Programação"
   - "Fundamentos"
+  - "Científico"
 description: "Pandas é uma biblioteca Python que fornece estruturas de dados rápidas, flexíveis e expressivas."
 ---
 

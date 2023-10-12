@@ -6,8 +6,10 @@ draft: false
 slug: "/posts/enviando-emails-python/"
 category: "Fundamentos"
 tags:
-  - "Web"
+  - "Web Development"
   - "Python"
+  - "Fundamentos"
+  - "Programação"
 description: "Neste breve guia vamos explorar técnicas de envio de Emails com Python."
 ---
 

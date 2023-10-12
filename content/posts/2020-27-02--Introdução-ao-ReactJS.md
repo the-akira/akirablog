@@ -4,11 +4,12 @@ date: "2020-02-27T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/introducao-react/"
-category: "Web"
+category: "Web Development"
 tags:
-  - "Web"
+  - "Web Development"
   - "Programação"
   - "Fundamentos"
+  - "JavaScript"
 description: "Neste artigo irei introduzir o famoso ReactJS, que é uma poderosa biblioteca Javascript, feita especialmente para a construção de Interfaces de Usuários."
 ---
 

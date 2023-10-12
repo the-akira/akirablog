@@ -8,8 +8,9 @@ category: "Machine Learning"
 tags:
   - "Programação"
   - "Python"
-  - "Fundamentos"
+  - "Científico"
   - "Data Science"
+  - "Machine Learning"
 description: "Neste artigo vamos estudar os conceitos teóricos fundamentais de Machine Learning, também construíremos um modelo de classificação de flores iris com o auxílio da biblioteca Scikit-Learn."
 ---
 

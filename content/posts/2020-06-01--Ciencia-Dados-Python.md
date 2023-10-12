@@ -4,11 +4,13 @@ date: "2020-01-06T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/ciencia-de-dados-python/"
-category: "Científico"
+category: "Data Science"
 tags:
   - "Machine Learning"
   - "Data Science"
   - "Python"
+  - "Científico"
+  - "Matemática"
 description: "Coleção de recursos sobre Ciência de Dados com Python: Artigos, Experimentos, Notebooks e Materiais."
 ---
 

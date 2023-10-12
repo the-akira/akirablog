@@ -8,7 +8,8 @@ category: "Django"
 tags:
   - "Python"
   - "Programação"
-  - "Web"
+  - "Web Development"
+  - "Django"
 description: "Neste tutorial vamos aprender como desenvolver uma REST API com Django REST framework. Ferramenta capaz de nos prover funcionalidades que nos permite construir API's com eficiência e rapidez."
 ---
 

@@ -8,7 +8,8 @@ category: "Matemática"
 tags:
   - "Python"
   - "Programação"
-  - "Matematica"
+  - "Matemática"
+  - "Científico"
 description: "A matemática (dos termos gregos μάθημα, transliterado máthēma, 'ciência', 'conhecimento' ou 'aprendizagem'; e μαθηματικός, transliterado mathēmatikós, 'inclinado a aprender') é a ciência do raciocínio lógico e abstrato, que estuda quantidades, medidas, espaços, estruturas, variações e estatísticas."
 ---
 

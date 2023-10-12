@@ -6,9 +6,11 @@ draft: false
 slug: "/posts/conjunto-julia-python/"
 category: "Algoritmos"
 tags:
-  - "Fundamentos"
   - "Algoritmos"
   - "Python"
+  - "Científico"
+  - "Matemática"
+  - "Programação"
 description: "Neste breve guia vamos explorar o Conjunto Julia, um tipo de Fractal: padrões infinitamente complexos que são auto-similares em diferentes escalas."
 ---
 

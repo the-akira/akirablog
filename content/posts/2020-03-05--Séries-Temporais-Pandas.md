@@ -8,6 +8,9 @@ category: "Data Science"
 tags:
   - "Programação"
   - "Python"
+  - "Científico"
+  - "Matemática"
+  - "Data Science"
 description: "Neste breve tutorial exploraremos o conceito de Séries Temporais com o auxílio da biblioteca Pandas e dados públicos sobre a criptomoeda Bitcoin."
 ---
 

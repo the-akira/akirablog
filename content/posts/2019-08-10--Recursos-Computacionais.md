@@ -8,6 +8,7 @@ category: "Fundamentos"
 tags:
   - "Fundamentos"
   - "Programação"
+  - "Matemática"
 description: "Recursos de alto nível para estudantes e pesquisadores de Ciência da Computação (disponíveis em diversos idiomas diferentes)."
 ---
 

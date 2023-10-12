@@ -6,6 +6,7 @@ draft: false
 slug: "/posts/algoritmo-heap-sort/"
 category: "Algoritmos"
 tags:
+  - "Programação"
   - "Fundamentos"
   - "Algoritmos"
   - "Python"

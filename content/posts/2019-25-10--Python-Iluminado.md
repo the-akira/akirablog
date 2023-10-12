@@ -9,6 +9,7 @@ tags:
   - "Python"
   - "Programação"
   - "Fundamentos"
+  - "Matemática"
 description: "Guia para Iniciantes com a Linguagem Python."
 ---
 

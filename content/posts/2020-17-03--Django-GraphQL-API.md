@@ -9,7 +9,7 @@ tags:
   - "Python"
   - "Programação"
   - "Django"
-  - "Web"
+  - "Web Development"
 description: "Através desse tutorial seremos capazes de aprender como desenvolver uma GraphQL API com Django e Graphene-Python."
 ---
 

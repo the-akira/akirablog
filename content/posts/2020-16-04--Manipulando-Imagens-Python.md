@@ -4,10 +4,12 @@ date: "2020-04-16T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/manipulando-imagens-python/"
-category: "Fundamentos"
+category: "Científico"
 tags:
   - "Programação"
   - "Python"
+  - "Matemática"
+  - "Científico"
 description: "Neste tutorial vamos aprender como carregar e manipular imagens em Python, com o auxílio das poderosas bibliotecas: NumPy, Matplotlib, Pillow e OpenCV."
 ---
 

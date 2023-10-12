@@ -6,7 +6,6 @@ draft: false
 slug: "/posts/desenhando-turtle-python/"
 category: "Python"
 tags:
-  - "Fundamentos"
   - "Python"
   - "Programação"
 description: "Turtle graphics é uma forma popular de apresentar a programação às crianças. Era parte da linguagem de programação Logo desenvolvida por Wally Feurzeig, Seymour Papert e Cynthia Solomon em 1967."

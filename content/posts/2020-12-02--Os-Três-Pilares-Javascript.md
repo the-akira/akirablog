@@ -6,9 +6,10 @@ draft: false
 slug: "/posts/pilares-javascript/"
 category: "Javascript"
 tags:
-  - "Javascript"
+  - "JavaScript"
   - "Programação"
-  - "Web"
+  - "Fundamentos"
+  - "Web Development"
 description: "Neste artigo estudaremos os três pilares ao qual a linguagem JavaScript é organizada: Escopos/Closures, Prototypes/Objetos e Tipos/Coerção."
 ---
 

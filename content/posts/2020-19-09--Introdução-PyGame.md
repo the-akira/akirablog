@@ -4,11 +4,12 @@ date: "2020-09-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/desenvolvimento-games-python/"
-category: "Programação"
+category: "Game Development"
 tags:
   - "Programação"
   - "Fundamentos"
-  - "Games"
+  - "Game Development"
+  - "Python"
 description: "Artigo voltado para estudos sobre o desenvolvimento de Games com Python utilizando a biblioteca PyGame."
 ---
 

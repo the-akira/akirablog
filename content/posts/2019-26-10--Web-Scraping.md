@@ -9,6 +9,8 @@ tags:
   - "Python"
   - "Programação"
   - "Web Scraping"
+  - "Fundamentos"
+  - "Data Science"
 description: "Explorando Técnicas de Web Scraping com Python."
 ---
 

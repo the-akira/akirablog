@@ -6,8 +6,10 @@ draft: false
 slug: "/posts/download-arquivos-python/"
 category: "Fundamentos"
 tags:
-  - "Web"
+  - "Web Development"
   - "Python"
+  - "Fundamentos"
+  - "Programação"
 description: "Neste guia vamos explorar diversas técnicas de download de arquivos da Web. Para estas tarefas contaremos com o auxílio de diferentes bibliotecas Python."
 ---
 

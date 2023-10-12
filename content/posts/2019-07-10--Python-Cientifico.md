@@ -4,9 +4,8 @@ date: "2019-07-10T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/python-cientifico-bibliotecas/"
-category: "Fundamentos"
+category: "Científico"
 tags:
-  - "Fundamentos"
   - "Científico"
   - "Python"
 description: "A alta popularidade da linguagem resultou em uma grande quantidade de bibliotecas e pacotes produzidos em campos como visualização
