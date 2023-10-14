@@ -384,7 +384,7 @@ dados['High'].plot(figsize=(8,6), grid=True, c='k', linewidth=3)
 
 Que nos retorna o seguinte gráfico
 
-![img](https://arquivos.netlify.app/timeseries/G1.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/Time%20Series/G1.png)
 
 Também podemos projetar as variações do **Market Cap**
 
@@ -394,7 +394,7 @@ dados['Market Cap'].plot(figsize=(8,6), grid=True, c='g', linewidth=3)
 
 Que nos retorna o seguinte gráfico
 
-![img](https://arquivos.netlify.app/timeseries/G2.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/Time%20Series/G2.png)
 
 ### Reamostrando e Agregando
 
