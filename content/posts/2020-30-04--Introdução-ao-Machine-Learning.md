@@ -14,7 +14,7 @@ tags:
 description: "Neste artigo vamos estudar os conceitos teóricos fundamentais de Machine Learning, também construíremos um modelo de classificação de flores iris com o auxílio da biblioteca Scikit-Learn."
 ---
 
-![img](https://arquivos.netlify.app/machinelearning/MLAvatar.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/MLAvatar.png)
 
 ## Conteúdo
 
@@ -64,7 +64,7 @@ Machine Learning é grandioso na solução de problemas como:
 - Ambientes flutuantes: Um sistema de Machine Learning pode se adaptar a novos dados.
 - Obter *insights* sobre problemas complexos e grandes quantidades de dados.
 
-![img](https://arquivos.netlify.app/machinelearning/Machine%20Learning.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/MachineLearning.png)
 
 ## Tipos de Sistemas de Machine Learning
 
@@ -90,7 +90,7 @@ Para entendermos melhor, vejamos em mais detalhes os diferentes tipos de aprendi
 
 No Aprendizado Supervisionado, os dados de treinamento que alimentamos no algoritmo incluem as soluções desejadas, também conhecidas como **rótulos**.
 
-![img](https://arquivos.netlify.app/machinelearning/SupervisedLearning.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/SupervisedLearning.png)
 
 Uma tarefa supervisionada comum é a **[classificação](https://en.wikipedia.org/wiki/Statistical_classification)**. O filtro de spam que citamos é um bom exemplo: ele é treinado com muitos exemplos de emails juntamente com suas respectivas classes (SPAM ou REGULAR) e assim deve aprender como classificar novos emails até então não vistos por ele.
 
@@ -108,7 +108,7 @@ Exemplos de importantes algoritmos de Supervised Learning:
 
 No Aprendizado Não-Supervisionado, como podemos imaginar, os dados de treinamento não são rotulados. O sistema tenta aprender sem o auxílio de um professor.
 
-![img](https://arquivos.netlify.app/machinelearning/UnsupervisedLearning.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/UnsupervisedLearning.png)
 
 Por exemplo, digamos que temos uma grande quantidade de dados sobre computadores e desejamos agrupá-los em grupos que possuam similaridade, para isso podemos usar um algoritmo de **[clustering](https://en.wikipedia.org/wiki/Cluster_analysis)**, e este pode eventualmente separar os computadores em grupos, possivelmente divididos por perfomance/eficiência.
 
@@ -205,7 +205,7 @@ Há quem diga que a classificação das flores Iris é o Hello World do Machine 
 
 ## Machine Learning Workflow
 
-![img](https://arquivos.netlify.app/machinelearning/MLWorkflow.png)
+![img](https://raw.githubusercontent.com/the-akira/DataScience/master/imagens/MLWorkflow.png)
 
 Para este projeto, seguiremos um modelo similar a este:
 
