@@ -169,6 +169,10 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/Michelangelo.png)
 
+<b>Paulo Freire</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/PauloFreire.png)
+
 <b>Pierre-Simon Laplace</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/Pierre-SimonLaplace.png)
@@ -180,6 +184,14 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 <b>Platão</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/Platao.png)
+
+<b>Ray Bradbury</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/RayBradbury.png)
+
+<b>Santo Agostinho</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/ideas/SantoAgostinho.png)
 
 <b>Sócrates</b>
 

@@ -19,18 +19,19 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
 <b>Alguns de meus projetos incluem:</b>
 
 - [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a linguagem Python;
-- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
+- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática com Python;
 - [Secret Library](https://secretslibrary.pythonanywhere.com/): Uma simples Biblioteca open-source desenvolvida com Flask;
-- [Bibliotheca Lucis](https://bibliothecalucis.netlify.app/): Um experimento de uma simples Biblioteca desenvolvida com JavaScript com o intuito de testar as capacidades de uma inteligência artificial no auxílio de desenvolvimento de software;
+- [Bibliotheca Lucis](https://bibliothecalucis.netlify.app/): Um experimento de uma simples Biblioteca, desenvolvida com JavaScript com o intuito de testar as capacidades de uma inteligência artificial no auxílio de desenvolvimento de software;
 - [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
-- [Philosophy API](https://philosophyapi.pythonanywhere.com/): Uma REST API que apresenta dados sobre o Universo Filosófico, desenvolvida com o framework Django;
+- [Philosophy API](https://philosophyapi.pythonanywhere.com/): Uma REST API que apresenta dados sobre o Mundo Filosófico, desenvolvida com o framework Django;
+- [The Salvation of Zoe](https://thesalvationofzoe.netlify.app/): Um Game de Aventura 2D open-source com finalidade reflexiva e educativa.
 - [CC33Z](https://cc33z.pythonanywhere.com/): Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores;
 
 <b>Contribuições, Projetos e Ideias:</b>
 
 Você pode contribuir com meus projetos através de pequenas quantidades de <b>Satoshi (BTC)</b>: `1FdGuC2FiCM6nJs9SW4Lek4D4YuRNRKvrk`
 
-O blog akira foi criado com o intuito de compartilhar conhecimento e trazer mais conteúdos para a comunidade open-source de língua portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. 
+O blog akira foi criado com o intuito de compartilhar conhecimento e trazer conteúdos para a comunidade open-source de língua portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. 
 
 <figure class="float-right" style="width: 400px">
 	<a href="https://en.wikipedia.org/wiki/Akira_(1988_film)"><img src="/media/akira.jpg" alt="Neo-Tokyo"></a>
