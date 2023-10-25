@@ -20,6 +20,10 @@ module.exports = {
       path: '/desenhos/'
     },
     {
+      label: 'Arte Generativa',
+      path: '/artegenerativa/'
+    },
+    {
       label: 'Material Educativo',
       path: '/materiais/'
     },
