@@ -72,3 +72,35 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Mausoléu dos Tesouros Ocultos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mausoleum.jpeg)
+
+<b>Profeta da Nova Era</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/prophet.jpeg)
+
+<b>Princesa da Escuridão Eterna</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/princess.jpeg)
+
+<b>Templo de Comunhão com a Centelha Divina</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/temple.jpeg)
+
+<b>Missa ao Inexprimível Artífice</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/priest.jpeg)
+
+<b>Hierofante da Antiga Pérsia</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/persian.jpeg)
+
+<b>Sumo-Sacerdote Vhig'vhol</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/greatpriest.jpeg)
+
+<b>Entidade Colossal</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/entity.jpeg)
+
+<b>Grão-Mestre do Mistério Infindável</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/grandmaster.jpeg)
