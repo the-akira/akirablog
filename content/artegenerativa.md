@@ -5,10 +5,6 @@ template: "page"
 
 Exponho aqui visões artísticas provindas do espaço latente de infinitas possibilidades.
 
-<b>Anjo da Morte</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
-
 <b>Elevação ao Superior Celeste</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/elevation.jpeg)
@@ -61,7 +57,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/secrets.jpeg)
 
-<b>Sociedade dos Filosófos Herméticos</b>
+<b>Sociedade dos Filósofos Herméticos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/society.jpeg)
 
@@ -104,3 +100,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Grão-Mestre do Mistério Infindável</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/grandmaster.jpeg)
+
+<b>Anjo da Morte</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
