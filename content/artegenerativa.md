@@ -104,3 +104,23 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Anjo da Morte</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
+
+<b>Grande Arquiteto do Universo</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/architect.jpeg)
+
+<b>Defensor da Sagrada Mônada</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/architect.jpeg)
+
+<b>Bruxa Sombria Yshobhod</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/witch.jpeg)
+
+<b>Emissário do Fim dos Tempos</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/emissary.jpeg)
+
+<b>Palácio do Governo Galáctico</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/government.jpeg)
