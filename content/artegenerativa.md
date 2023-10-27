@@ -111,7 +111,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 <b>Defensor da Sagrada Mônada</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/architect.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/monad.jpeg)
 
 <b>Bruxa Sombria Yshobhod</b>
 
