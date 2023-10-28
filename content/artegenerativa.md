@@ -105,7 +105,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
 
-<b>Grande Arquiteto do Universo</b>
+<b>O Arquiteto da Matrix</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/architect.jpeg)
 
@@ -124,3 +124,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Palácio do Governo Galáctico</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/government.jpeg)
+
+<b>Mensageiro do Céu Galbadiel</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/messenger.jpeg)
