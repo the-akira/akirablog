@@ -101,7 +101,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/grandmaster.jpeg)
 
-<b>Anjo da Morte</b>
+<b>Anjo da Morte Turiel</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
 
@@ -125,6 +125,10 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/government.jpeg)
 
-<b>Mensageiro do Céu Galbadiel</b>
+<b>Galbadiel, O Mensageiro do Céu</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/messenger.jpeg)
+
+<b>Jihaad al-Nassif, O Admirável Devoto de Allah</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/devotee.jpeg)
