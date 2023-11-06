@@ -5,130 +5,122 @@ template: "page"
 
 Exponho aqui visões artísticas provindas do espaço latente de infinitas possibilidades.
 
-<b>Elevação ao Superior Celeste</b>
+<b>Amélia, A Visionária</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/elevation.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/amelia.jpeg)
 
-<b>Guardião da Câmara Desconhecida</b>
+<b>Samuel, O Protetor da Floresta</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/chamber.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/bear.jpeg)
 
-<b>Altar Obscuro de Zuijh'dru</b>
+<b>Senhor das Trevas Zuijh'dru</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/altar.jpg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/beast.jpeg)
 
-<b>Castelo da Rainha Escarlate</b>
+<b>Uriel, O Observador</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/scarlet.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/cat.jpeg)
 
-<b>A Invocação de Izhuklosh</b>
+<b>O Grande Dragão do Apocalipse</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/invocation.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dragon.jpeg)
 
-<b>Senhor das Trevas Cthuildel</b>
+<b>Sacerdotes do Antigo Egito</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/lord.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/egypt.jpeg)
 
-<b>Sábio Ancião em sua Biblioteca Arcana</b>
+<b>Turiel, O Guardião do Portal Eterno</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/elephant.jpeg)
+
+<b>Fenrir, O Feroz Lobo do Norte</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/fenrir.jpeg)
+
+<b>Um Alegre Dia no Bosque</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
+
+<b>O Julgamento Final</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/judge.jpeg)
+
+<b>Kassandra, A Profetisa</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/kassandra.jpeg)
+
+<b>O Rei Salamandra em seus Estudos</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/king.jpeg)
+
+<b>Arthur, O Mago da Floresta</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/lion.jpeg)
+
+<b>Zagreus, O Feiticeiro do Submundo</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/magician.jpeg)
+
+<b>Arquimedes, O Extraordinário Matemático</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mathematician.jpeg)
+
+<b>Persefoni, A Princesa Sagaz</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/persefoni.jpeg)
+
+<b>A Eterna Fênix Flamejante</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/phoenix.jpeg)
+
+<b>Jack, O Pensador</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/rabbit.jpeg)
+
+<b>Augusto, O Curandeiro Sapiente</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/raven.jpeg)
+
+<b>O Sábio Ancião da Suméria</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/sage.jpeg)
 
-<b>Academia dos Magos</b>
+<b>Shenlong</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mage.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/shenlong.jpeg)
 
-<b>Relicário da Coruja de Minerva</b>
+<b>O Mundo Mágico de Ignatius</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/owl.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/skeleton.jpeg)
 
-<b>Pórtico Universal</b>
+<b>Kristoffer, O Vigilante Lúcido</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/portal.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/specter.jpeg)
 
-<b>Oração ao Cosmos</b>
+<b>A Tecelã de Sonhos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/praying.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/spider.jpeg)
 
-<b>Ritual de Iniciação</b>
+<b>Jorge, O Espírito Defensor da Natureza</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/ritual.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/spirit.jpeg)
 
-<b>Protetores dos Segredos Transcendentais</b>
+<b>A Visão Misteriosa de Daniel</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/secrets.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/swan.jpeg)
 
-<b>Sociedade dos Filósofos Herméticos</b>
+<b>O Viajante das Galáxias</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/society.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/traveler.jpeg)
 
-<b>Tumba do Clérigo Dalkush</b>
+<b>Isaac, O Criador Engenhoso</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/tomb.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/unicorn.jpeg)
 
-<b>Mausoléu dos Tesouros Ocultos</b>
+<b>A Experiência Incrível de Natália</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mausoleum.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/vision.jpeg)
 
-<b>Profeta da Nova Era</b>
+<b>Sebastian, O Bruxo Feiticeiro</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/prophet.jpeg)
-
-<b>Princesa da Escuridão Eterna</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/princess.jpeg)
-
-<b>Templo de Comunhão com a Centelha Divina</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/temple.jpeg)
-
-<b>Missa ao Inexprimível Artífice</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/priest.jpeg)
-
-<b>Hierofante da Antiga Pérsia</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/persian.jpeg)
-
-<b>Sumo-Sacerdote Vhig'vhol</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/greatpriest.jpeg)
-
-<b>Entidade Colossal</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/entity.jpeg)
-
-<b>Grão-Mestre do Mistério Infindável</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/grandmaster.jpeg)
-
-<b>Anjo da Morte Turiel</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/deathangel.jpeg)
-
-<b>O Arquiteto da Matrix</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/architect.jpeg)
-
-<b>Defensor da Sagrada Mônada</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/monad.jpeg)
-
-<b>Bruxa Sombria Yshobhod</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/witch.jpeg)
-
-<b>Emissário do Fim dos Tempos</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/emissary.jpeg)
-
-<b>Palácio do Governo Galáctico</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/government.jpeg)
-
-<b>Galbadiel, O Mensageiro do Céu</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/messenger.jpeg)
-
-<b>Jihaad al-Nassif, O Admirável Devoto de Allah</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/devotee.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
