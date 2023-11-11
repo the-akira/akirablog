@@ -7,196 +7,196 @@ Lista de conceitos essenciais para Ciência da Computação.
 
 <b>Algoritmo</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Algorithm.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Algorithm.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Algorithm.png" /></a>
 
 <b>Arquitetura de von Neumann</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/vonNeumann.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/vonNeumann.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/vonNeumann.png" /></a>
 
 <b>Bancos de Dados Relacionais</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DB.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/DB.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DB.png" /></a>
 
 <b>Bit</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Bit.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Bit.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Bit.png" /></a>
 
 <b>Ciência da Computação</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ComputerScience.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/ComputerScience.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ComputerScience.png" /></a>
 
 <b>Combinações</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Combinations.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Combinations.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Combinations.png" /></a>
 
 <b>Compilador</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Compiler.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Compiler.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Compiler.png" /></a>
 
 <b>Computação Paralela</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ParallelComputing.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/ParallelComputing.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ParallelComputing.png" /></a>
 
 <b>Computador</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Computer.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Computer.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Computer.png" /></a>
 
 <b>Cores</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Colors.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Colors.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Colors.png" /></a>
 
 <b>Criptografia</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Cryptography.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Cryptography.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Cryptography.png" /></a>
 
 <b>Deep Learning</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DeepLearning.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/DeepLearning.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DeepLearning.png" /></a>
 
 <b>Dimensão</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Dimension.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Dimension.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Dimension.png" /></a>
 
 <b>Espaço Tridimensional</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/3D.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/3D.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/3D.png" /></a>
 
 <b>Estruturas de Dados</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DS.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/DS.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/DS.png" /></a>
 
 <b>Expressões Regulares</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/RegExp.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/RegExp.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/RegExp.png" /></a>
 
 <b>Funções</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Function.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Function.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Function.png" /></a>
 
 <b>Hardware</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Hardware.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Hardware.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Hardware.png" /></a>
 
 <b>Hexadecimal</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Hexadecimal.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Hexadecimal.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Hexadecimal.png" /></a>
 
 <b>Hierarquia de Memória</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/MemoryHierarchy.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/MemoryHierarchy.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/MemoryHierarchy.png" /></a>
 
 <b>Imagens Digitais</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Images.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Images.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Images.png" /></a>
 
 <b>Inteligência Artificial</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/AI.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/AI.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/AI.png" /></a>
 
 <b>Linux</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Linux.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Linux.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Linux.png" /></a>
 
 <b>Machine Learning</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/MachineLearning.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/MachineLearning.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/MachineLearning.png" /></a>
 
 <b>Máquina de Turing</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Turing.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Turing.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Turing.png" /></a>
 
 <b>Máquinas de Estado Finito</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/FSM.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/FSM.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/FSM.png" /></a>
 
 <b>Neurônio Artificial</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ArtificialNeuron.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/ArtificialNeuron.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ArtificialNeuron.png" /></a>
 
 <b>Notação Big O</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/BigO.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/BigO.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/BigO.png" /></a>
 
 <b>Notação Científica</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ScientificNotation.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/ScientificNotation.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ScientificNotation.png" /></a>
 
 <b>Números Binários</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Binary.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Binary.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Binary.png" /></a>
 
 <b>Números de Fibonacci</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Fibonacci.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Fibonacci.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Fibonacci.png" /></a>
 
 <b>Números Complexos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ComplexNumbers.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/ComplexNumbers.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/ComplexNumbers.png" /></a>
 
 <b>Números Primos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PrimeNumbers.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/PrimeNumbers.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PrimeNumbers.png" /></a>
 
 <b>Permutações</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Permutations.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Permutations.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Permutations.png" /></a>
 
 <b>Portas Lógicas</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/LogicGates.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/LogicGates.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/LogicGates.png" /></a>
 
 <b>Princípio da Casa dos Pombos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PigeonholePrinciple.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/PigeonholePrinciple.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PigeonholePrinciple.png" /></a>
 
 <b>Probabilidade</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Probability.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Probability.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Probability.png" /></a>
 
 <b>Programação</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Programming.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Programming.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Programming.png" /></a>
 
 <b>Programação Clássica vs Machine Learning</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Programming-vs-ML.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Programming-vs-ML.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Programming-vs-ML.png" /></a>
 
 <b>Python</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Python.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Python.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Python.png" /></a>
 
 <b>Raiz Quadrada</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/SquareRoot.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/SquareRoot.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/SquareRoot.png" /></a>
 
 <b>Recursão</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Recursion.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Recursion.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Recursion.png" /></a>
 
 <b>Sistema de Coordenadas Cartesiano</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Descartes.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Descartes.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Descartes.png" /></a>
 
 <b>Software</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Software.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Software.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Software.png" /></a>
 
 <b>Teorema de Pitágoras</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PythagoreanTheorem.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/PythagoreanTheorem.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/PythagoreanTheorem.png" /></a>
 
 <b>Teoria da Informação</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Information.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Information.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Information.png" /></a>
 
 <b>Teoria dos Conjuntos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/SetTheory.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/SetTheory.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/SetTheory.png" /></a>
 
 <b>Teoria dos Grafos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/GraphTheory.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/GraphTheory.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/GraphTheory.png" /></a>
 
 <b>Trigonometria</b>
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Trigonometry.png)
+<a href="https://github.com/the-akira/CC33Z/blob/master/Ganita/Documentos/Trigonometry.pdf"><img src="https://raw.githubusercontent.com/the-akira/CC33Z/master/Ganita/Imagens/Trigonometry.png" /></a>
