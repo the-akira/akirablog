@@ -28,6 +28,10 @@ module.exports = {
       path: '/materiais/'
     },
     {
+      label: 'Conceitos Fundamentais',
+      path: '/conceitos/'
+    },
+    {
       label: 'Pensamentos',
       path: '/pensamentos/'
     },
