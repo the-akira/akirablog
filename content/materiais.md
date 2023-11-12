@@ -21,6 +21,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/1Pe17vvi25im7U4Xl8LSCNzt-sFW6CfYy/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/Programming.png" /></a>
 
+<b>Informática Básica</b>
+
+<a href="https://drive.google.com/file/d/1v-hFpdhUvB0ux9u2vXmpsoQSwxuN-Gvv/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/BasicInformatics.png" /></a>
+
 <b>Leonardo da Vinci</b>
 
 <a href="https://drive.google.com/file/d/1fLeVedDah8bbfb6ygAaDXHszGJdIgU9A/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/LeonardoDaVinci.png" /></a>
