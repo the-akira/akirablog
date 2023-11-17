@@ -5,49 +5,49 @@ template: "page"
 
 Neste espaço apresento alguns de meus projetos.
 
-<b>Python Iluminado</b>
+<b><a href="https://github.com/the-akira/Python-Iluminado">Python Iluminado</a></b>
 
 Um guia completo para iniciantes com a linguagem Python.
 
 <a href="https://github.com/the-akira/Python-Iluminado"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/pythoniluminado.png" /></a>
 
-<b>Python Matemática</b>
+<b><a href="https://github.com/the-akira/Python-Matematica">Python Matemática</a></b>
 
 Explorando aspectos fundamentais da Matemática com Python.
 
 <a href="https://github.com/the-akira/Python-Matematica"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/pythonmatematica.png" /></a>
 
-<b>Secret Library</b>
+<b><a href="https://secretslibrary.pythonanywhere.com/">Secret Library</a></b>
 
 Uma simples Biblioteca open-source desenvolvida com Flask.
 
 <a href="https://secretslibrary.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/secretlibrary.png" /></a>
 
-<b>Bibliotheca Lucis</b>
+<b><a href="https://bibliothecalucis.netlify.app/">Bibliotheca Lucis</a></b>
 
 Um experimento de uma simples Biblioteca, desenvolvida com JavaScript com o intuito de testar as capacidades de uma inteligência artificial no auxílio de desenvolvimento de software.
 
 <a href="https://bibliothecalucis.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/bibliothecalucis.png" /></a>
 
-<b>Flask Genesis</b>
+<b><a href="https://github.com/the-akira/Flask-Genesis">Flask Genesis</a></b>
 
 Um simples Static Site Generator criado com Flask.
 
 <a href="https://github.com/the-akira/Flask-Genesis"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/flaskgenesis.png" /></a>
 
-<b>Philosophy API</b>
+<b><a href="https://philosophyapi.pythonanywhere.com/">Philosophy API</a></b>
 
 Uma REST API que apresenta dados sobre o Mundo Filosófico, desenvolvida com o framework Django.
 
 <a href="https://philosophyapi.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/philosophyapi.png" /></a>
 
-<b>The Salvation of Zoe</b>
+<b><a href="https://thesalvationofzoe.netlify.app/">The Salvation of Zoe</a></b>
 
 Um Game de Aventura 2D open-source com finalidade reflexiva e educativa.
 
 <a href="https://thesalvationofzoe.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/zoe.png" /></a>
 
-<b>Ciência da Computação 33Z</b>
+<b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.
 
