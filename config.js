@@ -36,6 +36,10 @@ module.exports = {
       path: '/pensamentos/'
     },
     {
+      label: 'Projetos',
+      path: '/projetos/'
+    },
+    {
       label: 'Sobre',
       path: '/sobre/'
     },

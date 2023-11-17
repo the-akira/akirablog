@@ -14,18 +14,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma-
   - **Bibliotecas e Frameworks:** Bootstrap, React, Flask, Django, Numpy, Pandas, Scikit-Learn, Tensorflow, Keras, Matplotlib, Beautifulsoup;
   - **Ferramentas:** Command Line Interface, Sublime Text, Stackoverflow, ChatGPT, Google Chrome, Git, Docker, Jupyter Lab, Azure DevOps, Visual Studio, Microsoft Excel;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
-  - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise e Manipulação de Dados, Matemática, Games;
-
-<b>Alguns de meus projetos incluem:</b>
-
-- [Python Iluminado](https://github.com/the-akira/Python-Iluminado): Um guia completo para iniciantes com a linguagem Python;
-- [Python Matemática](https://github.com/the-akira/Python-Matematica): Explorando aspectos fundamentais da Matemática;
-- [Secret Library](https://secretslibrary.pythonanywhere.com/): Uma simples Biblioteca open-source desenvolvida com Flask;
-- [Bibliotheca Lucis](https://bibliothecalucis.netlify.app/): Um experimento de uma simples Biblioteca, desenvolvida com JavaScript com o intuito de testar as capacidades de uma inteligência artificial no auxílio de desenvolvimento de software;
-- [Flask Genesis](https://github.com/the-akira/Flask-Genesis): Um simples Static Site Generator criado com Flask;
-- [Philosophy API](https://philosophyapi.pythonanywhere.com/): Uma REST API que apresenta dados sobre o Mundo Filosófico, desenvolvida com o framework Django;
-- [The Salvation of Zoe](https://thesalvationofzoe.netlify.app/): Um Game de Aventura 2D open-source com finalidade reflexiva e educativa;
-- [CC33Z](https://cc33z.pythonanywhere.com/): Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores;
+  - **Campos de Interesse:** Programação Web, Machine Learning e Deep Learning, Análise e Manipulação de Dados, Matemática, Games, Filosofia;
 
 <b>Contribuições, Projetos e Ideias:</b>
 
