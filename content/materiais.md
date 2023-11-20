@@ -17,6 +17,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/1C1OPmjPDXWLqroEAQSdLbbeuxOzv-hk0/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/Arithmetic.png" /></a>
 
+<b>Teoria dos Conjuntos</b>
+
+<a href="https://drive.google.com/file/d/1uSp5m4-OFeJIr1sXnLYD9kAYmFdhb9Aq/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/SetTheory.png" /></a>
+
 <b>Programação</b>
 
 <a href="https://drive.google.com/file/d/1Pe17vvi25im7U4Xl8LSCNzt-sFW6CfYy/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/Programming.png" /></a>
