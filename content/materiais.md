@@ -33,6 +33,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/1fLeVedDah8bbfb6ygAaDXHszGJdIgU9A/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/LeonardoDaVinci.png" /></a>
 
+<b>Michelangelo</b>
+
+<a href="https://drive.google.com/file/d/11x3P0bT6cGEiiQcSYWHBGjjz8JstiLSX/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/Michelangelo.png" /></a>
+
 <b>William Blake</b>
 
 <a href="https://drive.google.com/file/d/1tY4VWasfjAqelXYcCr9-oEGXpUBO09v-/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/WilliamBlake.png" /></a>
