@@ -11,7 +11,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 <b>Samuel, O Protetor da Floresta</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/bear.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/bird.jpeg)
 
 <b>Senhor das Trevas Zuijh'dru</b>
 
