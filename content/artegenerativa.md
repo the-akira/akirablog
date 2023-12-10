@@ -31,7 +31,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 <b>Turiel, O Guardião do Portal Eterno</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/elephant.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/portal.jpeg)
 
 <b>Fenrir, O Feroz Lobo do Norte</b>
 
