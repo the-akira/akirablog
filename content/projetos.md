@@ -52,3 +52,7 @@ Um Game de Aventura 2D open-source com finalidade reflexiva e educativa.
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.
 
 <a href="https://cc33z.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/cc33z.png" /></a>
+
+Curso de Informática Fundamental, desenvolvido para uma escola profissionalizante no Brasil.
+
+<a href="https://informaticacebrac.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/informatics.png" /></a>
