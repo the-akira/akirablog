@@ -53,6 +53,8 @@ Curso de Ciência da Computação em que eu abordo diversos temas relevantes do 
 
 <a href="https://cc33z.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/cc33z.png" /></a>
 
-Curso de Informática Fundamental, desenvolvido para uma escola profissionalizante no Brasil.
+<b><a href="https://informaticacebrac.netlify.app/">Informática CEBRAC</a></b>
+
+Curso de Informática Fundamental, desenvolvido para uma escola profissionalizante.
 
 <a href="https://informaticacebrac.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/informatics.png" /></a>
