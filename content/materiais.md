@@ -29,6 +29,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/1v-hFpdhUvB0ux9u2vXmpsoQSwxuN-Gvv/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/BasicInformatics.png" /></a>
 
+<b>Organização e Arquitetura de Computadores</b>
+
+<a href="https://drive.google.com/file/d/17ms8Yd2a2OkOgJ-ArPJtXBU9oY8_8Fu-/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/OAC.png" /></a>
+
 <b>Leonardo da Vinci</b>
 
 <a href="https://drive.google.com/file/d/1fLeVedDah8bbfb6ygAaDXHszGJdIgU9A/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/LeonardoDaVinci.png" /></a>
