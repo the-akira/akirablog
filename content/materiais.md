@@ -33,6 +33,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/17ms8Yd2a2OkOgJ-ArPJtXBU9oY8_8Fu-/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/OAC.png" /></a>
 
+<b>Open Source Software</b>
+
+<a href="https://drive.google.com/file/d/14wb3qVt6dc_xazlCtpag7qUNsWITRJSV/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/OSS.png" /></a>
+
 <b>Leonardo da Vinci</b>
 
 <a href="https://drive.google.com/file/d/1fLeVedDah8bbfb6ygAaDXHszGJdIgU9A/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/LeonardoDaVinci.png" /></a>
