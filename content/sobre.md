@@ -6,7 +6,7 @@ socialImage: "/media/image-2.jpg"
 
 <b>Seja muito bem vindo,</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma, Santa Catarina, Brasil. Interessado por computadores e software desde criança, estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, passando a dedicar boa parte do meu tempo a estudos e experimentos com as linguagens de programação Python e JavaScript e seus diversos campos de aplicação. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2023) e atualmente sou professor de informática em uma escola.
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma, Santa Catarina, Brasil. Interessado por computadores e software desde criança, estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, dedicando boa parte do meu tempo a estudos e experimentos com as linguagens de programação Python e JavaScript e seus diversos campos de aplicação. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2023) e atualmente sou professor de informática em uma escola.
 
 <b>Conhecimentos</b>
 
@@ -14,7 +14,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Criciúma,
   - **Bibliotecas e Frameworks:** Bootstrap, Flask, Django, Pandas, Scikit-Learn, Keras, Matplotlib, Beautifulsoup, Pygame;
   - **Ferramentas:** Command Line Interface, Sublime Text, Visual Studio, Stack Overflow, ChatGPT, Google Chrome, Git, Docker, Jupyter Lab, Microsoft Excel;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
-  - **Campos de Interesse:** Programação Web, Machine Learning, Análise e Manipulação de Dados, Matemática, Games, Filosofia;
+  - **Campos de Interesse:** Desenvolvimento de Software, Inteligência Artificial, Análise e Manipulação de Dados, Matemática, Games, Filosofia;
 
 <b>Projeto</b>
 
