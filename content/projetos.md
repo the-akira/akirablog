@@ -53,6 +53,12 @@ Um Game de Sobrevivência 2D experimental e open-source construído com HTML e J
 
 <a href="https://thetwilightofsouls.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/twilight.png" /></a>
 
+<b><a href="https://2dgamemath.netlify.app/">Matemática dos Games 2D</a></b>
+
+Projeto educativo que busca trazer uma visão matemática e intuitiva sobre os Games 2D.
+
+<a href="https://2dgamemath.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/2dgamemath.png" /></a>
+
 <b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.
