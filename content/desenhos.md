@@ -137,10 +137,6 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
 
-<b>Sinal</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/signal.png)
-
 <b>Lembrança de Cristo</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/christ.png)
