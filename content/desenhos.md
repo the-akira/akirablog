@@ -97,14 +97,6 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/owl.png)
 
-<b>Criaturas do Abismo Primordial</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abyss.png)
-
-<b>Vigilantes do Além</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/alien.png)
-
 <b>Mágico Aprendiz</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/rabbit.png)
