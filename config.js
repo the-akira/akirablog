@@ -28,12 +28,12 @@ module.exports = {
       path: '/materiais/'
     },
     {
-      label: 'Conceitos Fundamentais',
-      path: '/conceitos/'
-    },
-    {
       label: 'Pensamentos',
       path: '/pensamentos/'
+    },
+    {
+      label: 'Conceitos',
+      path: '/conceitos/'
     },
     {
       label: 'Projetos',
@@ -56,7 +56,7 @@ module.exports = {
       email: 'gabrielfelippe@outlook.com',
       facebook: '',
       telegram: '',
-      twitter: 'akirascientist',
+      twitter: '',
       github: 'the-akira',
       rss: '',
       vkontakte: '',
