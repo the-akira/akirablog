@@ -17,11 +17,11 @@ Explorando aspectos fundamentais da Matemática com Python.
 
 <a href="https://github.com/the-akira/Python-Matematica"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/pythonmatematica.png" /></a>
 
-<b><a href="https://secretslibrary.pythonanywhere.com/">Secret Library</a></b>
+<b><a href="https://thesecretlibrary.pythonanywhere.com/">Secret Library</a></b>
 
 Uma simples Biblioteca open-source desenvolvida com Flask.
 
-<a href="https://secretslibrary.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/secretlibrary.png" /></a>
+<a href="https://thesecretlibrary.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/secretlibrary.png" /></a>
 
 <b><a href="https://bibliothecalucis.netlify.app/">Bibliotheca Lucis</a></b>
 
