@@ -5,10 +5,6 @@ template: "page"
 
 Exponho aqui visões artísticas provindas do espaço latente de infinitas possibilidades.
 
-<b>Amélia, A Visionária</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/amelia.jpeg)
-
 <b>Samuel, O Protetor da Floresta</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/bird.jpeg)
@@ -41,10 +37,6 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
 
-<b>O Julgamento Final</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/judge.jpeg)
-
 <b>Kassandra, A Profetisa</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/kassandra.jpeg)
@@ -56,10 +48,6 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Arthur, O Mago da Floresta</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/lion.jpeg)
-
-<b>Zagreus, O Feiticeiro do Submundo</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/magician.jpeg)
 
 <b>Arquimedes, O Extraordinário Matemático</b>
 
@@ -77,10 +65,6 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/rabbit.jpeg)
 
-<b>Augusto, O Curandeiro Sapiente</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/raven.jpeg)
-
 <b>O Sábio Ancião da Suméria</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/sage.jpeg)
@@ -92,14 +76,6 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>O Mundo Mágico de Ignatius</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/skeleton.jpeg)
-
-<b>Kristoffer, O Vigilante Lúcido</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/specter.jpeg)
-
-<b>A Tecelã de Sonhos</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/spider.jpeg)
 
 <b>Jorge, O Espírito Defensor da Natureza</b>
 
@@ -117,10 +93,34 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/unicorn.jpeg)
 
-<b>A Experiência Incrível de Natália</b>
-
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/vision.jpeg)
-
 <b>Sebastian, O Bruxo Feiticeiro</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
+
+<b>Castelo Secreto</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/castle.jpeg)
+
+<b>O Sábio do Bosque Sombrio</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dungeon.jpeg)
+
+<b>O Olho Vigilante</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eye.jpeg)
+
+<b>Coração Sagrado</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/heart.jpeg)
+
+<b>Paz, Amor e Conhecimento</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/knowledge.jpeg)
+
+<b>Solidão</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/loneliness.jpeg)
+
+<b>Vale das Flores Imperecíveis</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/valley.jpeg)
