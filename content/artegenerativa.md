@@ -33,7 +33,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/fenrir.jpeg)
 
-<b>Um Alegre Dia no Bosque</b>
+<b>O Casal Coruja</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
 
@@ -45,7 +45,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/king.jpeg)
 
-<b>Francisco, O Sentinela da Floresta e seu Grande Amigo</b>
+<b>Francisco, O Sentinela da Floresta</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eagle.jpeg)
 
@@ -101,7 +101,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/castle.jpeg)
 
-<b>O Sábio do Bosque Sombrio</b>
+<b>A Masmorra Oculta</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dungeon.jpeg)
 
