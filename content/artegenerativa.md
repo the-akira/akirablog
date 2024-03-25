@@ -37,17 +37,17 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
 
-<b>Kassandra, A Profetisa</b>
+<b>Merlin, o Druida</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/kassandra.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/merlin.jpeg)
 
 <b>O Rei Salamandra em seus Estudos</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/king.jpeg)
 
-<b>Arthur, O Mago da Floresta</b>
+<b>Francisco, O Sentinela da Floresta e seu Grande Amigo</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/lion.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eagle.jpeg)
 
 <b>Arquimedes, O Extraordinário Matemático</b>
 
@@ -65,13 +65,13 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/rabbit.jpeg)
 
-<b>O Sábio Ancião da Suméria</b>
+<b>Isis e o Enigma da Pirâmide</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/sage.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/isis.jpeg)
 
-<b>Shenlong</b>
+<b>Metamorfose</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/shenlong.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/metamorphosis.jpeg)
 
 <b>O Mundo Mágico de Ignatius</b>
 
