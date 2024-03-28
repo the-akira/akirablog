@@ -25,7 +25,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/egypt.jpeg)
 
-<b>Turiel, O Guardião do Portal Eterno</b>
+<b>Raphael, O Guardião do Portal Eterno</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/portal.jpeg)
 
@@ -33,7 +33,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/fenrir.jpeg)
 
-<b>O Casal Coruja</b>
+<b>Família Coruja</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
 
@@ -45,7 +45,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/king.jpeg)
 
-<b>Francisco, O Sentinela da Floresta</b>
+<b>Francisco, O Fiel Sentinela</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eagle.jpeg)
 
@@ -57,7 +57,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/persefoni.jpeg)
 
-<b>A Eterna Fênix Flamejante</b>
+<b>A Poderosa Fênix Flamejante</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/phoenix.jpeg)
 
@@ -93,15 +93,15 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/unicorn.jpeg)
 
-<b>Sebastian, O Bruxo Feiticeiro</b>
+<b>Sebastian, O Bruxo</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
 
-<b>Castelo Secreto</b>
+<b>A Lenda Castelo Oculto</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/castle.jpeg)
 
-<b>A Masmorra Oculta</b>
+<b>O Eremita do Bosque Ancestral</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dungeon.jpeg)
 
