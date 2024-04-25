@@ -69,9 +69,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/isis.jpeg)
 
-<b>Metamorfose</b>
+<b>Fortaleza da Alma</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/metamorphosis.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/keep.jpeg)
 
 <b>O Mundo Mágico de Ignatius</b>
 
