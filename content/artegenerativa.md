@@ -97,7 +97,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
 
-<b>A Lenda Castelo Oculto</b>
+<b>O Lendário Castelo</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/castle.jpeg)
 
