@@ -19,7 +19,7 @@ Explorando aspectos fundamentais da Matemática com Python.
 
 <b><a href="https://thesecretlibrary.pythonanywhere.com/">Secret Library</a></b>
 
-Uma simples Biblioteca open-source desenvolvida com Flask.
+Uma simples Biblioteca open-source desenvolvida com Django.
 
 <a href="https://thesecretlibrary.pythonanywhere.com/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/secretlibrary.png" /></a>
 
