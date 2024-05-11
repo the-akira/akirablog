@@ -17,9 +17,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/cat.jpeg)
 
-<b>O Grande Dragão do Apocalipse</b>
+<b>Jornada Sem Fim</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dragon.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/journey.jpeg)
 
 <b>Sacerdotes do Antigo Egito</b>
 
@@ -41,9 +41,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/merlin.jpeg)
 
-<b>O Rei Salamandra em seus Estudos</b>
+<b>Fé, Esperança e Integridade</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/king.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/occult.jpeg)
 
 <b>Francisco, O Fiel Sentinela</b>
 
@@ -97,9 +97,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
 
-<b>O Lendário Castelo</b>
+<b>Mago Ancião</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/castle.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mage.jpeg)
 
 <b>O Eremita do Bosque Ancestral</b>
 
