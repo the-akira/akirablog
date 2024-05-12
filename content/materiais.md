@@ -25,6 +25,10 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <a href="https://drive.google.com/file/d/1Pe17vvi25im7U4Xl8LSCNzt-sFW6CfYy/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/Programming.png" /></a>
 
+<b>Criação de Games 2D com JavaScript</b>
+
+<a href="https://github.com/the-akira/JavaScriptGameDev/blob/master/Material/Introduction.pdf"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/GameDev.png" /></a>
+
 <b>Informática Básica</b>
 
 <a href="https://drive.google.com/file/d/1v-hFpdhUvB0ux9u2vXmpsoQSwxuN-Gvv/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/BasicInformatics.png" /></a>
