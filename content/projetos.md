@@ -75,7 +75,7 @@ Curso de Informática Fundamental, desenvolvido para uma escola profissionalizan
 
 Projeto educativo que propõe o ensino da programação através da construção de vídeo-games 2D.
 
-<a href="https://github.com/the-akira/JavaScriptGameDev"><img src="https://raw.githubusercontent.com/the-akira/JavaScriptGameDev/master/Avatar.png" /></a>
+<a href="https://javascriptgamedev.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/JavaScriptGameDev/master/Avatar.png" /></a>
 
 <b><a href="https://github.com/the-akira/PyGameDev">Python Game Dev</a></b>
 
