@@ -71,7 +71,7 @@ Curso de Informática Fundamental, desenvolvido para uma escola profissionalizan
 
 <a href="https://informaticacebrac.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/informatics.png" /></a>
 
-<b><a href="https://github.com/the-akira/JavaScriptGameDev">JavaScript Game Dev</a></b>
+<b><a href="https://javascriptgamedev.netlify.app/">JavaScript Game Dev</a></b>
 
 Projeto educativo que propõe o ensino da programação através da construção de vídeo-games 2D.
 
