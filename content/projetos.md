@@ -59,6 +59,12 @@ Projeto educativo que busca trazer uma visão matemática e intuitiva sobre os G
 
 <a href="https://2dgamemath.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/2dgamemath.png" /></a>
 
+<b><a href="https://turingmachinesimulation.netlify.app/">Máquina de Turing</a></b>
+
+Experimento de simulação da Máquina de Turing com JavaScript e Canvas.
+
+<a href="https://turingmachinesimulation.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/turingmachine.png" /></a>
+
 <b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.

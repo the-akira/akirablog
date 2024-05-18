@@ -29,9 +29,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/portal.jpeg)
 
-<b>Fenrir, O Feroz Lobo do Norte</b>
+<b>Melancolia</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/fenrir.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/melancholy.jpeg)
 
 <b>Família Coruja</b>
 
@@ -53,9 +53,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mathematician.jpeg)
 
-<b>Persefoni, A Princesa Sagaz</b>
+<b>Coragem, União e Respeito</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/persefoni.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/crow.jpeg)
 
 <b>A Poderosa Fênix Flamejante</b>
 
@@ -89,9 +89,9 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/traveler.jpeg)
 
-<b>Isaac, O Criador Engenhoso</b>
+<b>Luz</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/unicorn.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/life.jpeg)
 
 <b>Sebastian, O Bruxo</b>
 
