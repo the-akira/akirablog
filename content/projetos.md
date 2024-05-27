@@ -65,6 +65,12 @@ Experimento de simulação da Máquina de Turing com JavaScript e Canvas.
 
 <a href="https://turingmachinesimulation.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/turingmachine.png" /></a>
 
+<b><a href="https://shortestpathalgorithms.netlify.app/">Shortest Path Algorithms Visualization</a></b>
+
+Pequeno projeto que nos mostra uma visualização de algoritmos de caminho mais curto.
+
+<a href="https://shortestpathalgorithms.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/shortestpathalgorithms.png" /></a>
+
 <b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.
