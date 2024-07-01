@@ -168,3 +168,7 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 <b>Percepção</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/perception.png)
+
+<b>Espelho</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/mirror.png)

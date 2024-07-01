@@ -71,6 +71,12 @@ Pequeno projeto que nos mostra uma visualização de algoritmos de caminho mais 
 
 <a href="https://shortestpathalgorithms.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/shortestpathalgorithms.png" /></a>
 
+<b><a href="https://sortingalgorithmsvisualization.netlify.app/">Visualizador de Algoritmos de Ordenação</a></b>
+
+Simples aplicação que nos apresenta diferentes algoritmos de ordenação de forma animada.
+
+<a href="https://sortingalgorithmsvisualization.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/sortingalgorithms.png" /></a>
+
 <b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
 Curso de Ciência da Computação em que eu abordo diversos temas relevantes do Universo dos Computadores.
