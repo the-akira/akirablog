@@ -67,13 +67,13 @@ Experimento de simulação da Máquina de Turing com JavaScript e Canvas.
 
 <b><a href="https://shortestpathalgorithms.netlify.app/">Shortest Path Algorithms Visualization</a></b>
 
-Pequeno projeto que nos mostra uma visualização de algoritmos de caminho mais curto.
+Pequeno projeto que nos mostra algoritmos de caminho mais curto de uma forma visual.
 
 <a href="https://shortestpathalgorithms.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/shortestpathalgorithms.png" /></a>
 
 <b><a href="https://sortingalgorithmsvisualization.netlify.app/">Visualizador de Algoritmos de Ordenação</a></b>
 
-Simples aplicação que nos apresenta diferentes algoritmos de ordenação de forma animada.
+Animação que nos apresenta visualmente diferentes tipos de algoritmos de ordenação.
 
 <a href="https://sortingalgorithmsvisualization.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/sortingalgorithms.png" /></a>
 
