@@ -67,7 +67,7 @@ Experimento de simulação da Máquina de Turing com JavaScript e Canvas.
 
 <b><a href="https://shortestpathalgorithms.netlify.app/">Shortest Path Algorithms Visualization</a></b>
 
-Pequeno projeto que nos mostra algoritmos de caminho mais curto de uma forma visual.
+Projeto que nos mostra algoritmos de caminho mais curto de uma forma visual.
 
 <a href="https://shortestpathalgorithms.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/shortestpathalgorithms.png" /></a>
 
@@ -76,6 +76,12 @@ Pequeno projeto que nos mostra algoritmos de caminho mais curto de uma forma vis
 Animação que nos apresenta visualmente diferentes tipos de algoritmos de ordenação.
 
 <a href="https://sortingalgorithmsvisualization.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/sortingalgorithms.png" /></a>
+
+<b><a href="https://wireworldsimulator.netlify.app/">Wireworld Simulator</a></b>
+
+Simulador do autômato celular Wireworld que permite criar computadores avançados.
+
+<a href="https://wireworldsimulator.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/wireworld.png" /></a>
 
 <b><a href="https://cc33z.pythonanywhere.com/">Ciência da Computação 33Z</a></b>
 
