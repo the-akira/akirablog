@@ -4,9 +4,9 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-<b>Seja muito bem vindo,</b>
+<b>Seja muito bem-vindo,</b>
 
-Meu nome é Gabriel Felippe, sou cientista da computação natural de Santa Catarina, Brasil. Interessado por computadores e software desde criança, estudei na Universidade do Extremo Sul Catarinense, onde atuei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, dedicando boa parte do meu tempo a estudos e experimentos com as linguagens de programação Python e JavaScript e seus diversos campos de aplicação. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2023) e atualmente sou professor de informática em uma escola.
+Meu nome é Gabriel Felippe, sou cientista da computação natural de Santa Catarina, Brasil. Interessado por computadores e software desde criança, estudei na Universidade do Extremo Sul Catarinense, onde me dediquei como assistente pesquisador durante quatro anos (2012-2015) no campo de Data Mining. Eventualmente passei a trabalhar como programador freelancer e pesquisador independente, dedicando boa parte do meu tempo a estudos e experimentos com as linguagens de programação Python e JavaScript e seus diversos campos de aplicação. Também trabalhei na indústria de software como desenvolvedor durante o período de (2018-2023) e atualmente sou professor de informática em uma escola.
 
 <b>Conhecimentos</b>
 
