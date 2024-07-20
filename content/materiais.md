@@ -27,7 +27,7 @@ Aqui estarei apresentando materiais educativos que criei para fortalecer nosso c
 
 <b>Criação de Games 2D com JavaScript</b>
 
-<a href="https://github.com/the-akira/JavaScriptGameDev/blob/master/Material/Introduction.pdf"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/GameDev.png" /></a>
+<a href="https://drive.google.com/file/d/18BN63-h_VGwOElTvF7uqqmoXNqNgriCq/view?usp=sharing"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/materials/GameDev.png" /></a>
 
 <b>Informática Básica</b>
 
