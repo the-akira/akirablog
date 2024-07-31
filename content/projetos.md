@@ -106,3 +106,9 @@ Projeto educativo que propõe o ensino da programação através da construção
 Projeto voltado para estudos sobre o desenvolvimento de Games 2D com Python.
 
 <a href="https://github.com/the-akira/PyGameDev"><img src="https://raw.githubusercontent.com/the-akira/PyGameDev/master/Images/avatar.jpg" /></a>
+
+<b><a href="https://cyberunderground.netlify.app/">Cyber Underground</a></b>
+
+Projeto com o propósito de disseminar conhecimentos e obras de arte de diversas culturas.
+
+<a href="https://cyberunderground.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/cyberunderground.png" /></a>
