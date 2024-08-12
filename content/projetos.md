@@ -47,11 +47,11 @@ Um Game de Aventura 2D open-source com finalidade reflexiva e educativa.
 
 <a href="https://thesalvationofzoe.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/zoe.png" /></a>
 
-<b><a href="https://thetwilightofsouls.netlify.app/">The Twilight of Souls</a></b>
+<b><a href="https://alienapocalipse.netlify.app/">Alien Apocalipse</a></b>
 
 Um Game de Sobrevivência 2D experimental e open-source construído com HTML e JavaScript para fins didáticos.
 
-<a href="https://thetwilightofsouls.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/twilight.png" /></a>
+<a href="https://alienapocalipse.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/alien.png" /></a>
 
 <b><a href="https://2dgamemath.netlify.app/">Matemática dos Games 2D</a></b>
 
