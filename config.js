@@ -50,7 +50,7 @@ module.exports = {
   ],
   author: {
     name: 'akira アキラ',
-    photo: '/buddha.jpg',
+    photo: '/eye.jpeg',
     bio: ' O blog akira foi criado com o objetivo de explorar a Ciência da Computação e compartilhar conhecimento; utilizando principalmente a linguagem de programação Python e suas infinitas aplicações; Gosto de abordar temas como Machine Learning, Computação Científica, Desenvolvimento Web e conceitos diversos de Programação e Matemática. Muito obrigado por sua visita e seja bem-vindo!',
     contacts: {
       email: 'gabrielfelippe@outlook.com',
