@@ -116,6 +116,6 @@ Projeto com o propósito de disseminar conhecimentos e obras de arte de diversas
 
 <b><a href="https://arabickeyboard.netlify.app/">Teclado Virtual Árabe</a></b>
 
-Teclado Árabe com o intuito de auxiliar no aprendizado da língua árabe.
+Teclado com o intuito de auxiliar no aprendizado da língua árabe.
 
 <a href="https://arabickeyboard.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/arabic.png" /></a>
