@@ -112,3 +112,10 @@ Projeto voltado para estudos sobre o desenvolvimento de Games 2D com Python.
 Projeto com o propósito de disseminar conhecimentos e obras de arte de diversas culturas.
 
 <a href="https://cyberunderground.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/cyberunderground.png" /></a>
+
+
+<b><a href="https://arabickeyboard.netlify.app/">Teclado Virtual Árabe</a></b>
+
+Teclado Árabe com o intuito de auxiliar no aprendizado da língua árabe.
+
+<a href="https://arabickeyboard.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/arabic.png" /></a>
