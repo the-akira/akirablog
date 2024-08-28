@@ -3,8 +3,8 @@
 
 .author {
   &__photo {
-    width: 145px;
-    height: 145px;
+    width: 200px;
+    height: 200px;
     display: inline-block;
     margin-bottom: 0;
     border-radius: 50%;
@@ -21,7 +21,7 @@
     text-shadow: 3px 3.3px black;
     font-weight: 600;
     @include line-height(1.125);
-    @include margin(.5, 0, .5, 0);
+    @include margin(.7, 0, .5, 0);
 
     &-link {
       color: $color-base;
@@ -42,4 +42,11 @@
     text-align: right;
   }
 
+  @media (max-width: 300px) {
+    &__photo {
+      width: 90%;
+      height: 90%;
+    }
+
+  }
 }
