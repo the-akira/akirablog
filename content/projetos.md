@@ -113,9 +113,14 @@ Projeto com o propósito de disseminar conhecimentos e obras de arte de diversas
 
 <a href="https://cyberunderground.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/cyberunderground.png" /></a>
 
-
 <b><a href="https://arabickeyboard.netlify.app/">Teclado Virtual Árabe</a></b>
 
 Teclado com o intuito de auxiliar no aprendizado da língua árabe.
 
 <a href="https://arabickeyboard.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/arabic.png" /></a>
+
+<b><a href="https://akirasudoku.netlify.app/">Sudoku</a></b>
+
+Implementação do Sudoku com JavaScript, famoso quebra-cabeça combinatório baseado em lógica.
+
+<a href="https://akirasudoku.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/sudoku.png" /></a>
