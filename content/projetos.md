@@ -53,6 +53,18 @@ Um Game de Sobrevivência 2D experimental e open-source construído com HTML e J
 
 <a href="https://thetwilightofsouls.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/twilight.png" /></a>
 
+<b><a href="https://alienapocalipse.netlify.app/">Alien Apocalipse</a></b>
+
+Experimento que busca trazer a nostalgia dos jogos clássicos de aeronave (hardcore).
+
+<a href="https://alienapocalipse.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/alien.png" /></a>
+
+<b><a href="https://xadrezmaster.netlify.app/">Xadrez Master</a></b>
+
+Tentativa de emular este jogo ancestral de estratégia abstrata.
+
+<a href="https://xadrezmaster.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/chess.png" /></a>
+
 <b><a href="https://2dgamemath.netlify.app/">Matemática dos Games 2D</a></b>
 
 Projeto educativo que busca trazer uma visão matemática e intuitiva sobre os Games 2D.
