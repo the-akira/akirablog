@@ -65,6 +65,12 @@ Tentativa de emular este jogo ancestral de estratégia abstrata.
 
 <a href="https://xadrezmaster.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/chess.png" /></a>
 
+<b><a href="https://goboardgame.netlify.app/">Go</a></b>
+
+Construção deste antigo jogo de tabuleiro que recompensa a paciência e a concentração.
+
+<a href="https://goboardgame.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/go.png" /></a>
+
 <b><a href="https://2dgamemath.netlify.app/">Matemática dos Games 2D</a></b>
 
 Projeto educativo que busca trazer uma visão matemática e intuitiva sobre os Games 2D.
