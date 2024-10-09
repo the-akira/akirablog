@@ -124,3 +124,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Vale das Flores Imperecíveis</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/valley.jpeg)
+
+<b>Expansão da Consciência</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/consciousness.jpeg)
