@@ -142,3 +142,9 @@ Teclado com o intuito de auxiliar no aprendizado da língua árabe.
 Implementação do Sudoku com JavaScript, famoso quebra-cabeça combinatório baseado em lógica.
 
 <a href="https://akirasudoku.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/sudoku.png" /></a>
+
+<b><a href="https://kareltherobot.netlify.app/">Karel The Robot</a></b>
+
+Inspirado pelo projeto de Richard Eric Pattis, Karel é uma linguagem de programação educacional para ensinar iniciantes.
+
+<a href="https://kareltherobot.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/karel.png" /></a>
