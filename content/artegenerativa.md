@@ -128,3 +128,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 <b>Expansão da Consciência</b>
 
 ![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/consciousness.jpeg)
+
+<b>Eclipse</b>
+
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eclipse.jpeg)

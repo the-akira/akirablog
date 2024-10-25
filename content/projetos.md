@@ -148,3 +148,9 @@ Implementação do Sudoku com JavaScript, famoso quebra-cabeça combinatório ba
 Inspirado pelo projeto de Richard Eric Pattis, Karel é uma linguagem de programação educacional para ensinar iniciantes.
 
 <a href="https://kareltherobot.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/karel.png" /></a>
+
+<b><a href="https://piano-digital.netlify.app/">Piano Digital</a></b>
+
+Experimentação com a finalidade de emular um simples piano usando JavaScript.
+
+<a href="https://piano-digital.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/piano.png" /></a>
