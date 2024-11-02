@@ -154,3 +154,9 @@ Inspirado pelo projeto de Richard Eric Pattis, Karel é uma linguagem de program
 Experimentação com a finalidade de emular um simples piano usando JavaScript.
 
 <a href="https://piano-digital.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/piano.png" /></a>
+
+<b><a href="https://dictionarysymbols.netlify.app/">Dicionário de Símbolos</a></b>
+
+Projeto destinado a vasculhar o universo dos símbolos e seus mistérios.
+
+<a href="https://dictionarysymbols.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/symbols.png" /></a>
