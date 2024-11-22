@@ -166,3 +166,9 @@ Projeto destinado a vasculhar o universo dos símbolos e seus mistérios.
 Interpretador capaz de compreender a linguagem SACI, atribuída à pesquisa e ensino de conceitos teóricos e práticos das linguagens de programação.
 
 <a href="https://interpretadorsaci.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/saci.png" /></a>
+
+<b><a href="https://mundofractal.netlify.app/">Mundo Fractal</a></b>
+
+Projeto com a intenção de examinar os fractais sob uma perspectiva matemática e artística.
+
+<a href="https://mundofractal.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/fractal.png" /></a>
