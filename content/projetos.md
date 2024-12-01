@@ -172,3 +172,9 @@ Interpretador capaz de compreender a linguagem SACI, atribuída à pesquisa e en
 Projeto com a intenção de examinar os fractais sob uma perspectiva matemática e artística.
 
 <a href="https://mundofractal.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/fractal.png" /></a>
+
+<b><a href="https://arquiteturavonneumann.netlify.app/">Arquitetura de Von Neumann</a></b>
+
+Programa que simula um simples computador clássico com propósito pedagógico visual.
+
+<a href="https://arquiteturavonneumann.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/vonneumann.png" /></a>
