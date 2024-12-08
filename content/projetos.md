@@ -179,7 +179,7 @@ Programa que simula um simples computador clássico com propósito pedagógico v
 
 <a href="https://arquiteturavonneumann.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/vonneumann.png" /></a>
 
-<b><a href="https://appmindmap.netlify.app/">Mind Map</a></b>
+<b><a href="https://appmindmap.netlify.app/">MindMap</a></b>
 
 Aplicativo que nos permite organizar materiais de estudo e ideias com facilidade.
 
