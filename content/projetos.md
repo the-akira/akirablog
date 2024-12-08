@@ -178,3 +178,9 @@ Projeto com a intenção de examinar os fractais sob uma perspectiva matemática
 Programa que simula um simples computador clássico com propósito pedagógico visual.
 
 <a href="https://arquiteturavonneumann.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/vonneumann.png" /></a>
+
+<b><a href="https://appmindmap.netlify.app/">Mind Map</a></b>
+
+Aplicativo que nos permite organizar materiais de estudo e ideias com facilidade.
+
+<a href="https://appmindmap.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/mindmap.png" /></a>
