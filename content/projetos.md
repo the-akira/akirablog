@@ -190,3 +190,9 @@ Aplicativo que nos permite organizar materiais de estudo e ideias com facilidade
 Sistema de Informação Geográfica que permite criar, gerenciar, analisar e mapear dados.
 
 <a href="https://atlas-gis.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/atlas.png" /></a>
+
+<b><a href="https://3dexplorer.netlify.app/">3D Explorer</a></b>
+
+Protótipo de um explorador de gráficos 3D que possibilita a criação de objetos e execução de simulações em três dimensões.
+
+<a href="https://3dexplorer.netlify.app/"><img src="https://raw.githubusercontent.com/the-akira/akirablog/master/static/projects/3dexplorer.png" /></a>
