@@ -7,168 +7,168 @@ Neste espaço apresento alguns desenhos que realizei em momentos de alegria.
 
 <b>Abstrato</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/abstract.png)
+![img](/drawings/abstract.png)
 
 <b>Matemática</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/math.png)
+![img](/drawings/math.png)
 
 <b>Matrix</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/matrix.png)
+![img](/drawings/matrix.png)
 
 <b>Totem Sagrado</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/totem.png)
+![img](/drawings/totem.png)
 
 <b>Unidade</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/unity.png)
+![img](/drawings/unity.png)
 
 <b>Outra Dimensão</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/dimension.png)
+![img](/drawings/dimension.png)
 
 <b>Máquina Secreta</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/machine.png)
+![img](/drawings/machine.png)
 
 <b>Reunião</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/reunion.png)
+![img](/drawings/reunion.png)
 
 <b>Ascensão</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/ascension.png)
+![img](/drawings/ascension.png)
 
 <b>Planeta Ômega</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/omega.png)
+![img](/drawings/omega.png)
 
 <b>Fluxo Natural</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/nature.png)
+![img](/drawings/nature.png)
 
 <b>Diversão entre Amigos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/friends.png)
+![img](/drawings/friends.png)
 
 <b>Alienação</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/alienation.png)
+![img](/drawings/alienation.png)
 
 <b>Insetos Geométricos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/insects.png)
+![img](/drawings/insects.png)
 
 <b>Guardião dos Mistérios</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/key.png)
+![img](/drawings/key.png)
 
 <b>Capela da Restauração da Ordem Divina</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/chapel.png)
+![img](/drawings/chapel.png)
 
 <b>Igreja do Grande Arquiteto do Universo</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/church.png)
+![img](/drawings/church.png)
 
 <b>Mesquita do Profeta Esquecido</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/moske.png)
+![img](/drawings/moske.png)
 
 <b>Templo do Sol Eterno</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/temple.png)
+![img](/drawings/temple.png)
 
 <b>Santuário da Unificação da Consciência</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/sunmoon.png)
+![img](/drawings/sunmoon.png)
 
 <b>Portal Ancestral</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/portal.png)
+![img](/drawings/portal.png)
 
 <b>Memorial à Sacerdotisa Gloriosa</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/memorial.png)
+![img](/drawings/memorial.png)
 
 <b>Coruja Sábia</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/owl.png)
+![img](/drawings/owl.png)
 
 <b>Mágico Aprendiz</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/rabbit.png)
+![img](/drawings/rabbit.png)
 
 <b>Biblioteca Mística</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/library.png)
+![img](/drawings/library.png)
 
 <b>Monumento ao Magnífico Espírito</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/spirit.png)
+![img](/drawings/spirit.png)
 
 <b>Interconexão</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/interconnection.png)
+![img](/drawings/interconnection.png)
 
 <b>Bruxa Visionária</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/witch.png)
+![img](/drawings/witch.png)
 
 <b>Dualidade Holográfica</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/duality.png)
+![img](/drawings/duality.png)
 
 <b>Gerador de Mana</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/mana.png)
+![img](/drawings/mana.png)
 
 <b>Altar da Sabedoria</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/altar.png)
+![img](/drawings/altar.png)
 
 <b>Centro de Estudos Filosóficos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/philosophy.png)
+![img](/drawings/philosophy.png)
 
 <b>Simetria</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/symmetry.png)
+![img](/drawings/symmetry.png)
 
 <b>Hieróglifos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/hieroglyphs.png)
+![img](/drawings/hieroglyphs.png)
 
 <b>Lembrança de Cristo</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/christ.png)
+![img](/drawings/christ.png)
 
 <b>Figuras</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/figures.png)
+![img](/drawings/figures.png)
 
 <b>Formas</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/shapes.png)
+![img](/drawings/shapes.png)
 
 <b>Sigilo da Estrela</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/star.png)
+![img](/drawings/star.png)
 
 <b>Fragmentos</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/fragments.png)
+![img](/drawings/fragments.png)
 
 <b>Harmonia</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/harmony.png)
+![img](/drawings/harmony.png)
 
 <b>Percepção</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/perception.png)
+![img](/drawings/perception.png)
 
 <b>Espelho</b>
 
-![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/drawings/mirror.png)
+![img](/drawings/mirror.png)

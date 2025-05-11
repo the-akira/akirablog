@@ -75,9 +75,9 @@ Ao executarmos nosso script, o email será enviado com sucesso para o endereço 
 
 Imagine que desejamos enviar um email com as seguintes imagens:
 
-![img](https://arquivos.netlify.com/imagem2.jpg)
+![img](https://arquivos.netlify.app/imagem2.jpg)
 
-![img](https://arquivos.netlify.com/imagem.jpg)
+![img](https://arquivos.netlify.app/imagem.jpg)
 
 Salvaremos ambas no mesmo diretório de nosso script Python com os respectivos nomes: `imagem.jpg` e `imagem2.jpg`.
 
