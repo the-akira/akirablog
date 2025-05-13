@@ -7,200 +7,200 @@ Neste espaço apresento pensamentos de grandiosos seres humanos que nos inspiram
 
 <b>Aaron Swartz</b>
 
-![img](/ideas/AaronSwartz.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/AaronSwartz.png)
 
 <b>Albert Camus</b>
 
-![img](/ideas/AlbertCamus.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/AlbertCamus.png)
 
 <b>Albert Einstein</b>
 
-![img](/ideas/AlbertEinstein.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/AlbertEinstein.png)
 
 <b>Aldous Huxley</b>
 
-![img](/ideas/AldousHuxley.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/AldousHuxley.png)
 
 <b>Alice</b>
 
-![img](/ideas/Alice.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Alice.png)
 
 <b>Aristóteles</b>
 
-![img](/ideas/Aristoteles.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Aristoteles.png)
 
 <b>Arquimedes</b>
 
-![img](/ideas/Arquimedes.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Arquimedes.png)
 
 <b>Beethoven</b>
 
-![img](/ideas/Beethoven.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Beethoven.png)
 
 <b>Bram Stoker</b>
 
-![img](/ideas/BramStoker.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/BramStoker.png)
 
 <b>Bruce Lee</b>
 
-![img](/ideas/BruceLee.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/BruceLee.png)
 
 <b>Buda</b>
 
-![img](/ideas/Buda.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Buda.png)
 
 <b>Charlotte Bronte</b>
 
-![img](/ideas/CharlotteBronte.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/CharlotteBronte.png)
 
 <b>Chopin</b>
 
-![img](/ideas/Chopin.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Chopin.png)
 
 <b>Clarice Lispector</b>
 
-![img](/ideas/ClariceLispector.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/ClariceLispector.png)
 
 <b>David Hilbert</b>
 
-![img](/ideas/DavidHilbert.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/DavidHilbert.png)
 
 <b>David Hume</b>
 
-![img](/ideas/DavidHume.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/DavidHume.png)
 
 <b>Demóstenes</b>
 
-![img](/ideas/Demostenes.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Demostenes.png)
 
 <b>Epicteto</b>
 
-![img](/ideas/Epicteto.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Epicteto.png)
 
 <b>Ésquilo</b>
 
-![img](/ideas/Esquilo.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Esquilo.png)
 
 <b>Euclides</b>
 
-![img](/ideas/Euclides.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Euclides.png)
 
 <b>Francis Bacon</b>
 
-![img](/ideas/FrancisBacon.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/FrancisBacon.png)
 
 <b>Friedrich Nietzsche</b>
 
-![img](/ideas/FriedrichNietzsche.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/FriedrichNietzsche.png)
 
 <b>Fyodor Dostoevsky</b>
 
-![img](/ideas/FyodorDostoevsky.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/FyodorDostoevsky.png)
 
 <b>Galileo Galilei</b>
 
-![img](/ideas/GalileoGalilei.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/GalileoGalilei.png)
 
 <b>Gandhi</b>
 
-![img](/ideas/Gandhi.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Gandhi.png)
 
 <b>Gauss</b>
 
-![img](/ideas/Gauss.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Gauss.png)
 
 <b>Goethe</b>
 
-![img](/ideas/Goethe.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Goethe.png)
 
 <b>Heráclito</b>
 
-![img](/ideas/Heraclito.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Heraclito.png)
 
 <b>Immanuel Kant</b>
 
-![img](/ideas/ImmanuelKant.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/ImmanuelKant.png)
 
 <b>Isaac Newton</b>
 
-![img](/ideas/IsaacNewton.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/IsaacNewton.png)
 
 <b>Joana</b>
 
-![img](/ideas/Joana.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Joana.png)
 
 <b>J.R.R. Tolkien</b>
 
-![img](/ideas/Tolkien.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Tolkien.png)
 
 <b>Khalil Gibran</b>
 
-![img](/ideas/KhalilGibran.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/KhalilGibran.png)
 
 <b>Lao Tzu</b>
 
-![img](/ideas/LaoTzu.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/LaoTzu.png)
 
 <b>Leo Tolstoy</b>
 
-![img](/ideas/LeoTolstoy.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/LeoTolstoy.png)
 
 <b>Leonardo da Vinci</b>
 
-![img](/ideas/LeonardoDaVinci.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/LeonardoDaVinci.png)
 
 <b>Ludwig Feuerbach</b>
 
-![img](/ideas/LudwigFeuerbach.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/LudwigFeuerbach.png)
 
 <b>Ludwig Wittgenstein</b>
 
-![img](/ideas/LudwigWittgenstein.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/LudwigWittgenstein.png)
 
 <b>Martin Luther King</b>
 
-![img](/ideas/MLK.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/MLK.png)
 
 <b>Mary Shelley</b>
 
-![img](/ideas/MaryShelley.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/MaryShelley.png)
 
 <b>Michelangelo</b>
 
-![img](/ideas/Michelangelo.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Michelangelo.png)
 
 <b>Paulo Freire</b>
 
-![img](/ideas/PauloFreire.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/PauloFreire.png)
 
 <b>Pierre-Simon Laplace</b>
 
-![img](/ideas/Pierre-SimonLaplace.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Pierre-SimonLaplace.png)
 
 <b>Pitágoras</b>
 
-![img](/ideas/Pitagoras.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Pitagoras.png)
 
 <b>Platão</b>
 
-![img](/ideas/Platao.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Platao.png)
 
 <b>Ray Bradbury</b>
 
-![img](/ideas/RayBradbury.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/RayBradbury.png)
 
 <b>Santo Agostinho</b>
 
-![img](/ideas/SantoAgostinho.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/SantoAgostinho.png)
 
 <b>Sócrates</b>
 
-![img](/ideas/Socrates.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Socrates.png)
 
 <b>Tales</b>
 
-![img](/ideas/Tales.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Tales.png)
 
 <b>Teofrasto</b>
 
-![img](/ideas/Teofrasto.png)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/refs/heads/master/static/ideas/Teofrasto.png)
