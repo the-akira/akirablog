@@ -59,7 +59,7 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 <b>A Poderosa Fênix Flamejante</b>
 
-![img](/aiart/fire.jpeg)
+![img](/aiart/flame.jpeg)
 
 <b>Jack, O Pensador</b>
 
