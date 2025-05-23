@@ -7,128 +7,128 @@ Exponho aqui visões artísticas provindas do espaço latente de infinitas possi
 
 <b>Samuel, O Protetor da Floresta</b>
 
-![img](/aiart/bird.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/bird.jpeg)
 
 <b>Senhor das Trevas Zuijh'dru</b>
 
-![img](/aiart/beast.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/beast.jpeg)
 
 <b>Uriel, O Observador</b>
 
-![img](/aiart/cat.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/cat.jpeg)
 
 <b>Jornada Sem Fim</b>
 
-![img](/aiart/journey.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/journey.jpeg)
 
 <b>Sacerdotes do Antigo Egito</b>
 
-![img](/aiart/egypt.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/egypt.jpeg)
 
 <b>Raphael, O Guardião do Portal Eterno</b>
 
-![img](/aiart/portal.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/portal.jpeg)
 
 <b>Melancolia</b>
 
-![img](/aiart/melancholy.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/melancholy.jpeg)
 
 <b>Família Coruja</b>
 
-![img](/aiart/forest.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/forest.jpeg)
 
 <b>Merlin, o Druida</b>
 
-![img](/aiart/merlin.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/merlin.jpeg)
 
 <b>Fé, Esperança e Integridade</b>
 
-![img](/aiart/occult.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/occult.jpeg)
 
 <b>Francisco, O Fiel Sentinela</b>
 
-![img](/aiart/eagle.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eagle.jpeg)
 
 <b>Arquimedes, O Extraordinário Matemático</b>
 
-![img](/aiart/mathematician.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mathematician.jpeg)
 
 <b>Coragem, União e Respeito</b>
 
-![img](/aiart/crow.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/crow.jpeg)
 
 <b>A Poderosa Fênix Flamejante</b>
 
-![img](/aiart/flame.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/flame.jpeg)
 
 <b>Jack, O Pensador</b>
 
-![img](/aiart/rabbit.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/rabbit.jpeg)
 
 <b>Isis e o Enigma da Pirâmide</b>
 
-![img](/aiart/isis.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/isis.jpeg)
 
 <b>Fortaleza da Alma</b>
 
-![img](/aiart/keep.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/keep.jpeg)
 
 <b>O Mundo Mágico de Ignatius</b>
 
-![img](/aiart/skeleton.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/skeleton.jpeg)
 
 <b>Jorge, O Espírito Defensor da Natureza</b>
 
-![img](/aiart/spirit.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/spirit.jpeg)
 
 <b>A Visão Misteriosa de Daniel</b>
 
-![img](/aiart/swan.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/swan.jpeg)
 
 <b>O Viajante das Galáxias</b>
 
-![img](/aiart/traveler.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/traveler.jpeg)
 
 <b>Luz</b>
 
-![img](/aiart/life.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/life.jpeg)
 
 <b>Sebastian, O Bruxo</b>
 
-![img](/aiart/wizard.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/wizard.jpeg)
 
 <b>Mago Ancião</b>
 
-![img](/aiart/mage.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/mage.jpeg)
 
 <b>O Eremita do Bosque Ancestral</b>
 
-![img](/aiart/dungeon.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/dungeon.jpeg)
 
 <b>O Olho Vigilante</b>
 
-![img](/aiart/eye.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eye.jpeg)
 
 <b>Coração Sagrado</b>
 
-![img](/aiart/heart.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/heart.jpeg)
 
 <b>Paz, Amor e Conhecimento</b>
 
-![img](/aiart/knowledge.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/knowledge.jpeg)
 
 <b>Solidão</b>
 
-![img](/aiart/loneliness.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/loneliness.jpeg)
 
 <b>Vale das Flores Imperecíveis</b>
 
-![img](/aiart/valley.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/valley.jpeg)
 
 <b>Expansão da Consciência</b>
 
-![img](/aiart/consciousness.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/consciousness.jpeg)
 
 <b>Eclipse</b>
 
-![img](/aiart/eclipse.jpeg)
+![img](https://raw.githubusercontent.com/the-akira/akirablog/master/static/aiart/eclipse.jpeg)
