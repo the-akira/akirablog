@@ -20,7 +20,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Santa Cata
 
 O blog akira foi criado com o intuito de compartilhar conhecimentos e trazer conteúdos educativos para a comunidade open-source de língua portuguesa, também é uma forma de agradecer por todo o conhecimento que adquiri na Internet nesses últimos 20 anos. O nome do blog é uma homenagem a grande obra de Katsuhiro Otomo, ao qual eu admiro muito por sua expressividade. 
 
-<figure class="float-right" style="width: 400px">
+<figure style="margin: 0 auto; width: 550px; max-width: 100%;">
 	<a href="https://en.wikipedia.org/wiki/Akira_(1988_film)"><img src="/media/akira.jpg" alt="Neo-Tokyo"></a>
 	<figcaption><a href="https://en.wikipedia.org/wiki/Akira_(1988_film)">conheça mais sobre <b>akira</b></a></figcaption>
 </figure>
