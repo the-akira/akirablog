@@ -14,7 +14,7 @@ Meu nome é Gabriel Felippe, sou cientista da computação natural de Santa Cata
   - **Bibliotecas e Frameworks:** Bootstrap, Flask, Django, Pandas, Scikit-Learn, Keras, Matplotlib, Beautifulsoup, Pygame;
   - **Ferramentas:** Command Line Interface, Sublime Text, Visual Studio, Stack Overflow, ChatGPT, Google Chrome, Git, Docker, Jupyter Lab, Microsoft Excel;
   - **Sistemas Operacionais:** Ubuntu, Linux Mint, Windows Systems;
-  - **Campos de Interesse:** Desenvolvimento de Software, Inteligência Artificial, Análise e Manipulação de Dados, Matemática, Games, Filosofia;
+  - **Campos de Interesse:** Desenvolvimento de Software, Inteligência Artificial, Ciência de Dados, Matemática, Games, Filosofia;
 
 <b>Projeto</b>
 
