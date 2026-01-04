@@ -1526,7 +1526,7 @@ FPS = 60
 
 Essas constantes facilitam ajustes futuros e tornam o código mais organizado, centralizando valores importantes como:
 
-- **SCREEN_WIDTH e SCREEN_HEIGHT:** Definem a largura e a altura da janela do jogo, em pixels. Neste projeto, a tela possui 800×640 pixels.
+- **SCREEN_WIDTH** e **SCREEN_HEIGHT:** Definem a largura e a altura da janela do jogo, em pixels. Neste projeto, a tela possui 800×640 pixels.
 - **SCREEN_SIZE:** Cria um objeto `pygame.Rect` que representa a área visível da tela. Esse retângulo pode ser utilizado para cálculos de câmera, limites de tela e centralização de elementos.
 - **INITIAL_POS:** Define a posição inicial do jogador no mapa, em coordenadas (x, y). Esse valor foi escolhido para posicionar o personagem em um ponto seguro do cenário ao iniciar o jogo.
 - **BACKGROUND_BLUE:** Define a cor de fundo da tela no formato RGB. Neste caso, é um tom de azul usado para representar o céu.
