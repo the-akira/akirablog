@@ -228,7 +228,7 @@ Imediamente podemos observar que a cor de nossa tela irá alterar para cinza:
 
 ![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/turtle/Imagens/color.png)
 
-Neste caso estamos usando a cor *gray* (cinza), também podemos usar cores como *green* (verde) e *red* (vermelho). Neste site você pode ver uma lista com diversos nomes de cores: [Trinket.io](https://trinket.io/docs/colors)
+Neste caso estamos usando a cor *gray* (cinza), também podemos usar cores como *green* (verde) e *red* (vermelho). Neste site você pode ver uma lista com diversos nomes de cores: [Coddy](https://coddy.tech/tools/pt/color-converter#named-colors)
 
 Além disso, é possível informarmos o [valor hexadecimal](https://en.wikipedia.org/wiki/Web_colors) de uma cor. Portanto, se quisermos retornar para o branco, podemos digitar um dos seguintes comandos:
 
